@@ -1,0 +1,19 @@
+baseURL = "https://fr.shoogle.net/nord-pas-de-calais"
+languageCode = "fr"
+title = "Nord-Pas-de-Calais"
+theme = "ln-base"
+
+disableKinds = ["RSS", "robotsTXT"]
+enableGitInfo = true
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "nord-pas-de-calais"
+
+[taxonomies]
+  shop = "shops"
