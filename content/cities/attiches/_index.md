@@ -1,6 +1,6 @@
 ---
 title: Attiches
 url: /attiches/
-latitude: 50.5156976
-longitude: 3.0597358000000003
+latitude: 50.522162400000006
+longitude: 3.0584663
 ---
