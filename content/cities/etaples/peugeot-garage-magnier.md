@@ -1,5 +1,5 @@
 ---
-title: "Peugeot - GARAGE MAGNIER"
+title: "Peugeot - Garage Magnier"
 url: /etaples/peugeot-garage-magnier/
 shop: voiture
 ---

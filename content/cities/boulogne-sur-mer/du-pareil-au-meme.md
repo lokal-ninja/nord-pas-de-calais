@@ -1,5 +1,5 @@
 ---
-title: "Du Pareil Au Meme"
+title: "Du Pareil au Même"
 url: /boulogne-sur-mer/du-pareil-au-meme/
 shop: vêtements
 ---
