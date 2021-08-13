@@ -1,5 +1,5 @@
 ---
-title: "la commode de Louise"
+title: "La commode de Louise"
 url: /zegerscappel/la-commode-de-louise/
 shop: vêtements
 ---
