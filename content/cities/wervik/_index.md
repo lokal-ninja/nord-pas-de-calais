@@ -1,6 +1,6 @@
 ---
 title: Wervik
 url: /wervik/
-latitude: 50.7780196
-longitude: 3.043836
+latitude: 50.778224400000006
+longitude: 3.0439698
 ---

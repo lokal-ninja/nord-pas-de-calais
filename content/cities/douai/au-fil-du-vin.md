@@ -1,5 +1,5 @@
 ---
-title: "Au fil du vin"
+title: "Au Fil du Vin"
 url: /douai/au-fil-du-vin/
 shop: vin
 ---

@@ -1,6 +1,6 @@
 ---
-title: LENS
+title: Lens
 url: /lens/
-latitude: 
-longitude: 
+latitude: 50.429172300000005
+longitude: 2.8319805000000002
 ---

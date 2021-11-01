@@ -1,5 +1,5 @@
 ---
-title: "IKKS"
+title: "Ikks"
 url: /villeneuve-dascq/ikks/
 shop: vêtements
 ---
