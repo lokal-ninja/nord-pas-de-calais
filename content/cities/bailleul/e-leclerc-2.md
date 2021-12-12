@@ -1,5 +1,5 @@
 ---
 title: "E. Leclerc"
 url: /bailleul/e-leclerc-2/
-shop: shop
+shop: supermarché
 ---

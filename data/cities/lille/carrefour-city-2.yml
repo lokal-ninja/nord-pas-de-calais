@@ -1,11 +1,11 @@
-id: 5455331784
-type: node
-latitude: 50.6355808
-longitude: 3.0709563
-postcode: "59800"
+id: 84939629
+type: way
+latitude: 50.642249500000005
+longitude: 3.0849748000000004
+postcode: "59000"
 city: Lille
-street: "Rue de Tournai"
-housenumber: 23
-phone: "+33 3 20 12 02 08"
-opening_hours: "Mo-Sa 07:00-22:00, Su 09:00-13:00"
-website: ""
+street: "Rue du Faubourg de Roubaix"
+housenumber: 151
+phone: "+33 3 20 13 02 69"
+opening_hours: "Mo-Sa 07:00-22:00; Su 09:00-13:00"
+website: "https://www.carrefour.fr/magasin/city-lille-faubourg-de-roubaix"
