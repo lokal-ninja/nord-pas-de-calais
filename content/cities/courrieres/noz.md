@@ -1,5 +1,5 @@
 ---
-title: "Noz"
+title: "NOZ"
 url: /courrieres/noz/
-shop: shop
+shop: magasin de variétés
 ---
