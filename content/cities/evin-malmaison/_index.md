@@ -1,6 +1,6 @@
 ---
 title: Evin Malmaison
 url: /evin-malmaison/
-latitude: 
-longitude: 
+latitude: 50.431
+longitude: 3.032
 ---

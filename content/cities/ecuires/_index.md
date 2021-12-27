@@ -1,6 +1,6 @@
 ---
 title: Écuires
 url: /ecuires/
-latitude: 50.4446893
-longitude: 1.7639661000000002
+latitude: 50.454
+longitude: 1.755
 ---

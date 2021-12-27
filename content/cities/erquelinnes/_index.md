@@ -1,6 +1,6 @@
 ---
 title: Erquelinnes
 url: /erquelinnes/
-latitude: 
-longitude: 
+latitude: 50.304
+longitude: 4.11
 ---

@@ -1,6 +1,6 @@
 ---
 title: Lesquin
 url: /lesquin/
-latitude: 50.588800000000006
-longitude: 3.10997
+latitude: 50.59
+longitude: 3.088
 ---

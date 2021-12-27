@@ -1,6 +1,6 @@
 ---
 title: Coulogne
 url: /coulogne/
-latitude: 50.92574320000001
-longitude: 1.8840904
+latitude: 50.926
+longitude: 1.879
 ---

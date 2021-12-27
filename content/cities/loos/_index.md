@@ -1,6 +1,6 @@
 ---
 title: Loos
 url: /loos/
-latitude: 50.609208200000005
-longitude: 3.0162523
+latitude: 50.615
+longitude: 3.026
 ---

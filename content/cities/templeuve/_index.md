@@ -1,6 +1,6 @@
 ---
 title: Templeuve
 url: /templeuve/
-latitude: 
-longitude: 
+latitude: 50.639
+longitude: 3.257
 ---

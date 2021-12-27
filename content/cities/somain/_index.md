@@ -1,6 +1,6 @@
 ---
 title: Somain
 url: /somain/
-latitude: 50.358923700000005
-longitude: 3.2810972
+latitude: 50.358
+longitude: 3.279
 ---

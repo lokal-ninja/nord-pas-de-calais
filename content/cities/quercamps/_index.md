@@ -1,6 +1,6 @@
 ---
 title: Quercamps
 url: /quercamps/
-latitude: 50.7530742
-longitude: 2.0510106
+latitude: 50.753
+longitude: 2.049
 ---

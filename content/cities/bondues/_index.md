@@ -1,6 +1,6 @@
 ---
 title: Bondues
 url: /bondues/
-latitude: 50.703462200000004
-longitude: 3.0921638000000002
+latitude: 50.703
+longitude: 3.097
 ---

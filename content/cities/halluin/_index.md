@@ -1,6 +1,6 @@
 ---
 title: Halluin
 url: /halluin/
-latitude: 50.7826693
-longitude: 3.1249234
+latitude: 50.788
+longitude: 3.14
 ---

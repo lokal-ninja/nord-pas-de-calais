@@ -1,6 +1,6 @@
 ---
 title: Seclin
 url: /seclin/
-latitude: 
-longitude: 
+latitude: 50.552
+longitude: 3.05
 ---

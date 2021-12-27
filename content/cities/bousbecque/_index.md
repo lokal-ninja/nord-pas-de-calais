@@ -1,6 +1,6 @@
 ---
 title: Bousbecque
 url: /bousbecque/
-latitude: 50.772085600000004
-longitude: 3.076757
+latitude: 50.772
+longitude: 3.078
 ---

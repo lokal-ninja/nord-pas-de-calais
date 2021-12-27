@@ -1,6 +1,6 @@
 ---
 title: Bruay-la-Buissière
 url: /bruay-la-buissiere/
-latitude: 
-longitude: 
+latitude: 50.477
+longitude: 2.534
 ---

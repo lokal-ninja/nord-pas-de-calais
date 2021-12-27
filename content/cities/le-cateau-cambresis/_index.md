@@ -1,6 +1,6 @@
 ---
 title: Le Cateau-Cambrésis
 url: /le-cateau-cambresis/
-latitude: 50.1058353
-longitude: 3.5417479000000003
+latitude: 50.104
+longitude: 3.543
 ---

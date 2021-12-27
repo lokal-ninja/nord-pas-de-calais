@@ -1,6 +1,6 @@
 ---
 title: Aulnoye-Aymeries
 url: /aulnoye-aymeries/
-latitude: 50.200250200000006
-longitude: 3.8336383
+latitude: 50.198
+longitude: 3.843
 ---

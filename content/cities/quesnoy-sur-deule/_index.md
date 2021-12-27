@@ -1,6 +1,6 @@
 ---
 title: Quesnoy-sur-Deûle
 url: /quesnoy-sur-deule/
-latitude: 50.7121678
-longitude: 3.0008466
+latitude: 50.713
+longitude: 2.999
 ---

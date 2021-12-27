@@ -1,6 +1,6 @@
 ---
 title: Escaudain
 url: /escaudain/
-latitude: 
-longitude: 
+latitude: 50.335
+longitude: 3.344
 ---

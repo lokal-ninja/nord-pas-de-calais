@@ -1,6 +1,6 @@
 ---
 title: Basseux
 url: /basseux/
-latitude: 50.225691100000006
-longitude: 2.644203
+latitude: 50.228
+longitude: 2.642
 ---

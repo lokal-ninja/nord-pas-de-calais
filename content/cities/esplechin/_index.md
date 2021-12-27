@@ -1,6 +1,6 @@
 ---
 title: Esplechin
 url: /esplechin/
-latitude: 
-longitude: 
+latitude: 50.586
+longitude: 3.278
 ---

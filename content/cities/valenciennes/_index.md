@@ -1,6 +1,6 @@
 ---
 title: Valenciennes
 url: /valenciennes/
-latitude: 
-longitude: 
+latitude: 50.343
+longitude: 3.517
 ---

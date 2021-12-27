@@ -1,6 +1,6 @@
 ---
 title: Essars
 url: /essars/
-latitude: 
-longitude: 
+latitude: 50.543
+longitude: 2.652
 ---

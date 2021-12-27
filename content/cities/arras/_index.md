@@ -1,6 +1,6 @@
 ---
 title: Arras
 url: /arras/
-latitude: 50.291048
-longitude: 2.7772211
+latitude: 50.3
+longitude: 2.733
 ---

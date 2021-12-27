@@ -1,6 +1,6 @@
 ---
 title: Bellignies
 url: /bellignies/
-latitude: 50.3266646
-longitude: 3.7707428000000003
+latitude: 50.326
+longitude: 3.771
 ---

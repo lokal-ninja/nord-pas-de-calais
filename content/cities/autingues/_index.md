@@ -1,6 +1,6 @@
 ---
 title: Autingues
 url: /autingues/
-latitude: 50.8421212
-longitude: 1.9850716000000002
+latitude: 50.851
+longitude: 1.987
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ardres
 url: /ardres/
-latitude: 50.8536324
-longitude: 1.9786068
+latitude: 50.855
+longitude: 1.977
 ---

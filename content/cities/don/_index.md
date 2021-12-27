@@ -1,6 +1,6 @@
 ---
 title: Don
 url: /don/
-latitude: 50.5461539
-longitude: 2.9158784
+latitude: 50.549
+longitude: 2.92
 ---

@@ -1,6 +1,6 @@
 ---
 title: Rœulx
 url: /roeulx/
-latitude: 50.3075282
-longitude: 3.3344358
+latitude: 50.31
+longitude: 3.336
 ---

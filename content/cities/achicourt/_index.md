@@ -1,6 +1,6 @@
 ---
 title: Achicourt
 url: /achicourt/
-latitude: 50.2731465
-longitude: 2.7578569
+latitude: 50.272
+longitude: 2.756
 ---

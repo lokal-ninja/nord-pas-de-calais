@@ -1,6 +1,6 @@
 ---
 title: Herseaux
 url: /herseaux/
-latitude: 
-longitude: 
+latitude: 50.711
+longitude: 3.22
 ---

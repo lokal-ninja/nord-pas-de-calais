@@ -1,6 +1,6 @@
 ---
 title: Herseauc
 url: /herseauc/
-latitude: 
-longitude: 
+latitude: 50.712
+longitude: 3.22
 ---

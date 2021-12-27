@@ -1,6 +1,6 @@
 ---
 title: Hantay
 url: /hantay/
-latitude: 50.533967700000005
-longitude: 2.8675116000000003
+latitude: 50.538
+longitude: 2.878
 ---

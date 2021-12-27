@@ -1,6 +1,6 @@
 ---
 title: Linselles
 url: /linselles/
-latitude: 50.737818000000004
-longitude: 3.0794271
+latitude: 50.737
+longitude: 3.078
 ---

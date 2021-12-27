@@ -1,6 +1,6 @@
 ---
 title: Rainsars
 url: /rainsars/
-latitude: 50.070759100000004
-longitude: 3.9918246
+latitude: 50.066
+longitude: 3.992
 ---

@@ -1,6 +1,6 @@
 ---
 title: Poperinge
 url: /poperinge/
-latitude: 
-longitude: 
+latitude: 50.818
+longitude: 2.678
 ---

@@ -1,6 +1,6 @@
 ---
 title: Sequedin
 url: /sequedin/
-latitude: 50.625315900000004
-longitude: 2.9821639
+latitude: 50.629
+longitude: 2.975
 ---

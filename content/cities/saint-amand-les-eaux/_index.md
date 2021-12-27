@@ -1,6 +1,6 @@
 ---
 title: Saint-Amand-les-Eaux
 url: /saint-amand-les-eaux/
-latitude: 50.449151900000004
-longitude: 3.4281142
+latitude: 50.447
+longitude: 3.431
 ---

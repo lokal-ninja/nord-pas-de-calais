@@ -1,6 +1,6 @@
 ---
 title: Croix
 url: /croix/
-latitude: 50.6802124
-longitude: 3.1564365000000003
+latitude: 50.682
+longitude: 3.159
 ---

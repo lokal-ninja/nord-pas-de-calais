@@ -1,6 +1,6 @@
 ---
 title: Neuville-en-Ferrain
 url: /neuville-en-ferrain/
-latitude: 50.7502701
-longitude: 3.1525135000000004
+latitude: 50.744
+longitude: 3.148
 ---

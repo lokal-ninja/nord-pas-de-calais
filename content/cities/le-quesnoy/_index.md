@@ -1,6 +1,6 @@
 ---
 title: le quesnoy
 url: /le-quesnoy/
-latitude: 
-longitude: 
+latitude: 50.258
+longitude: 3.631
 ---

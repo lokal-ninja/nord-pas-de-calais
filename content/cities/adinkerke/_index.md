@@ -1,6 +1,6 @@
 ---
 title: Adinkerke
 url: /adinkerke/
-latitude: 
-longitude: 
+latitude: 51.07
+longitude: 2.561
 ---

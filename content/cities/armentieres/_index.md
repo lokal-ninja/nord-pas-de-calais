@@ -1,6 +1,6 @@
 ---
 title: Armentières
 url: /armentieres/
-latitude: 50.6867281
-longitude: 2.882169
+latitude: 50.687
+longitude: 2.881
 ---

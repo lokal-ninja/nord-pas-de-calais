@@ -1,6 +1,6 @@
 ---
 title: Sangatte
 url: /sangatte/
-latitude: 50.945803700000006
-longitude: 1.753713
+latitude: 50.958
+longitude: 1.821
 ---

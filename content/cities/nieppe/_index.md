@@ -1,6 +1,6 @@
 ---
 title: Nieppe
 url: /nieppe/
-latitude: 50.703612
-longitude: 2.8403065
+latitude: 50.685
+longitude: 2.839
 ---

@@ -1,6 +1,6 @@
 ---
 title: Coudekerque
 url: /coudekerque/
-latitude: 
-longitude: 
+latitude: 51.023
+longitude: 2.368
 ---

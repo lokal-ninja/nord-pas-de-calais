@@ -1,6 +1,6 @@
 ---
 title: Beaurieux
 url: /beaurieux/
-latitude: 50.1803922
-longitude: 4.1348644000000006
+latitude: 50.176
+longitude: 4.127
 ---

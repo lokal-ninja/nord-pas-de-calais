@@ -1,6 +1,6 @@
 ---
 title: Saint-Martin-lez-Tatinghem
 url: /saint-martin-lez-tatinghem/
-latitude: 
-longitude: 
+latitude: 50.761
+longitude: 2.223
 ---

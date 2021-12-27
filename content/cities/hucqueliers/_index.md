@@ -1,6 +1,6 @@
 ---
 title: Hucqueliers
 url: /hucqueliers/
-latitude: 50.568560500000004
-longitude: 1.9069042
+latitude: 50.568
+longitude: 1.905
 ---

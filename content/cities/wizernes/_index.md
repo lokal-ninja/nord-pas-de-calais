@@ -1,6 +1,6 @@
 ---
 title: Wizernes
 url: /wizernes/
-latitude: 50.709962000000004
-longitude: 2.2283996
+latitude: 50.71
+longitude: 2.228
 ---

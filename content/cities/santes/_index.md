@@ -1,6 +1,6 @@
 ---
 title: Santes
 url: /santes/
-latitude: 50.5977229
-longitude: 2.955471
+latitude: 50.593
+longitude: 2.963
 ---

@@ -1,6 +1,6 @@
 ---
 title: Norrent-Fontes
 url: /norrent-fontes/
-latitude: 50.585551800000005
-longitude: 2.410162
+latitude: 50.59
+longitude: 2.405
 ---

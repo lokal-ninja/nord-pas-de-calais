@@ -1,6 +1,6 @@
 ---
 title: Fretin
 url: /fretin/
-latitude: 50.5595962
-longitude: 3.1350524
+latitude: 50.574
+longitude: 3.135
 ---

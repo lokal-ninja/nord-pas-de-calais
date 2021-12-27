@@ -1,6 +1,6 @@
 ---
 title: Labourse
 url: /labourse/
-latitude: 50.497297800000005
-longitude: 2.6798650000000004
+latitude: 50.499
+longitude: 2.681
 ---

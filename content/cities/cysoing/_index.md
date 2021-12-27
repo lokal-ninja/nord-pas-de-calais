@@ -1,6 +1,6 @@
 ---
 title: Cysoing
 url: /cysoing/
-latitude: 50.5677767
-longitude: 3.2154890000000003
+latitude: 50.57
+longitude: 3.211
 ---

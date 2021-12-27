@@ -1,6 +1,6 @@
 ---
 title: Auchy-lès-Hesdin
 url: /auchy-les-hesdin/
-latitude: 50.398822800000005
-longitude: 2.1019554
+latitude: 50.4
+longitude: 2.102
 ---

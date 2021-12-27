@@ -1,6 +1,6 @@
 ---
 title: Noyelles-Godault
 url: /noyelles-godault/
-latitude: 50.419769
-longitude: 2.996459
+latitude: 50.416
+longitude: 2.98
 ---

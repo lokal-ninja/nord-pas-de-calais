@@ -1,6 +1,6 @@
 ---
 title: Menen
 url: /menen/
-latitude: 
-longitude: 
+latitude: 50.79
+longitude: 3.14
 ---

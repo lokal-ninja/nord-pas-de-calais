@@ -1,6 +1,6 @@
 ---
 title: Coutiches
 url: /coutiches/
-latitude: 50.452429800000004
-longitude: 3.2015337
+latitude: 50.44
+longitude: 3.185
 ---

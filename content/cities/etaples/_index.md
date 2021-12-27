@@ -1,6 +1,6 @@
 ---
 title: Étaples
 url: /etaples/
-latitude: 
-longitude: 
+latitude: 50.526
+longitude: 1.628
 ---

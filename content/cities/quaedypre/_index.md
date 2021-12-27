@@ -1,6 +1,6 @@
 ---
 title: Quaëdypre
 url: /quaedypre/
-latitude: 50.9353946
-longitude: 2.4556326
+latitude: 50.93
+longitude: 2.488
 ---

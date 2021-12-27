@@ -1,6 +1,6 @@
 ---
 title: Wingles
 url: /wingles/
-latitude: 50.4953
-longitude: 2.85813
+latitude: 50.495
+longitude: 2.856
 ---

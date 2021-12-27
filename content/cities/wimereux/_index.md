@@ -1,6 +1,6 @@
 ---
 title: Wimereux
 url: /wimereux/
-latitude: 
-longitude: 
+latitude: 50.778
+longitude: 1.612
 ---

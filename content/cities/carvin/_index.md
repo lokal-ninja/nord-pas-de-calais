@@ -1,6 +1,6 @@
 ---
 title: Carvin
 url: /carvin/
-latitude: 
-longitude: 
+latitude: 50.481
+longitude: 2.937
 ---

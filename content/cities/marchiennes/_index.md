@@ -1,6 +1,6 @@
 ---
 title: Marchiennes
 url: /marchiennes/
-latitude: 50.4075026
-longitude: 3.2825837
+latitude: 50.408
+longitude: 3.277
 ---

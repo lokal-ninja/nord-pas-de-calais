@@ -1,6 +1,6 @@
 ---
 title: Preures
 url: /preures/
-latitude: 50.571740000000005
-longitude: 1.87673
+latitude: 50.572
+longitude: 1.875
 ---

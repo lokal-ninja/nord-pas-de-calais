@@ -1,6 +1,6 @@
 ---
 title: Saint-Jans-Cappel
 url: /saint-jans-cappel/
-latitude: 50.7639554
-longitude: 2.7212622
+latitude: 50.764
+longitude: 2.721
 ---

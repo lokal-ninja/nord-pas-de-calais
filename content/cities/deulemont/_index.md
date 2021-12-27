@@ -1,6 +1,6 @@
 ---
 title: Deulêmont
 url: /deulemont/
-latitude: 
-longitude: 
+latitude: 50.725
+longitude: 2.95
 ---

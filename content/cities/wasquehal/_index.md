@@ -1,6 +1,6 @@
 ---
 title: Wasquehal
 url: /wasquehal/
-latitude: 
-longitude: 
+latitude: 50.682
+longitude: 3.127
 ---

@@ -1,6 +1,6 @@
 ---
 title: Wervicq-Sud
 url: /wervicq-sud/
-latitude: 50.772887100000005
-longitude: 3.0497929000000004
+latitude: 50.771
+longitude: 3.042
 ---

@@ -1,6 +1,6 @@
 ---
 title: Noordpeene
 url: /noordpeene/
-latitude: 50.8058825
-longitude: 2.3963033
+latitude: 50.806
+longitude: 2.394
 ---

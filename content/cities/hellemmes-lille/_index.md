@@ -1,6 +1,6 @@
 ---
 title: Hellemmes-Lille
 url: /hellemmes-lille/
-latitude: 
-longitude: 
+latitude: 50.628
+longitude: 3.111
 ---

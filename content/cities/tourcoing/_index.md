@@ -1,6 +1,6 @@
 ---
 title: Tourcoing
 url: /tourcoing/
-latitude: 50.7235038
-longitude: 3.1605714000000003
+latitude: 50.72
+longitude: 3.162
 ---
