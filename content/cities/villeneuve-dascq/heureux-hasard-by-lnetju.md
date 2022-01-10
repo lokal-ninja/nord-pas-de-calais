@@ -1,5 +1,5 @@
 ---
 title: "Heureux Hasard By Ln&Ju"
-url: /villeneuve-dascq/heureux-hasard-by-lnandju/
+url: /villeneuve-dascq/heureux-hasard-by-lnetju/
 shop: vêtements
 ---

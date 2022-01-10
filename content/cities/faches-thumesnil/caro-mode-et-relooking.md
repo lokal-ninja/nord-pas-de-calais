@@ -1,5 +1,5 @@
 ---
 title: "Caro Mode & relooking"
-url: /faches-thumesnil/caro-mode-and-relooking/
+url: /faches-thumesnil/caro-mode-et-relooking/
 shop: vêtements
 ---

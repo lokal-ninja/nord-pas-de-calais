@@ -1,5 +1,5 @@
 ---
 title: "H&H"
-url: /bruay-la-buissiere/handh/
+url: /bruay-la-buissiere/heth/
 shop: meubles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RART Beaux arts & Encadrement"
-url: /capinghem/rart-beaux-arts-and-encadrement/
+url: /capinghem/rart-beaux-arts-et-encadrement/
 shop: artisanat
 ---

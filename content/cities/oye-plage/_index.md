@@ -1,6 +1,6 @@
 ---
 title: Oye-Plage
 url: /oye-plage/
-latitude: 50.979
-longitude: 2.047
+latitude: 50.968
+longitude: 2.053
 ---

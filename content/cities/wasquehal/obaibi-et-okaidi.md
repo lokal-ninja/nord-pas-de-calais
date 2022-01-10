@@ -1,5 +1,5 @@
 ---
 title: "Obaïbi & Okaïdi"
-url: /wasquehal/obaibi-and-okaidi/
+url: /wasquehal/obaibi-et-okaidi/
 shop: vêtements
 ---

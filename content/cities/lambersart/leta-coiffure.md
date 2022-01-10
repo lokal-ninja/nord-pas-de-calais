@@ -1,5 +1,5 @@
 ---
 title: "L&A Coiffure"
-url: /lambersart/landa-coiffure/
+url: /lambersart/leta-coiffure/
 shop: coiffeur
 ---

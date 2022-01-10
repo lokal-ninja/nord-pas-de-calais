@@ -1,5 +1,5 @@
 ---
 title: "& + si affinités"
-url: /villeneuve-dascq/and-si-affinites/
+url: /villeneuve-dascq/et-si-affinites/
 shop: décoration intérieure
 ---

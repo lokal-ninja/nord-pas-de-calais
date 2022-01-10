@@ -1,5 +1,5 @@
 ---
 title: "Keria Luminaires & Monteleone"
-url: /villeneuve-dascq/keria-luminaires-and-monteleone/
+url: /villeneuve-dascq/keria-luminaires-et-monteleone/
 shop: lampes
 ---

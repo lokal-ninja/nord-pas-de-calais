@@ -1,6 +1,6 @@
 ---
 title: Lambersart
 url: /lambersart/
-latitude: 50.652
-longitude: 3.023
+latitude: 50.658
+longitude: 3.036
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pétillante & Craquante"
-url: /etaples/petillante-and-craquante/
+url: /etaples/petillante-et-craquante/
 shop: beauté
 ---

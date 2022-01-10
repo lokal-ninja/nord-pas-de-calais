@@ -1,5 +1,5 @@
 ---
 title: "Fleurs & Sève"
-url: /rosult/fleurs-and-seve/
+url: /rosult/fleurs-et-seve/
 shop: fleuriste
 ---

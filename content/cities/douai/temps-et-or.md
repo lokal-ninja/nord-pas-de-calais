@@ -1,5 +1,5 @@
 ---
 title: "Temps & Or"
-url: /douai/temps-and-or/
+url: /douai/temps-et-or/
 shop: bijoux
 ---

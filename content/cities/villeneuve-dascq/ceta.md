@@ -1,5 +1,5 @@
 ---
 title: "C&A"
-url: /villeneuve-dascq/canda/
+url: /villeneuve-dascq/ceta/
 shop: vêtements
 ---
