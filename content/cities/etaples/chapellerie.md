@@ -1,5 +1,5 @@
 ---
 title: "Chapellerie"
 url: /etaples/chapellerie/
-shop: shop
+shop: boutique
 ---
