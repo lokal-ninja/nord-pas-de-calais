@@ -1,5 +1,5 @@
 ---
-title: "Boulangerie Patisserie Naulet"
+title: "Boulangerie Patisserie NAULET"
 url: /burbure/boulangerie-patisserie-naulet/
 shop: boulangerie
 ---

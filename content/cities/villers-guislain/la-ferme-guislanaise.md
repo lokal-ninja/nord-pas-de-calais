@@ -1,5 +1,5 @@
 ---
-title: "La Ferme Guislanaise"
+title: "la ferme guislanaise"
 url: /villers-guislain/la-ferme-guislanaise/
 shop: ferme
 ---
