@@ -1,6 +1,6 @@
 ---
-title: Saint-Omer
+title: SAINT-OMER
 url: /saint-omer/
-latitude: 50.745
-longitude: 2.254
+latitude: 50.755
+longitude: 2.27
 ---
