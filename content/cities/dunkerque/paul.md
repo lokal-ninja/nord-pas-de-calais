@@ -1,5 +1,5 @@
 ---
 title: "Paul"
-url: /saint-pol-sur-mer/paul/
+url: /dunkerque/paul/
 shop: boulangerie
 ---

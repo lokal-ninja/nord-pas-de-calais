@@ -1,5 +1,5 @@
 ---
 title: "Intermarché Super"
-url: /coudekerque/intermarche-super/
+url: /coudekerque-branche/intermarche-super/
 shop: supermarché
 ---

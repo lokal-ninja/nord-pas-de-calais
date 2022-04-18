@@ -1,6 +1,6 @@
 ---
 title: Petite-Forêt
 url: /petite-foret/
-latitude: 50.376
-longitude: 3.479
+latitude: 50.38
+longitude: 3.475
 ---
