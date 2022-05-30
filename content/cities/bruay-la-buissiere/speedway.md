@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /bruay-la-buissiere/speedway/
-shop: supermarché
+shop: pièces de voitures
 ---
