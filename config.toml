@@ -1,4 +1,4 @@
-baseURL = "https://fr.shoogle.net/nord-pas-de-calais"
+baseURL = "https://fr.shoogle.net/nord-pas-de-calais/"
 languageCode = "fr"
 title = "Nord-Pas-de-Calais"
 theme = "ln-base"
