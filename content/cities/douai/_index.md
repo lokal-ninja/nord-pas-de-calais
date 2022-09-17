@@ -1,6 +1,6 @@
 ---
 title: Douai
 url: /douai/
-latitude: 50.37
-longitude: 3.083
+latitude: 50.372
+longitude: 3.085
 ---
