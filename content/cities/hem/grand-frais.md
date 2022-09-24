@@ -1,5 +1,5 @@
 ---
-title: "Grand frais"
+title: "Grand Frais"
 url: /hem/grand-frais/
-shop: légumes
+shop: supermarché
 ---
