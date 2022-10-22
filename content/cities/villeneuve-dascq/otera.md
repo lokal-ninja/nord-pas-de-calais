@@ -1,5 +1,5 @@
 ---
 title: "O'Tera"
-url: /illies/otera/
+url: /villeneuve-dascq/otera/
 shop: ferme
 ---
