@@ -1,5 +1,5 @@
 ---
 title: "Gémo"
 url: /halluin/gemo/
-shop: chaussures
+shop: vêtements
 ---
