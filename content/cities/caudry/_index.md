@@ -1,6 +1,6 @@
 ---
 title: Caudry
 url: /caudry/
-latitude: 50.123
-longitude: 3.42
+latitude: 50.112
+longitude: 3.409
 ---
