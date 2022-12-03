@@ -1,6 +1,6 @@
 ---
 title: Annequin
 url: /annequin/
-latitude: 50.49
-longitude: 2.713
+latitude: 50.502
+longitude: 2.726
 ---
