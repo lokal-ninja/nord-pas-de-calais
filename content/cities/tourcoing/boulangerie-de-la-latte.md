@@ -1,5 +1,5 @@
 ---
-title: "boulangerie de la latte"
+title: "Boulangerie de la Latte"
 url: /tourcoing/boulangerie-de-la-latte/
 shop: boulangerie
 ---
