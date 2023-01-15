@@ -7,5 +7,5 @@ city: Sailly-sur-la-Lys
 street: "Rue de la Lys"
 housenumber: 3214
 phone: "+33 3 21 68 37 83"
-opening_hours: "Tu-We 8:30-12:30,15:30-19:30; Th 8:30-12:30;Fr 8:30-12:30,15:30-19:30; Sa 09:00-18:00; Su 09:00-13:00"
+opening_hours: "Sa 09:00-18:00; Su 09:00-13:00; We-Fr 09:00-13:00,15:00-19:00"
 website: ""

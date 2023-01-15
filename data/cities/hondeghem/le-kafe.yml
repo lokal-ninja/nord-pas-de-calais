@@ -7,5 +7,5 @@ city: Hondeghem
 street: "Place Germain Dubrulle"
 housenumber: 187
 phone: "03 28 48 26 16"
-opening_hours: "jeudi	06:30–13:00, 16:00–20:00 vendredi	06:30–13:00, 16:00–22:00 samedi	06:30–22:00 dimanche	07:30–13:00 lundi	06:30–13:00, 16:00–20:00 mardi	06:30–13:00, 16:00–20:00 mercredi	Fermé"
+opening_hours: "Mo,Th 06:30-13:00,16:00-20:00; Fr 06:30-13:00,16:00-22:00; Sa 06:30-22:00; Su 07:30-13:00"
 website: ""
