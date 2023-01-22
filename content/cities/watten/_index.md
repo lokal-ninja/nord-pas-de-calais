@@ -1,6 +1,6 @@
 ---
 title: Watten
 url: /watten/
-latitude: 50.833
-longitude: 2.211
+latitude: 50.832
+longitude: 2.21
 ---
