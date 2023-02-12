@@ -1,5 +1,5 @@
 ---
 title: "E. Leclerc"
-url: /dainville/e-leclerc-2/
+url: /dainville/e-leclerc/
 shop: centre commercial
 ---

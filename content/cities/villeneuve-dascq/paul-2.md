@@ -1,5 +1,5 @@
 ---
 title: "Paul"
-url: /villeneuve-dascq/paul-2/
+url: /villeneuve-dascq/paul/
 shop: boulangerie
 ---

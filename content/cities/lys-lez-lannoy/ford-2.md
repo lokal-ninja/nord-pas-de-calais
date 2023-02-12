@@ -1,5 +1,5 @@
 ---
 title: "Ford"
-url: /lys-lez-lannoy/ford-2/
+url: /lys-lez-lannoy/ford/
 shop: voiture
 ---
