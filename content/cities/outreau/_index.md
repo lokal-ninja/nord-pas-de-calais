@@ -1,6 +1,6 @@
 ---
 title: Outreau
 url: /outreau/
-latitude: 50.704
-longitude: 1.594
+latitude: 50.699
+longitude: 1.607
 ---
