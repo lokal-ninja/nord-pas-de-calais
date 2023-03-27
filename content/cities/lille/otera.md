@@ -1,5 +1,5 @@
 ---
 title: "Otera"
-url: /illies/otera/
+url: /lille/otera/
 shop: ferme
 ---
