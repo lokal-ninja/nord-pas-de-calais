@@ -1,6 +1,6 @@
 ---
 title: Cassel
 url: /cassel/
-latitude: 50.798
-longitude: 2.494
+latitude: 50.802
+longitude: 2.482
 ---
