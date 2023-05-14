@@ -1,5 +1,5 @@
 ---
 title: "Boutique Tadao"
-url: /lens/boutique-tadao/
+url: /bruay-la-buissiere/boutique-tadao/
 shop: billet
 ---
