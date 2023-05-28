@@ -1,6 +1,6 @@
 ---
 title: Cambrai
 url: /cambrai/
-latitude: 50.163
-longitude: 3.249
+latitude: 50.148
+longitude: 3.223
 ---
