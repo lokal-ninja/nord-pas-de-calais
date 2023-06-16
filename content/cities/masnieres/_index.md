@@ -1,6 +1,6 @@
 ---
 title: Masnières
 url: /masnieres/
-latitude: 50.117
-longitude: 3.21
+latitude: 50.114
+longitude: 3.216
 ---
