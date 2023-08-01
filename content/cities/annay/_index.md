@@ -1,6 +1,6 @@
 ---
 title: Annay
 url: /annay/
-latitude: 50.465
+latitude: 50.463
 longitude: 2.879
 ---
