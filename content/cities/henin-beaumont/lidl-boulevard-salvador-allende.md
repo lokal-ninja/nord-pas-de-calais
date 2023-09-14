@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /henin-beaumont/lidl/
+url: /henin-beaumont/lidl-boulevard-salvador-allende/
 shop: supermarché
 ---

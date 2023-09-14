@@ -1,5 +1,5 @@
 ---
 title: "Auchan"
-url: /leers/auchan/
+url: /leers/auchan-2/
 shop: gaz
 ---

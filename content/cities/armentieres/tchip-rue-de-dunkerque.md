@@ -1,5 +1,5 @@
 ---
 title: "Tchip"
-url: /armentieres/tchip/
+url: /armentieres/tchip-rue-de-dunkerque/
 shop: vacant
 ---

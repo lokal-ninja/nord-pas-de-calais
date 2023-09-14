@@ -1,5 +1,5 @@
 ---
 title: "Picard"
-url: /villeneuve-dascq/picard/
+url: /villeneuve-dascq/picard-rue-jean-jaures/
 shop: aliments surgelés
 ---

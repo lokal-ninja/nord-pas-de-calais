@@ -1,5 +1,5 @@
 ---
 title: "Paul"
-url: /wasquehal/paul/
+url: /wasquehal/paul-rue-jean-jaures/
 shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /cambrai/aldi/
+url: /cambrai/aldi-avenue-francois-mitterrand/
 shop: supermarché
 ---
