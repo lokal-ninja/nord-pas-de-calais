@@ -1,11 +1,11 @@
-id: 10171447161
-type: node
-latitude: 50.36684
-longitude: 3.08147
+id: 100894773
+type: way
+latitude: 50.3678
+longitude: 3.08003
 postcode: "59500"
 city: Douai
-street: "Rue de Paris"
-housenumber: 91
-phone: "+33 3 27 91 19 45"
-opening_hours: ""
+street: "Rue de la Mairie"
+housenumber: 121
+phone: "+33 3 27 86 00 28"
+opening_hours: "Tu-Sa 10:00-19:00"
 website: ""
