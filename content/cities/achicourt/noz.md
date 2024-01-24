@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
-url: /divion/noz/
+url: /achicourt/noz/
 shop: magasin de variétés
 ---
