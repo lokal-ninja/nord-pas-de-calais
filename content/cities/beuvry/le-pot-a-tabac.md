@@ -1,5 +1,5 @@
 ---
-title: "LE POT A TABAC"
+title: "Le Pot à Tabac"
 url: /beuvry/le-pot-a-tabac/
 shop: tabac
 ---
