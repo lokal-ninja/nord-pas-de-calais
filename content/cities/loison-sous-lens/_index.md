@@ -1,6 +1,6 @@
 ---
 title: Loison-sous-Lens
 url: /loison-sous-lens/
-latitude: 50.441
-longitude: 2.852
+latitude: 50.447
+longitude: 2.863
 ---
