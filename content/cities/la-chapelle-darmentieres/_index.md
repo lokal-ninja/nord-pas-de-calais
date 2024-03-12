@@ -1,6 +1,6 @@
 ---
 title: La Chapelle-d'Armentières
 url: /la-chapelle-darmentieres/
-latitude: 50.658
-longitude: 2.894
+latitude: 50.657
+longitude: 2.892
 ---
