@@ -1,5 +1,5 @@
 ---
-title: "DARTY CONCEPT CUISINE"
+title: "Darty Concept Cuisine"
 url: /calais/darty-concept-cuisine/
 shop: cuisine
 ---
