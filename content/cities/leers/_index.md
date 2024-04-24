@@ -1,6 +1,6 @@
 ---
 title: Leers
 url: /leers/
-latitude: 50.683
+latitude: 50.681
 longitude: 3.219
 ---

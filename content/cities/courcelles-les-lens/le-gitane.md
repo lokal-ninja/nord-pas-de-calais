@@ -1,5 +1,5 @@
 ---
 title: "Le Gitane"
 url: /courcelles-les-lens/le-gitane/
-shop: shop
+shop: tabac
 ---
