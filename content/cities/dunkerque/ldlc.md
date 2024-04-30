@@ -1,5 +1,5 @@
 ---
-title: "LDLC"
+title: "Ldlc"
 url: /dunkerque/ldlc/
 shop: ordinateur
 ---

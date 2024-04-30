@@ -1,6 +1,6 @@
 ---
 title: Annœullin
 url: /annoeullin/
-latitude: 50.52
-longitude: 2.93
+latitude: 50.528
+longitude: 2.933
 ---
