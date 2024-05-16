@@ -1,5 +1,5 @@
 ---
-title: "DARTY LITERIE"
+title: "Darty Literie"
 url: /calais/darty-literie/
 shop: lit
 ---
