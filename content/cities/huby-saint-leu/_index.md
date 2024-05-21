@@ -1,6 +1,6 @@
 ---
 title: Huby-Saint-Leu
 url: /huby-saint-leu/
-latitude: 50.382
+latitude: 50.381
 longitude: 2.039
 ---
