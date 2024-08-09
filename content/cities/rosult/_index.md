@@ -1,6 +1,6 @@
 ---
 title: Rosult
 url: /rosult/
-latitude: 50.444
-longitude: 3.358
+latitude: 50.447
+longitude: 3.364
 ---
