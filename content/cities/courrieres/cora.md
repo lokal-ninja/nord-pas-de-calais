@@ -1,5 +1,5 @@
 ---
 title: "Cora"
 url: /courrieres/cora/
-shop: supermarché
+shop: Supermarkt
 ---

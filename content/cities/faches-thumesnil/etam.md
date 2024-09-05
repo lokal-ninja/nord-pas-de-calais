@@ -1,5 +1,5 @@
 ---
 title: "Etam"
 url: /faches-thumesnil/etam/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /wizernes/aldi/
-shop: supermarché
+shop: Supermarkt
 ---

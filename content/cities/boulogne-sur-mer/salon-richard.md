@@ -1,5 +1,5 @@
 ---
 title: "Salon Richard"
 url: /boulogne-sur-mer/salon-richard/
-shop: coiffeur
+shop: Friseur
 ---

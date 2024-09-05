@@ -1,5 +1,5 @@
 ---
 title: "Fnac"
 url: /boulogne-sur-mer/fnac/
-shop: livres
+shop: Bücher
 ---

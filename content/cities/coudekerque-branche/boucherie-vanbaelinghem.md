@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Vanbaelinghem"
 url: /coudekerque-branche/boucherie-vanbaelinghem/
-shop: boucherie
+shop: Metzgerei
 ---

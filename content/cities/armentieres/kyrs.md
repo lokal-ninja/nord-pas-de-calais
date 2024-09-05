@@ -1,5 +1,5 @@
 ---
 title: "Kyrs"
 url: /armentieres/kyrs/
-shop: opticien
+shop: Optiker
 ---

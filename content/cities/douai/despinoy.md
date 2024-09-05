@@ -1,5 +1,5 @@
 ---
 title: "Despinoy"
 url: /douai/despinoy/
-shop: bijoux
+shop: Schmuck
 ---

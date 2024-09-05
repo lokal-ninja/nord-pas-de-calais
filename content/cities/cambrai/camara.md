@@ -1,5 +1,5 @@
 ---
 title: "Camara"
 url: /cambrai/camara/
-shop: caméra
+shop: Kamera
 ---

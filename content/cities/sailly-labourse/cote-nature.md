@@ -1,5 +1,5 @@
 ---
 title: "Côté Nature"
 url: /sailly-labourse/cote-nature/
-shop: centre de jardinage
+shop: Garten-Center
 ---

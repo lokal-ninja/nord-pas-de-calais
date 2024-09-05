@@ -1,5 +1,5 @@
 ---
 title: "Reine et Biclou"
 url: /valenciennes/reine-et-biclou/
-shop: vélo
+shop: Fahrrad
 ---

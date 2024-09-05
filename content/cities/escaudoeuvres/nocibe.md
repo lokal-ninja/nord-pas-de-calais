@@ -1,5 +1,5 @@
 ---
 title: "Nocibé"
 url: /escaudoeuvres/nocibe/
-shop: beauté
+shop: Kosmetik
 ---

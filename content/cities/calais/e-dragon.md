@@ -1,5 +1,5 @@
 ---
 title: "e-Drag'on"
 url: /calais/e-dragon/
-shop: vélo
+shop: Fahrrad
 ---

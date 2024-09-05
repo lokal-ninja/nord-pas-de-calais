@@ -1,5 +1,5 @@
 ---
 title: "Pressing"
 url: /wingles/pressing/
-shop: blanchisserie
+shop: Wäscherei
 ---

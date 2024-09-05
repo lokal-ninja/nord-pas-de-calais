@@ -1,5 +1,5 @@
 ---
 title: "Pidou"
 url: /calais/pidou/
-shop: supermarché
+shop: Supermarkt
 ---

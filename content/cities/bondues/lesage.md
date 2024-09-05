@@ -1,5 +1,5 @@
 ---
 title: "Lesage"
 url: /bondues/lesage/
-shop: boulangerie
+shop: Bäckerei
 ---

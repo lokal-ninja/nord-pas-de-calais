@@ -1,5 +1,5 @@
 ---
 title: "Bisous"
 url: /menen/bisous/
-shop: vêtements
+shop: Kleidung
 ---

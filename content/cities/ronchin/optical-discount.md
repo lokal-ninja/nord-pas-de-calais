@@ -1,5 +1,5 @@
 ---
 title: "Optical Discount"
 url: /ronchin/optical-discount/
-shop: opticien
+shop: Optiker
 ---

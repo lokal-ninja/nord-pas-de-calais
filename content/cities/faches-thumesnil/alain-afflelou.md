@@ -1,5 +1,5 @@
 ---
 title: "Alain Afflelou"
 url: /faches-thumesnil/alain-afflelou/
-shop: opticien
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bleuforêt"
 url: /lille/bleuforet/
-shop: vêtements
+shop: Kleidung
 ---

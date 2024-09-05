@@ -1,5 +1,5 @@
 ---
 title: "Auchan"
 url: /leers/auchan/
-shop: supermarché
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Damart"
 url: /lille/damart/
-shop: vêtements
+shop: Kleidung
 ---

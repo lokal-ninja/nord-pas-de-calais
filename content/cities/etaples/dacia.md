@@ -1,5 +1,5 @@
 ---
 title: "Dacia"
 url: /etaples/dacia/
-shop: voiture
+shop: Autohaus
 ---

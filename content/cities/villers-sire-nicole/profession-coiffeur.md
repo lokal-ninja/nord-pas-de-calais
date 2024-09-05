@@ -1,5 +1,5 @@
 ---
 title: "Profession coiffeur"
 url: /villers-sire-nicole/profession-coiffeur/
-shop: coiffeur
+shop: Friseur
 ---

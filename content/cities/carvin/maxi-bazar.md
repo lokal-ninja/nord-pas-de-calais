@@ -1,5 +1,5 @@
 ---
 title: "Maxi Bazar"
 url: /carvin/maxi-bazar/
-shop: décoration intérieure
+shop: Raumausstattung
 ---

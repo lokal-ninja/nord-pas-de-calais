@@ -1,5 +1,5 @@
 ---
 title: "Promod"
 url: /faches-thumesnil/promod/
-shop: vêtements
+shop: Kleidung
 ---

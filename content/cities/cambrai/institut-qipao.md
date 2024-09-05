@@ -1,5 +1,5 @@
 ---
 title: "Institut Qipao"
 url: /cambrai/institut-qipao/
-shop: beauté
+shop: Kosmetik
 ---

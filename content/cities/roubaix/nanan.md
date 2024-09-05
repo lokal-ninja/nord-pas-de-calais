@@ -1,5 +1,5 @@
 ---
 title: "Nanan"
 url: /roubaix/nanan/
-shop: boulangerie
+shop: Bäckerei
 ---

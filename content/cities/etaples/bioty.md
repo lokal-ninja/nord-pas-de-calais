@@ -1,5 +1,5 @@
 ---
 title: "Bioty"
 url: /etaples/bioty/
-shop: beauté
+shop: Kosmetik
 ---

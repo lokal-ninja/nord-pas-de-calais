@@ -1,5 +1,5 @@
 ---
 title: "Texti"
 url: /desvres/texti/
-shop: vêtements
+shop: Kleidung
 ---

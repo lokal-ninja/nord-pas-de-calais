@@ -1,5 +1,5 @@
 ---
 title: "Marie Blachère"
 url: /henin-beaumont/marie-blachere/
-shop: boulangerie
+shop: Bäckerei
 ---

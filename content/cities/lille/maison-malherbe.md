@@ -1,5 +1,5 @@
 ---
 title: "Maison Malherbe"
 url: /lille/maison-malherbe/
-shop: instrument de musique
+shop: Instrumente
 ---

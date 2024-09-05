@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /grande-synthe/total/
-shop: commodité
+shop: Lebensmittel
 ---

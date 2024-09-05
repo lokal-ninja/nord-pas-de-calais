@@ -1,5 +1,5 @@
 ---
 title: "Chronodrive"
 url: /lambersart/chronodrive/
-shop: supermarché
+shop: Supermarkt
 ---

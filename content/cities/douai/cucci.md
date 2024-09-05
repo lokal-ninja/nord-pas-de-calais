@@ -1,5 +1,5 @@
 ---
 title: "Cucci"
 url: /douai/cucci/
-shop: pâtisserie
+shop: Konditorei
 ---

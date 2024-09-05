@@ -1,5 +1,5 @@
 ---
 title: "Artisanat monastique"
 url: /lille/artisanat-monastique/
-shop: shop
+shop: Allgemein
 ---

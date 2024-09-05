@@ -1,5 +1,5 @@
 ---
 title: "Bonobo"
 url: /villeneuve-dascq/bonobo/
-shop: vêtements
+shop: Kleidung
 ---

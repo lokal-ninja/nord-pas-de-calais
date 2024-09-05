@@ -1,5 +1,5 @@
 ---
 title: "L'Âne Hilare"
 url: /roubaix/lane-hilare/
-shop: supermarché
+shop: Supermarkt
 ---

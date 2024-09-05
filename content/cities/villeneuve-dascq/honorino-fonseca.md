@@ -1,5 +1,5 @@
 ---
 title: "Honorino Fonseca"
 url: /villeneuve-dascq/honorino-fonseca/
-shop: boulangerie
+shop: Bäckerei
 ---

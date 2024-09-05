@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /longfosse/aldi/
-shop: supermarché
+shop: Supermarkt
 ---

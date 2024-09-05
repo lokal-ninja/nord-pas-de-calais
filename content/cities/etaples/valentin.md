@@ -1,5 +1,5 @@
 ---
 title: "Valentin"
 url: /etaples/valentin/
-shop: coiffeur
+shop: Friseur
 ---

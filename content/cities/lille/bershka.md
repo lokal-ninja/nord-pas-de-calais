@@ -1,5 +1,5 @@
 ---
 title: "Bershka"
 url: /lille/bershka/
-shop: vêtements
+shop: Kleidung
 ---

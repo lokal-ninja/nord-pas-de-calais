@@ -1,5 +1,5 @@
 ---
 title: "La Boulange"
 url: /armentieres/la-boulange/
-shop: boulangerie
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zeeman"
 url: /tourcoing/zeeman/
-shop: vêtements
+shop: Kleidung
 ---

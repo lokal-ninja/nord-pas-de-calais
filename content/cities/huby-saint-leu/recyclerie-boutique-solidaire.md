@@ -1,5 +1,5 @@
 ---
 title: "Recyclerie - Boutique Solidaire"
 url: /huby-saint-leu/recyclerie-boutique-solidaire/
-shop: shop
+shop: Allgemein
 ---

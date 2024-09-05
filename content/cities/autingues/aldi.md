@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /autingues/aldi/
-shop: supermarché
+shop: Supermarkt
 ---

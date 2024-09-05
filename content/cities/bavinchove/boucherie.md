@@ -1,5 +1,5 @@
 ---
 title: "Boucherie"
 url: /bavinchove/boucherie/
-shop: supermarché
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /raismes/aldi/
-shop: supermarché
+shop: Supermarkt
 ---

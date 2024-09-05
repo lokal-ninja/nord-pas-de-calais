@@ -1,5 +1,5 @@
 ---
 title: "Magik’depot"
 url: /cambrai/magikdepot/
-shop: magasin de variétés
+shop: Kramladen
 ---

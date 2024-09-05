@@ -1,5 +1,5 @@
 ---
 title: "TrocBike"
 url: /saint-amand-les-eaux/trocbike/
-shop: vélo
+shop: Fahrrad
 ---

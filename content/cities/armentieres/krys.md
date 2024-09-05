@@ -1,5 +1,5 @@
 ---
 title: "Krys"
 url: /armentieres/krys/
-shop: vacant
+shop: Leerstehend
 ---

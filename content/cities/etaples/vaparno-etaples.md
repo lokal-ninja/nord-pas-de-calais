@@ -1,5 +1,5 @@
 ---
 title: "VapArno Étaples"
 url: /etaples/vaparno-etaples/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

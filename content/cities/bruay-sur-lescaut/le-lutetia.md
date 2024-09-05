@@ -1,5 +1,5 @@
 ---
 title: "Le Lutétia"
 url: /bruay-sur-lescaut/le-lutetia/
-shop: tabac
+shop: Tabak
 ---

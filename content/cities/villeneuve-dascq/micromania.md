@@ -1,5 +1,5 @@
 ---
 title: "Micromania"
 url: /villeneuve-dascq/micromania/
-shop: jeux vidéo
+shop: Videospiele
 ---

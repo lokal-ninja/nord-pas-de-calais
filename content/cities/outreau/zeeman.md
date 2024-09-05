@@ -1,5 +1,5 @@
 ---
 title: "Zeeman"
 url: /outreau/zeeman/
-shop: vêtements
+shop: Kleidung
 ---

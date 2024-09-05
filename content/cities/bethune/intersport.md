@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /bethune/intersport/
-shop: sports
+shop: Sport
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Prêt-à-Porter Excellence"
 url: /escaudoeuvres/pret-a-porter-excellence/
-shop: vêtements
+shop: Kleidung
 ---

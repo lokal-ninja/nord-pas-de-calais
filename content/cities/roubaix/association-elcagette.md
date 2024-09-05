@@ -1,5 +1,5 @@
 ---
 title: "Association El'Cagette"
 url: /roubaix/association-elcagette/
-shop: shop
+shop: Allgemein
 ---

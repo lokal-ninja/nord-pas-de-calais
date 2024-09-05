@@ -1,5 +1,5 @@
 ---
 title: "Beaumont"
 url: /roisin/beaumont/
-shop: commodité
+shop: Lebensmittel
 ---

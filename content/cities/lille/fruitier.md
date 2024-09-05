@@ -1,5 +1,5 @@
 ---
 title: "Fruitier"
 url: /lille/fruitier/
-shop: légumes
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vag"
 url: /etaples/vag/
-shop: copyshop
+shop: Kopieren
 ---

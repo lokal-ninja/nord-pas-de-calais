@@ -1,5 +1,5 @@
 ---
 title: "Day by Day"
 url: /croix/day-by-day/
-shop: commodité
+shop: Lebensmittel
 ---

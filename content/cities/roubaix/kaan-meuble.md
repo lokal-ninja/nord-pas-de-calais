@@ -1,5 +1,5 @@
 ---
 title: "Kaan Meuble"
 url: /roubaix/kaan-meuble/
-shop: meubles
+shop: Möbel
 ---

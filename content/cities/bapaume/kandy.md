@@ -1,5 +1,5 @@
 ---
 title: "Kandy"
 url: /bapaume/kandy/
-shop: magasin de variétés
+shop: Kramladen
 ---

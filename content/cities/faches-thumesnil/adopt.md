@@ -1,5 +1,5 @@
 ---
 title: "Adopt'"
 url: /faches-thumesnil/adopt/
-shop: parfumerie
+shop: Parfümerie
 ---

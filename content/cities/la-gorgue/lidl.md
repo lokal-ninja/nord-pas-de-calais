@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /la-gorgue/lidl/
-shop: supermarché
+shop: Supermarkt
 ---

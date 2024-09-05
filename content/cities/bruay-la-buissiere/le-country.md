@@ -1,5 +1,5 @@
 ---
 title: "Le Country"
 url: /bruay-la-buissiere/le-country/
-shop: tabac
+shop: Tabak
 ---

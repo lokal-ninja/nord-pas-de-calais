@@ -1,5 +1,5 @@
 ---
 title: "Clopinette"
 url: /cambrai/clopinette/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

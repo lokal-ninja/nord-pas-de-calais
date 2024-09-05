@@ -1,5 +1,5 @@
 ---
 title: "Kidkanai"
 url: /leers/kidkanai/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fromagerie Marion Ducloy-Marechal"
 url: /coulogne/fromagerie-marion-ducloy-marechal/
-shop: fromage
+shop: Käse
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chaussea"
 url: /lievin/chaussea/
-shop: chaussures
+shop: Schuhe
 ---

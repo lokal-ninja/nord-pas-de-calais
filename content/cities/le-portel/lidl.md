@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /le-portel/lidl/
-shop: supermarché
+shop: Supermarkt
 ---

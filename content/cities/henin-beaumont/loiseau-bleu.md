@@ -1,5 +1,5 @@
 ---
 title: "L'Oiseau Bleu"
 url: /henin-beaumont/loiseau-bleu/
-shop: vêtements
+shop: Kleidung
 ---

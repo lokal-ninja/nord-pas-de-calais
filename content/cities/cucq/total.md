@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /cucq/total/
-shop: gaz
+shop: Gasflaschen
 ---

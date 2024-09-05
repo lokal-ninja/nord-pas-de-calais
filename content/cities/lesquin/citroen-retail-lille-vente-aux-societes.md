@@ -1,5 +1,5 @@
 ---
 title: "Citroën Retail Lille Vente Aux Societes"
 url: /lesquin/citroen-retail-lille-vente-aux-societes/
-shop: réparation de voitures
+shop: Autowerkstatt
 ---

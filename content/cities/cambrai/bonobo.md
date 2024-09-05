@@ -1,5 +1,5 @@
 ---
 title: "Bonobo"
 url: /cambrai/bonobo/
-shop: vêtements
+shop: Kleidung
 ---

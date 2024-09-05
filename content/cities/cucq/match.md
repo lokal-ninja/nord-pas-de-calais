@@ -1,5 +1,5 @@
 ---
 title: "Match"
 url: /cucq/match/
-shop: supermarché
+shop: Supermarkt
 ---

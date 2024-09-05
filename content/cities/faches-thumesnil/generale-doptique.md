@@ -1,5 +1,5 @@
 ---
 title: "Générale d'Optique"
 url: /faches-thumesnil/generale-doptique/
-shop: opticien
+shop: Optiker
 ---

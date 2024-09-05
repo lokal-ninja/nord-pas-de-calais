@@ -1,5 +1,5 @@
 ---
 title: "Louis Pion"
 url: /villeneuve-dascq/louis-pion/
-shop: montres
+shop: Uhren
 ---

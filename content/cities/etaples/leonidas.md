@@ -1,5 +1,5 @@
 ---
 title: "Leonidas"
 url: /etaples/leonidas/
-shop: chocolat
+shop: Schokolade
 ---

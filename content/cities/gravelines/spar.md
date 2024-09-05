@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /gravelines/spar/
-shop: supermarché
+shop: Supermarkt
 ---

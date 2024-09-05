@@ -1,5 +1,5 @@
 ---
 title: "Banette"
 url: /wallers/banette/
-shop: boulangerie
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /mericourt/lidl/
-shop: supermarché
+shop: Supermarkt
 ---

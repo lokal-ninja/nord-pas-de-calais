@@ -1,5 +1,5 @@
 ---
 title: "Métamorphose"
 url: /wimille/metamorphose/
-shop: coiffeur
+shop: Friseur
 ---

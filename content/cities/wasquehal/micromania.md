@@ -1,5 +1,5 @@
 ---
 title: "Micromania"
 url: /wasquehal/micromania/
-shop: jeux vidéo
+shop: Videospiele
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Miniso"
 url: /lille/miniso/
-shop: cadeau
+shop: Andenken
 ---

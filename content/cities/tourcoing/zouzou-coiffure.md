@@ -1,5 +1,5 @@
 ---
 title: "Zouzou coiffure"
 url: /tourcoing/zouzou-coiffure/
-shop: coiffeur
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Phildar"
 url: /dunkerque/phildar/
-shop: vêtements
+shop: Kleidung
 ---

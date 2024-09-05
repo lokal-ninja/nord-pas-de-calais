@@ -1,5 +1,5 @@
 ---
 title: "La Fleurière"
 url: /wimille/la-fleuriere/
-shop: fleuriste
+shop: Blumen
 ---

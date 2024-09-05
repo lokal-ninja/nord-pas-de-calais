@@ -1,5 +1,5 @@
 ---
 title: "Chemiserie Vallet"
 url: /douai/chemiserie-vallet/
-shop: vêtements
+shop: Kleidung
 ---

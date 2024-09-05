@@ -1,5 +1,5 @@
 ---
 title: "Ng'irls"
 url: /boulogne-sur-mer/ngirls/
-shop: vêtements
+shop: Kleidung
 ---

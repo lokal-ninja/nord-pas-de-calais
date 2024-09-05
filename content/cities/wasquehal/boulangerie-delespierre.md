@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Delespierre"
 url: /wasquehal/boulangerie-delespierre/
-shop: boulangerie
+shop: Bäckerei
 ---

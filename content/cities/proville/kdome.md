@@ -1,5 +1,5 @@
 ---
 title: "Kdôme"
 url: /proville/kdome/
-shop: cadeau
+shop: Andenken
 ---

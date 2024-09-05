@@ -1,5 +1,5 @@
 ---
 title: "Cultura"
 url: /lezennes/cultura/
-shop: livres
+shop: Bücher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RougeGorge"
 url: /escaudoeuvres/rougegorge/
-shop: vêtements
+shop: Kleidung
 ---

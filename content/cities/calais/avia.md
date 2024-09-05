@@ -1,5 +1,5 @@
 ---
 title: "Avia"
 url: /calais/avia/
-shop: commodité
+shop: Lebensmittel
 ---

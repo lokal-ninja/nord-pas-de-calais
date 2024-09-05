@@ -1,5 +1,5 @@
 ---
 title: "Foot.fr"
 url: /noyelles-godault/foot-fr/
-shop: sports
+shop: Sport
 ---

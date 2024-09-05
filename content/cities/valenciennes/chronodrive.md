@@ -1,5 +1,5 @@
 ---
 title: "Chronodrive"
 url: /valenciennes/chronodrive/
-shop: supermarché
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "But"
 url: /bethune/but/
-shop: meubles
+shop: Möbel
 ---

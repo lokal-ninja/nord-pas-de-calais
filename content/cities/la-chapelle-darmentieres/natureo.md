@@ -1,5 +1,5 @@
 ---
 title: "Naturéo"
 url: /la-chapelle-darmentieres/natureo/
-shop: supermarché
+shop: Supermarkt
 ---

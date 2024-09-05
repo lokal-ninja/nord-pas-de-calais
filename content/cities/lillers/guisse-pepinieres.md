@@ -1,5 +1,5 @@
 ---
 title: "Guisse Pépinières"
 url: /lillers/guisse-pepinieres/
-shop: centre de jardinage
+shop: Garten-Center
 ---

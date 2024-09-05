@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
 url: /arras/biocoop/
-shop: supermarché
+shop: Supermarkt
 ---

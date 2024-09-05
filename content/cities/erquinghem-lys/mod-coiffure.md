@@ -1,5 +1,5 @@
 ---
 title: "Mod Coiffure"
 url: /erquinghem-lys/mod-coiffure/
-shop: coiffeur
+shop: Friseur
 ---

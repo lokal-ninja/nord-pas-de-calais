@@ -1,5 +1,5 @@
 ---
 title: "Boulanger"
 url: /cambrai/boulanger/
-shop: électronique
+shop: Elektronik
 ---

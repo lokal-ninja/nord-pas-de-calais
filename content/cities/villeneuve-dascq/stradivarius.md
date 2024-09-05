@@ -1,5 +1,5 @@
 ---
 title: "Stradivarius"
 url: /villeneuve-dascq/stradivarius/
-shop: vêtements
+shop: Kleidung
 ---

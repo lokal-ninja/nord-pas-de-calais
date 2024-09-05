@@ -1,5 +1,5 @@
 ---
 title: "Fonteyne lingerie"
 url: /armentieres/fonteyne-lingerie/
-shop: vêtements
+shop: Kleidung
 ---

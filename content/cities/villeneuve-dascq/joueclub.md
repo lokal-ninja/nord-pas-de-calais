@@ -1,5 +1,5 @@
 ---
 title: "JouéClub"
 url: /villeneuve-dascq/joueclub/
-shop: jouets
+shop: Spielzeug
 ---

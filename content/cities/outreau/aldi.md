@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /outreau/aldi/
-shop: supermarché
+shop: Supermarkt
 ---

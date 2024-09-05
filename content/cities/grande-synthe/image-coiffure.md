@@ -1,5 +1,5 @@
 ---
 title: "Image Coiffure"
 url: /grande-synthe/image-coiffure/
-shop: coiffeur
+shop: Friseur
 ---

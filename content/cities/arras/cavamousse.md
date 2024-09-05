@@ -1,5 +1,5 @@
 ---
 title: "Cavamousse"
 url: /arras/cavamousse/
-shop: alcool
+shop: Spirituosen
 ---

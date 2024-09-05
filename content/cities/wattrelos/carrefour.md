@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /wattrelos/carrefour/
-shop: supermarché
+shop: Supermarkt
 ---

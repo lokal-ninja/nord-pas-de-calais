@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /berck/noz/
-shop: magasin de variétés
+shop: Kramladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Devianne"
 url: /douai/devianne/
-shop: vêtements
+shop: Kleidung
 ---

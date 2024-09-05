@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /wattrelos/aldi/
-shop: supermarché
+shop: Supermarkt
 ---

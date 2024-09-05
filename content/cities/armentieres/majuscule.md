@@ -1,5 +1,5 @@
 ---
 title: "Majuscule"
 url: /armentieres/majuscule/
-shop: livres
+shop: Bücher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Histoire d'Or"
 url: /boulogne-sur-mer/histoire-dor/
-shop: bijoux
+shop: Schmuck
 ---

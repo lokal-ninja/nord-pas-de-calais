@@ -1,5 +1,5 @@
 ---
 title: "E. Leclerc"
 url: /roubaix/e-leclerc/
-shop: supermarché
+shop: Supermarkt
 ---

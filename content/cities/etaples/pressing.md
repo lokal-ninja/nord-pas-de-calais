@@ -1,5 +1,5 @@
 ---
 title: "Pressing"
 url: /etaples/pressing/
-shop: blanchisserie
+shop: Wäscherei
 ---

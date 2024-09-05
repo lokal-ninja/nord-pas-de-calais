@@ -1,5 +1,5 @@
 ---
 title: "Pimkie"
 url: /faches-thumesnil/pimkie/
-shop: vêtements
+shop: Kleidung
 ---

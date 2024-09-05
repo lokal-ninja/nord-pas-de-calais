@@ -1,5 +1,5 @@
 ---
 title: "BOKO"
 url: /bethune/boko/
-shop: commodité
+shop: Lebensmittel
 ---

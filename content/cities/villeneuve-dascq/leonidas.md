@@ -1,5 +1,5 @@
 ---
 title: "Leonidas"
 url: /villeneuve-dascq/leonidas/
-shop: chocolat
+shop: Schokolade
 ---

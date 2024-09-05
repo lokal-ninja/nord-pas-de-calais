@@ -1,5 +1,5 @@
 ---
 title: "Kruidvat"
 url: /wervik/kruidvat/
-shop: chimiste
+shop: Drogerie
 ---

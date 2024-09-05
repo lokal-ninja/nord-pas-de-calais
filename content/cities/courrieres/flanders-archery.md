@@ -1,5 +1,5 @@
 ---
 title: "Flanders Archery"
 url: /courrieres/flanders-archery/
-shop: sports
+shop: Sport
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nocibé"
 url: /boulogne-sur-mer/nocibe-rue-adolphe-thiers/
-shop: beauté
+shop: Kosmetik
 ---

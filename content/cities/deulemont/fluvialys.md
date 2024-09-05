@@ -1,5 +1,5 @@
 ---
 title: "Fluvialys"
 url: /deulemont/fluvialys/
-shop: bateau
+shop: Boot
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /dechy/renault/
-shop: voiture
+shop: Autohaus
 ---

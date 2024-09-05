@@ -1,5 +1,5 @@
 ---
 title: "Chevaline"
 url: /lille/chevaline/
-shop: boucherie
+shop: Metzgerei
 ---

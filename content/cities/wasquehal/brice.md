@@ -1,5 +1,5 @@
 ---
 title: "Brice"
 url: /wasquehal/brice/
-shop: vêtements
+shop: Kleidung
 ---

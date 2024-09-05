@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Jourdel"
 url: /anzin-saint-aubin/boucherie-jourdel/
-shop: boucherie
+shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Conforama"
 url: /dainville/conforama/
-shop: meubles
+shop: Möbel
 ---

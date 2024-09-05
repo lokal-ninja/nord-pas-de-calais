@@ -1,5 +1,5 @@
 ---
 title: "Chaussea"
 url: /courrieres/chaussea/
-shop: chaussures
+shop: Schuhe
 ---

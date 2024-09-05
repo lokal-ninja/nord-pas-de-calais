@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Richir"
 url: /lillers/boulangerie-richir/
-shop: boulangerie
+shop: Bäckerei
 ---
