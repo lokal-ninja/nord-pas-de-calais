@@ -1,5 +1,5 @@
 ---
 title: "Ganymède"
 url: /wasquehal/ganymede/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

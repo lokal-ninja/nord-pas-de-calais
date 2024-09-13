@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /carvin/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

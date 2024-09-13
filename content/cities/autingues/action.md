@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /autingues/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

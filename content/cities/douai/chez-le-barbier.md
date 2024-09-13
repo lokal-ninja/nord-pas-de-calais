@@ -1,5 +1,5 @@
 ---
 title: "Chez le Barbier"
 url: /douai/chez-le-barbier/
-shop: Friseur
+shop: coiffeur
 ---

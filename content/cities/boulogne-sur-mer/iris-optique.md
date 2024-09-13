@@ -1,5 +1,5 @@
 ---
 title: "Iris optique"
 url: /boulogne-sur-mer/iris-optique/
-shop: Optiker
+shop: opticien
 ---

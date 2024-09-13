@@ -1,5 +1,5 @@
 ---
 title: "Julie Hamy"
 url: /calais/julie-hamy/
-shop: Blumen
+shop: fleuriste
 ---

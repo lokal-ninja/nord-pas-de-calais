@@ -1,5 +1,5 @@
 ---
 title: "Addiction"
 url: /orchies/addiction/
-shop: Konditorei
+shop: pâtisserie
 ---

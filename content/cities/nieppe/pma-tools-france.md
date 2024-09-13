@@ -1,5 +1,5 @@
 ---
 title: "Pma-Tools France"
 url: /nieppe/pma-tools-france/
-shop: Autoteile
+shop: pièces de voitures
 ---

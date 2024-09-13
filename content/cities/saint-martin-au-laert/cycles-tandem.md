@@ -1,5 +1,5 @@
 ---
 title: "Cycles Tandem"
 url: /saint-martin-au-laert/cycles-tandem/
-shop: Fahrrad
+shop: vélo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "L'Incroyable"
 url: /proville/lincroyable/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brad'Way"
 url: /marquette-lez-lille/bradway/
-shop: Dorfladen
+shop: magasin de campagne
 ---

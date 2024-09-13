@@ -1,5 +1,5 @@
 ---
-title: "EUROMASTER"
+title: "Euromaster"
 url: /mons-en-baroeul/euromaster/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

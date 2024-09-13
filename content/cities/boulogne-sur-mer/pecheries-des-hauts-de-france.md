@@ -1,5 +1,5 @@
 ---
 title: "Pêcheries des Hauts de France"
 url: /boulogne-sur-mer/pecheries-des-hauts-de-france/
-shop: Großhandel
+shop: vente en gros
 ---

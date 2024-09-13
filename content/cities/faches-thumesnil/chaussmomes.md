@@ -1,5 +1,5 @@
 ---
 title: "Chauss'Mômes"
 url: /faches-thumesnil/chaussmomes/
-shop: Schuhe
+shop: chaussures
 ---

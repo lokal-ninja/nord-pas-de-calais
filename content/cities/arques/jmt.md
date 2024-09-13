@@ -1,5 +1,5 @@
 ---
 title: "JMT"
 url: /arques/jmt/
-shop: Tiere
+shop: animal de compagnie
 ---

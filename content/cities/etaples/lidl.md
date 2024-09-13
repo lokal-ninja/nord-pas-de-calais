@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /etaples/lidl/
-shop: Supermarkt
+shop: supermarché
 ---

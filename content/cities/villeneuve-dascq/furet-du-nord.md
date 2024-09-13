@@ -1,5 +1,5 @@
 ---
 title: "Furet du Nord"
 url: /villeneuve-dascq/furet-du-nord/
-shop: Bücher
+shop: livres
 ---

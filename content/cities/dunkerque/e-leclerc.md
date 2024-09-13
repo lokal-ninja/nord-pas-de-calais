@@ -1,5 +1,5 @@
 ---
 title: "E. Leclerc"
 url: /dunkerque/e-leclerc/
-shop: Supermarkt
+shop: supermarché
 ---

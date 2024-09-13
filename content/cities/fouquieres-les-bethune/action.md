@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /fouquieres-les-bethune/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

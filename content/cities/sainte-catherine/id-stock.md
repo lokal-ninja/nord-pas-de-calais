@@ -1,5 +1,5 @@
 ---
 title: "iD Stock"
 url: /sainte-catherine/id-stock/
-shop: Kramladen
+shop: magasin de variétés
 ---

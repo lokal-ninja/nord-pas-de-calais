@@ -1,5 +1,5 @@
 ---
 title: "NAF NAF"
 url: /faches-thumesnil/naf-naf/
-shop: Kleidung
+shop: vêtements
 ---

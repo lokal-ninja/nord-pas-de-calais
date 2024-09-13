@@ -1,5 +1,5 @@
 ---
 title: "Superquinquin"
 url: /lille/superquinquin/
-shop: Supermarkt
+shop: supermarché
 ---

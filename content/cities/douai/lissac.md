@@ -1,5 +1,5 @@
 ---
 title: "Lissac"
 url: /douai/lissac/
-shop: Optiker
+shop: opticien
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Label Vie"
 url: /hem/label-vie/
-shop: Supermarkt
+shop: supermarché
 ---

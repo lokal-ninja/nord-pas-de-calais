@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /croix/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

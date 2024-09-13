@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie.Patisserie"
 url: /proville/boulangerie-patisserie/
-shop: Bäckerei
+shop: boulangerie
 ---

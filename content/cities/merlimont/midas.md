@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /merlimont/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

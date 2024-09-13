@@ -1,5 +1,5 @@
 ---
 title: "Nadrogsm"
 url: /faches-thumesnil/nadrogsm/
-shop: Handy
+shop: téléphone portable
 ---

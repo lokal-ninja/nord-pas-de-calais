@@ -1,5 +1,5 @@
 ---
 title: "Otera"
 url: /illies/otera/
-shop: Hofladen
+shop: ferme
 ---

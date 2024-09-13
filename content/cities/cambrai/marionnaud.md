@@ -1,5 +1,5 @@
 ---
 title: "Marionnaud"
 url: /cambrai/marionnaud/
-shop: Parfümerie
+shop: parfumerie
 ---

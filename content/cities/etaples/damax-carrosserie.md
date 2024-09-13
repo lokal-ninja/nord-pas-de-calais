@@ -1,5 +1,5 @@
 ---
 title: "Damax Carrosserie"
 url: /etaples/damax-carrosserie/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

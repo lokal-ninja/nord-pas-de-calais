@@ -1,5 +1,5 @@
 ---
 title: "Naturhouse"
 url: /bruay-la-buissiere/naturhouse/
-shop: Nahrungsergänzung
+shop: les compléments alimentaires
 ---

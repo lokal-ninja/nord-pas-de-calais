@@ -1,5 +1,5 @@
 ---
 title: "Tentation"
 url: /mametz/tentation/
-shop: Friseur
+shop: coiffeur
 ---

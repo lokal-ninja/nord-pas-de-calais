@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /guines/aldi/
-shop: Supermarkt
+shop: supermarché
 ---

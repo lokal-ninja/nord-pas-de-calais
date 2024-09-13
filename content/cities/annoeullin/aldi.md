@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /annoeullin/aldi/
-shop: Supermarkt
+shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nord Antenne Communication"
 url: /hautmont/nord-antenne-communication/
-shop: Elektrisch
+shop: électrique
 ---

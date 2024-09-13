@@ -1,5 +1,5 @@
 ---
 title: "Aviva"
 url: /villeneuve-dascq/aviva/
-shop: Küchen
+shop: cuisine
 ---

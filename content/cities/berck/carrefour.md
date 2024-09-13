@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /berck/carrefour/
-shop: Supermarkt
+shop: supermarché
 ---

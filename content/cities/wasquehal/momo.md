@@ -1,5 +1,5 @@
 ---
 title: "Momo"
 url: /wasquehal/momo/
-shop: Hofladen
+shop: ferme
 ---

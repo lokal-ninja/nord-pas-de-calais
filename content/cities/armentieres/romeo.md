@@ -1,5 +1,5 @@
 ---
 title: "Roméo"
 url: /armentieres/romeo/
-shop: Friseur
+shop: coiffeur
 ---

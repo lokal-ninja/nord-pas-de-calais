@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /menen/aldi/
-shop: Supermarkt
+shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /hazebrouck/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

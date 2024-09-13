@@ -1,5 +1,5 @@
 ---
 title: "Kiloutou"
 url: /lille/kiloutou/
-shop: Mieten
+shop: location de stockage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /caudry/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

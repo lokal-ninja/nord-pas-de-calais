@@ -1,5 +1,5 @@
 ---
 title: "Poissonnerie Havetz"
 url: /armentieres/poissonnerie-havetz/
-shop: Fisch
+shop: fruits de mer
 ---

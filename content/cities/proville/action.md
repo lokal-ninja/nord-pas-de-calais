@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /proville/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

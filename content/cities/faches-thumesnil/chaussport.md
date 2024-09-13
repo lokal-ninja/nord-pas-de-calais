@@ -1,5 +1,5 @@
 ---
 title: "Chaussport"
 url: /faches-thumesnil/chaussport/
-shop: Schuhe
+shop: chaussures
 ---

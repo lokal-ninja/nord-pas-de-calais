@@ -1,5 +1,5 @@
 ---
 title: "Origine"
 url: /rouvignies/origine/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /lievin/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

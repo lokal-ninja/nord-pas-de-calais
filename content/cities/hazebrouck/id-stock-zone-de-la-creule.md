@@ -1,5 +1,5 @@
 ---
 title: "iD Stock"
 url: /hazebrouck/id-stock-zone-de-la-creule/
-shop: Kramladen
+shop: magasin de variétés
 ---

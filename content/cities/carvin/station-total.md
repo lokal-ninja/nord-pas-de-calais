@@ -1,5 +1,5 @@
 ---
 title: "Station Total"
 url: /carvin/station-total/
-shop: Lebensmittel
+shop: commodité
 ---

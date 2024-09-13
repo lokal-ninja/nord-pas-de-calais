@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /wissant/spar/
-shop: Supermarkt
+shop: supermarché
 ---

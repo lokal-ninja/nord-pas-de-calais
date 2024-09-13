@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /caudry/intermarche/
-shop: Gasflaschen
+shop: gaz
 ---

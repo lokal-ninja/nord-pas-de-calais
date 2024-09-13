@@ -1,5 +1,5 @@
 ---
 title: "Armor Lux"
 url: /douai/armor-lux/
-shop: Kleidung
+shop: vêtements
 ---

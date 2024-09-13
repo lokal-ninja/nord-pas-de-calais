@@ -1,5 +1,5 @@
 ---
 title: "Audika"
 url: /armentieres/audika/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

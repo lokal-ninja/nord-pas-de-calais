@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /bruay-la-buissiere/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

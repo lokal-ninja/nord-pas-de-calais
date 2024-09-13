@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /lens/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

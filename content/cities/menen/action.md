@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /menen/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

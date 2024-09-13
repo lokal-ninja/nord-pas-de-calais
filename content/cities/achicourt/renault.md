@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /achicourt/renault/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

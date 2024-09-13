@@ -1,5 +1,5 @@
 ---
 title: "Kiloutou"
 url: /lens/kiloutou/
-shop: Werkzeuge
+shop: outils
 ---

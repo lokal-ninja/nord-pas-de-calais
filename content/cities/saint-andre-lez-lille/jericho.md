@@ -1,5 +1,5 @@
 ---
 title: "Jericho"
 url: /saint-andre-lez-lille/jericho/
-shop: Instrumente
+shop: instrument de musique
 ---

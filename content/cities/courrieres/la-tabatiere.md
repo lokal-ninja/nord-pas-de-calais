@@ -1,5 +1,5 @@
 ---
 title: "La Tabatière"
 url: /courrieres/la-tabatiere/
-shop: Zeitungen
+shop: marchand de journaux
 ---

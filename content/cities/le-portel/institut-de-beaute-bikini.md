@@ -1,5 +1,5 @@
 ---
 title: "Institut de Beauté Bikini"
 url: /le-portel/institut-de-beaute-bikini/
-shop: Kosmetik
+shop: beauté
 ---

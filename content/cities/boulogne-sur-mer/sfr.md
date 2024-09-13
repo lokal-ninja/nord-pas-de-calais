@@ -1,5 +1,5 @@
 ---
 title: "SFR"
 url: /boulogne-sur-mer/sfr/
-shop: Handy
+shop: téléphone portable
 ---

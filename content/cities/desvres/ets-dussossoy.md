@@ -1,5 +1,5 @@
 ---
 title: "Ets Dussossoy"
 url: /desvres/ets-dussossoy/
-shop: Baumarkt
+shop: à faire soi-même
 ---

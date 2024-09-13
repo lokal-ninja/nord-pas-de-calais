@@ -1,5 +1,5 @@
 ---
 title: "Renault Saneg"
 url: /carvin/renault-saneg/
-shop: Autohaus
+shop: voiture
 ---

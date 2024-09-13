@@ -1,5 +1,5 @@
 ---
 title: "Flip'Optic"
 url: /la-gorgue/flipoptic/
-shop: Optiker
+shop: opticien
 ---

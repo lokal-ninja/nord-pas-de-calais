@@ -1,5 +1,5 @@
 ---
 title: "Carpolish France"
 url: /halluin/carpolish-france/
-shop: Autoteile
+shop: pièces de voitures
 ---

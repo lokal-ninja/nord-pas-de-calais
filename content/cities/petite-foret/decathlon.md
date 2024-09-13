@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /petite-foret/decathlon/
-shop: Sport
+shop: sports
 ---

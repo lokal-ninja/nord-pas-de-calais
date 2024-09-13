@@ -1,5 +1,5 @@
 ---
 title: "Animal Market"
 url: /noeux-les-mines/animal-market/
-shop: Tiere
+shop: animal de compagnie
 ---

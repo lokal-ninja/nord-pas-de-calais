@@ -1,5 +1,5 @@
 ---
 title: "Chausport"
 url: /wasquehal/chausport/
-shop: Schuhe
+shop: chaussures
 ---

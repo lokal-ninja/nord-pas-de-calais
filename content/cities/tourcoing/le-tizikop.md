@@ -1,5 +1,5 @@
 ---
 title: "Le Tizikop"
 url: /tourcoing/le-tizikop/
-shop: Lebensmittel
+shop: commodité
 ---

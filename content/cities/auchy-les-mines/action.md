@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /auchy-les-mines/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

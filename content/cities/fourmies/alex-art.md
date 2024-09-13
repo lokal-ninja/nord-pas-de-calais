@@ -1,5 +1,5 @@
 ---
 title: "Alex Art"
 url: /fourmies/alex-art/
-shop: Tattoo
+shop: tatouage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Krys"
 url: /etaples/krys/
-shop: Optiker
+shop: opticien
 ---

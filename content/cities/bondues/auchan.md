@@ -1,5 +1,5 @@
 ---
 title: "Auchan"
 url: /bondues/auchan/
-shop: Supermarkt
+shop: supermarché
 ---

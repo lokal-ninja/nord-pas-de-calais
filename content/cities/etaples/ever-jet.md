@@ -1,5 +1,5 @@
 ---
 title: "Ever-Jet"
 url: /etaples/ever-jet/
-shop: Sport
+shop: sports
 ---

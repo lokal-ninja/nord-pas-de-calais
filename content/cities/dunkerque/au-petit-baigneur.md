@@ -1,5 +1,5 @@
 ---
 title: "Au petit Baigneur"
 url: /dunkerque/au-petit-baigneur/
-shop: Spielzeug
+shop: jouets
 ---

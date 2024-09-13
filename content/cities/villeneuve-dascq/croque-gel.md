@@ -1,5 +1,5 @@
 ---
 title: "Croque Gel"
 url: /villeneuve-dascq/croque-gel/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

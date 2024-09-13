@@ -1,5 +1,5 @@
 ---
 title: "Thomas Cook"
 url: /lillers/thomas-cook/
-shop: Reisebüro
+shop: agence de voyage
 ---

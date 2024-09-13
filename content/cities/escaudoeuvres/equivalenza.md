@@ -1,5 +1,5 @@
 ---
 title: "Equivalenza"
 url: /escaudoeuvres/equivalenza/
-shop: Parfümerie
+shop: parfumerie
 ---

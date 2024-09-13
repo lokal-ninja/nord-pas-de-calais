@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Salomez"
 url: /auchel/boulangerie-salomez-rue-arthur-lamendin/
-shop: Bäckerei
+shop: boulangerie
 ---

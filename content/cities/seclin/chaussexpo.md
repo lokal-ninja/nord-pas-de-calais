@@ -1,5 +1,5 @@
 ---
 title: "Chaussexpo"
 url: /seclin/chaussexpo/
-shop: Schuhe
+shop: chaussures
 ---

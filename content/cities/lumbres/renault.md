@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /lumbres/renault/
-shop: Autohaus
+shop: voiture
 ---

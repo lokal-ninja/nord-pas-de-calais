@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /marquise/aldi/
-shop: Supermarkt
+shop: supermarché
 ---

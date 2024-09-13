@@ -1,5 +1,5 @@
 ---
 title: "Oréades"
 url: /armentieres/oreades/
-shop: Schmuck
+shop: bijoux
 ---

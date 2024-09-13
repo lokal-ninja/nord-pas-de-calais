@@ -1,5 +1,5 @@
 ---
 title: "Tikita Toilettage - Boutique"
 url: /marcq-en-baroeul/tikita-toilettage-boutique/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

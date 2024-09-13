@@ -1,5 +1,5 @@
 ---
 title: "Speedy"
 url: /henin-beaumont/speedy/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

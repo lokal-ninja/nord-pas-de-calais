@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /noeux-les-mines/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

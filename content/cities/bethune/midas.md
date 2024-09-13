@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /bethune/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

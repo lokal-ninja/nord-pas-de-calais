@@ -1,5 +1,5 @@
 ---
 title: "Art Canin Toilettage"
 url: /aubigny-en-artois/art-canin-toilettage/
-shop: Tiere
+shop: animal de compagnie
 ---

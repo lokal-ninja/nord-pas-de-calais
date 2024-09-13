@@ -1,5 +1,5 @@
 ---
 title: "La papeterie des écoles"
 url: /dunkerque/la-papeterie-des-ecoles/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

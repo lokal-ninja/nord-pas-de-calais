@@ -1,5 +1,5 @@
 ---
 title: "Henin Phone"
 url: /henin-beaumont/henin-phone/
-shop: Handy
+shop: téléphone portable
 ---

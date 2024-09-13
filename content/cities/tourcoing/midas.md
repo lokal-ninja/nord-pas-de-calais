@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /tourcoing/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

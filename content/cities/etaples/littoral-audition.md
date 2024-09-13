@@ -1,5 +1,5 @@
 ---
 title: "Littoral Audition"
 url: /etaples/littoral-audition/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

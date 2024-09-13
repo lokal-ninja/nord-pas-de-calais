@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /bapaume/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

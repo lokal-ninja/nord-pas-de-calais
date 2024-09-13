@@ -1,5 +1,5 @@
 ---
 title: "Coiffeurs Plus"
 url: /faches-thumesnil/coiffeurs-plus/
-shop: Friseur
+shop: coiffeur
 ---

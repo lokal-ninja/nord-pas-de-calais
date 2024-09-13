@@ -1,5 +1,5 @@
 ---
 title: "The family's boutique"
 url: /boulogne-sur-mer/the-familys-boutique/
-shop: Andenken
+shop: cadeau
 ---

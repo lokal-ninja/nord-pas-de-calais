@@ -1,5 +1,5 @@
 ---
 title: "RougeGorge Lingerie"
 url: /wasquehal/rougegorge-lingerie/
-shop: Kleidung
+shop: vêtements
 ---

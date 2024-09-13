@@ -1,5 +1,5 @@
 ---
 title: "Parfumerie d'Élerce"
 url: /bruay-la-buissiere/parfumerie-delerce/
-shop: Parfümerie
+shop: parfumerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Black Arts Tattoo"
 url: /masnieres/black-arts-tattoo/
-shop: Tattoo
+shop: tatouage
 ---

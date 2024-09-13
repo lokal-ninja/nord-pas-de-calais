@@ -1,5 +1,5 @@
 ---
 title: "Gamma"
 url: /menen/gamma/
-shop: Baumarkt
+shop: à faire soi-même
 ---

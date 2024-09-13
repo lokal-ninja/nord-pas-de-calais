@@ -1,5 +1,5 @@
 ---
 title: "Royal Dog"
 url: /villeneuve-dascq/royal-dog/
-shop: Tiere
+shop: animal de compagnie
 ---

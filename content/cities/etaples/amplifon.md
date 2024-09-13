@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /etaples/amplifon/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

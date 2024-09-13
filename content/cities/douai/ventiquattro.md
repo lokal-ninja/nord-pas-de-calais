@@ -1,5 +1,5 @@
 ---
 title: "Ventiquattro"
 url: /douai/ventiquattro/
-shop: Feinkost
+shop: charcuterie
 ---

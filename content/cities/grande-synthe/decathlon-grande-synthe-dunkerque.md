@@ -1,5 +1,5 @@
 ---
 title: "Decathlon Grande Synthe Dunkerque"
 url: /grande-synthe/decathlon-grande-synthe-dunkerque/
-shop: Sport
+shop: sports
 ---

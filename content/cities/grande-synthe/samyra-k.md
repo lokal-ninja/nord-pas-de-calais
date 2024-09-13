@@ -1,5 +1,5 @@
 ---
 title: "Samyra K."
 url: /grande-synthe/samyra-k/
-shop: Friseur
+shop: coiffeur
 ---

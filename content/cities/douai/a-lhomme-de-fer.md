@@ -1,5 +1,5 @@
 ---
 title: "À l'Homme de Fer"
 url: /douai/a-lhomme-de-fer/
-shop: Haushaltsartikel
+shop: articles ménagers
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Homabel"
 url: /lievin/homabel/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

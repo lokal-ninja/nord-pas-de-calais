@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /faches-thumesnil/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

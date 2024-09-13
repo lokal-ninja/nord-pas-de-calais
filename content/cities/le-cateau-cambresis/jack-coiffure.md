@@ -1,5 +1,5 @@
 ---
 title: "Jack Coiffure"
 url: /le-cateau-cambresis/jack-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

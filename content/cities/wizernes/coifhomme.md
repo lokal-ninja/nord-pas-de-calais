@@ -1,5 +1,5 @@
 ---
 title: "Coif'Homme"
 url: /wizernes/coifhomme/
-shop: Friseur
+shop: coiffeur
 ---

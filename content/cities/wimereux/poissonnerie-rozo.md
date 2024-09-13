@@ -1,5 +1,5 @@
 ---
 title: "Poissonnerie Rozo"
 url: /wimereux/poissonnerie-rozo/
-shop: Fisch
+shop: fruits de mer
 ---

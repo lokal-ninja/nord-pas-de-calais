@@ -1,5 +1,5 @@
 ---
 title: "Antonelle"
 url: /boulogne-sur-mer/antonelle/
-shop: Kleidung
+shop: vêtements
 ---

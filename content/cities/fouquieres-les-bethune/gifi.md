@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /fouquieres-les-bethune/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

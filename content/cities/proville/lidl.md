@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /proville/lidl/
-shop: Supermarkt
+shop: supermarché
 ---

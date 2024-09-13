@@ -1,5 +1,5 @@
 ---
 title: "Le Miroir"
 url: /cambrai/le-miroir/
-shop: Friseur
+shop: coiffeur
 ---

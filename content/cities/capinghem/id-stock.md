@@ -1,5 +1,5 @@
 ---
 title: "ID Stock"
 url: /capinghem/id-stock/
-shop: Kramladen
+shop: magasin de variétés
 ---

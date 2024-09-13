@@ -1,5 +1,5 @@
 ---
 title: "corbanesi music"
 url: /boulogne-sur-mer/corbanesi-music/
-shop: Instrumente
+shop: instrument de musique
 ---

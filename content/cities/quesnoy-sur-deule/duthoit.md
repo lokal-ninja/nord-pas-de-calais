@@ -1,5 +1,5 @@
 ---
 title: "Duthoit"
 url: /quesnoy-sur-deule/duthoit/
-shop: Metzgerei
+shop: boucherie
 ---

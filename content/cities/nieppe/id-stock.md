@@ -1,5 +1,5 @@
 ---
 title: "Id Stock"
 url: /nieppe/id-stock/
-shop: Kramladen
+shop: magasin de variétés
 ---

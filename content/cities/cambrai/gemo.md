@@ -1,5 +1,5 @@
 ---
 title: "Gémo"
 url: /cambrai/gemo/
-shop: Kleidung
+shop: vêtements
 ---

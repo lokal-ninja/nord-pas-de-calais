@@ -1,5 +1,5 @@
 ---
 title: "Nissan"
 url: /saint-leonard/nissan/
-shop: Autohaus
+shop: voiture
 ---

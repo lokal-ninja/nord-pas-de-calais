@@ -1,5 +1,5 @@
 ---
 title: "Auchan"
 url: /bethune/auchan/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

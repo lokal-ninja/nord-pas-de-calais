@@ -1,5 +1,5 @@
 ---
 title: "Le Fromager"
 url: /boulogne-sur-mer/le-fromager/
-shop: Käse
+shop: fromage
 ---

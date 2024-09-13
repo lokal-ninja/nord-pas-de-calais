@@ -1,5 +1,5 @@
 ---
 title: "Intermarché Super"
 url: /montigny-en-gohelle/intermarche-super/
-shop: Supermarkt
+shop: supermarché
 ---

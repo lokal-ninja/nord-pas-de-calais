@@ -1,5 +1,5 @@
 ---
 title: "Couturier et associé"
 url: /lille/couturier-et-associe/
-shop: Instrumente
+shop: instrument de musique
 ---

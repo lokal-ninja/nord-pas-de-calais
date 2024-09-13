@@ -1,5 +1,5 @@
 ---
 title: "Coiffure Mille"
 url: /boulogne-sur-mer/coiffure-mille/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stockomani"
 url: /noeux-les-mines/stockomani/
-shop: Kramladen
+shop: magasin de variétés
 ---

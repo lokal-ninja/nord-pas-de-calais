@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /lesquin/shell/
-shop: Lebensmittel
+shop: commodité
 ---

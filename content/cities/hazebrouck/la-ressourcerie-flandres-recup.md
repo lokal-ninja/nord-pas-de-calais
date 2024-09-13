@@ -1,5 +1,5 @@
 ---
 title: "La Ressourcerie - Flandres Recup"
 url: /hazebrouck/la-ressourcerie-flandres-recup/
-shop: Kleidung
+shop: vêtements
 ---

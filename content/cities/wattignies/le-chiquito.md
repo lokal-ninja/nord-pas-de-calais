@@ -1,5 +1,5 @@
 ---
 title: "Le Chiquito"
 url: /wattignies/le-chiquito/
-shop: Tabak
+shop: tabac
 ---

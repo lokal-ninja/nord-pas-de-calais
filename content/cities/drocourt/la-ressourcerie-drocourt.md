@@ -1,5 +1,5 @@
 ---
 title: "La Ressourcerie Drocourt"
 url: /drocourt/la-ressourcerie-drocourt/
-shop: Gebrauchtwaren
+shop: charité
 ---

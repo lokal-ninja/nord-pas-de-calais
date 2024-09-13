@@ -1,5 +1,5 @@
 ---
 title: "Nuances Unikalo"
 url: /cambrai/nuances-unikalo/
-shop: Farben
+shop: peinture
 ---

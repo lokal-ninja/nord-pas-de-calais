@@ -1,5 +1,5 @@
 ---
 title: "Courbet"
 url: /cambrai/courbet/
-shop: Bäckerei
+shop: boulangerie
 ---

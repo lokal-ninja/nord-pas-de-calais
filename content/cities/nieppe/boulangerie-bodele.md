@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Bodèle"
 url: /nieppe/boulangerie-bodele/
-shop: Bäckerei
+shop: boulangerie
 ---

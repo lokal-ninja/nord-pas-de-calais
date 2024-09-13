@@ -1,5 +1,5 @@
 ---
 title: "Frére Valembois (Pompes Funaibres, Marbrerie)"
 url: /bruay-la-buissiere/frere-valembois-pompes-funaibres-marbrerie/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

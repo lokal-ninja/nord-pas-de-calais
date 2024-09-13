@@ -1,5 +1,5 @@
 ---
 title: "Kiloutou"
 url: /maubeuge/kiloutou/
-shop: Baumarkt
+shop: à faire soi-même
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pompes funèbres marbrerie Menet"
 url: /halluin/pompes-funebres-marbrerie-menet/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

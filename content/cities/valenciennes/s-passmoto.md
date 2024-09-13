@@ -1,5 +1,5 @@
 ---
 title: "S-passmoto"
 url: /valenciennes/s-passmoto/
-shop: Motorrad
+shop: moto
 ---

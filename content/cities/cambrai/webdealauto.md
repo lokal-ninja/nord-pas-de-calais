@@ -1,5 +1,5 @@
 ---
 title: "WebDealAuto"
 url: /cambrai/webdealauto/
-shop: Autoteile
+shop: pièces de voitures
 ---

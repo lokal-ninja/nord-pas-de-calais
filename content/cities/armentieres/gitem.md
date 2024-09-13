@@ -1,5 +1,5 @@
 ---
 title: "Gitem"
 url: /armentieres/gitem/
-shop: Leerstehend
+shop: vacant
 ---

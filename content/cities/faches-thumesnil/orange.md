@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /faches-thumesnil/orange/
-shop: Handy
+shop: téléphone portable
 ---

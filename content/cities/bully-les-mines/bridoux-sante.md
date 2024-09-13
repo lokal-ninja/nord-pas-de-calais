@@ -1,5 +1,5 @@
 ---
 title: "Bridoux Santé"
 url: /bully-les-mines/bridoux-sante/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

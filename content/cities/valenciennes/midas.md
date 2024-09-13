@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /valenciennes/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ding Fring"
 url: /armentieres/ding-fring/
-shop: Gebrauchtwaren
+shop: charité
 ---

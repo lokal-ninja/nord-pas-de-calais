@@ -1,5 +1,5 @@
 ---
 title: "Alain Afflelou"
 url: /saint-omer/alain-afflelou/
-shop: Optiker
+shop: opticien
 ---

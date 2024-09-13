@@ -1,5 +1,5 @@
 ---
 title: "La Roseraie"
 url: /verlinghem/la-roseraie/
-shop: Blumen
+shop: fleuriste
 ---

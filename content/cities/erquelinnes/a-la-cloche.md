@@ -1,5 +1,5 @@
 ---
 title: "À la cloche"
 url: /erquelinnes/a-la-cloche/
-shop: Tabak
+shop: tabac
 ---

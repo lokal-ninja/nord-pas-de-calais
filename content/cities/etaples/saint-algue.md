@@ -1,5 +1,5 @@
 ---
 title: "Saint Algue"
 url: /etaples/saint-algue/
-shop: Friseur
+shop: coiffeur
 ---

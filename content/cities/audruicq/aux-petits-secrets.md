@@ -1,5 +1,5 @@
 ---
 title: "Aux Petits Secrets"
 url: /audruicq/aux-petits-secrets/
-shop: Kosmetik
+shop: beauté
 ---

@@ -1,5 +1,5 @@
 ---
 title: "J. Henneron"
 url: /douai/j-henneron/
-shop: Schmuck
+shop: bijoux
 ---

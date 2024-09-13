@@ -1,5 +1,5 @@
 ---
 title: "Pompes funèbres Pitiot"
 url: /lillers/pompes-funebres-pitiot/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

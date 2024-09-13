@@ -1,5 +1,5 @@
 ---
 title: "Racines"
 url: /cassel/racines/
-shop: Warenhaus
+shop: grand magasin
 ---

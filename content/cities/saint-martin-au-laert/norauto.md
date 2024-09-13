@@ -1,5 +1,5 @@
 ---
 title: "Norauto"
 url: /saint-martin-au-laert/norauto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

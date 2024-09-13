@@ -1,5 +1,5 @@
 ---
 title: "Julien d'Orcel"
 url: /noeux-les-mines/julien-dorcel/
-shop: Schmuck
+shop: bijoux
 ---

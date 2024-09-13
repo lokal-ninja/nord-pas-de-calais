@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /tourcoing/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Atol"
 url: /wasquehal/atol/
-shop: Optiker
+shop: opticien
 ---

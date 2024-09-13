@@ -1,5 +1,5 @@
 ---
 title: "cbd shop"
 url: /dunkerque/cbd-shop/
-shop: Hanf
+shop: cannabis
 ---

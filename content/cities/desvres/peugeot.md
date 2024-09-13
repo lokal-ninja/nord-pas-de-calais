@@ -1,5 +1,5 @@
 ---
 title: "Peugeot"
 url: /desvres/peugeot/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

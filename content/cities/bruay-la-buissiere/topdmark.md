@@ -1,5 +1,5 @@
 ---
 title: "TopDMark"
 url: /bruay-la-buissiere/topdmark/
-shop: Kleidung
+shop: vêtements
 ---

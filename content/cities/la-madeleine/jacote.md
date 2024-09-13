@@ -1,5 +1,5 @@
 ---
 title: "Jacote"
 url: /la-madeleine/jacote/
-shop: Kleidung
+shop: vêtements
 ---

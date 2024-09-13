@@ -1,5 +1,5 @@
 ---
 title: "L'éclat de verre"
 url: /lille/leclat-de-verre/
-shop: Rahmen
+shop: cadre
 ---

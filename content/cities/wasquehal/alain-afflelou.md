@@ -1,5 +1,5 @@
 ---
 title: "Alain Afflelou"
 url: /wasquehal/alain-afflelou/
-shop: Optiker
+shop: opticien
 ---

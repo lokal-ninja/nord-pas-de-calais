@@ -1,5 +1,5 @@
 ---
 title: "Lory"
 url: /bruay-la-buissiere/lory/
-shop: Kramladen
+shop: magasin de variétés
 ---

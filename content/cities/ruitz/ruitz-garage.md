@@ -1,5 +1,5 @@
 ---
 title: "Ruitz Garage"
 url: /ruitz/ruitz-garage/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pièces Auto"
 url: /dunkerque/pieces-auto/
-shop: Autoteile
+shop: pièces de voitures
 ---

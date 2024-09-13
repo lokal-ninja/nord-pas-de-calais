@@ -1,5 +1,5 @@
 ---
 title: "GrandOptical"
 url: /armentieres/grandoptical/
-shop: Optiker
+shop: opticien
 ---

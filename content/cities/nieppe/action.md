@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /nieppe/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

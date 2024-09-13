@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /boulogne-sur-mer/intersport/
-shop: Sport
+shop: sports
 ---

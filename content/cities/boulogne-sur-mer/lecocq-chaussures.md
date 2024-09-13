@@ -1,5 +1,5 @@
 ---
 title: "Lecocq chaussures"
 url: /boulogne-sur-mer/lecocq-chaussures/
-shop: Schuhe
+shop: chaussures
 ---

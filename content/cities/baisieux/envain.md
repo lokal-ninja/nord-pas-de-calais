@@ -1,5 +1,5 @@
 ---
 title: "Envain"
 url: /baisieux/envain/
-shop: Baumarkt
+shop: à faire soi-même
 ---

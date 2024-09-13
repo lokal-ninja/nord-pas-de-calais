@@ -1,5 +1,5 @@
 ---
 title: "Sophie"
 url: /wimereux/sophie/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /armentieres/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

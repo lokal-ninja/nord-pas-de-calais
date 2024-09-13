@@ -1,5 +1,5 @@
 ---
 title: "L'incroyable"
 url: /vendin-le-vieil/lincroyable/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

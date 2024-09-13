@@ -1,5 +1,5 @@
 ---
 title: "Les Soeurettes"
 url: /boulogne-sur-mer/les-soeurettes/
-shop: Kleidung
+shop: vêtements
 ---

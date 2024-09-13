@@ -1,5 +1,5 @@
 ---
 title: "La cloche d’or"
 url: /bethune/la-cloche-dor/
-shop: Tabak
+shop: tabac
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sebiclou"
 url: /villeneuve-dascq/sebiclou/
-shop: Fahrrad
+shop: vélo
 ---

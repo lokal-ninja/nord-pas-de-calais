@@ -1,5 +1,5 @@
 ---
 title: "Okaïdi"
 url: /douai/okaidi/
-shop: Kleidung
+shop: vêtements
 ---

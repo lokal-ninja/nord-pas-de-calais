@@ -1,5 +1,5 @@
 ---
 title: "Desmarchelier-Le Canu"
 url: /lille/desmarchelier-le-canu/
-shop: Instrumente
+shop: instrument de musique
 ---

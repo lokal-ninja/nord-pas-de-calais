@@ -1,5 +1,5 @@
 ---
 title: "Presse"
 url: /grande-synthe/presse/
-shop: Zeitungen
+shop: marchand de journaux
 ---

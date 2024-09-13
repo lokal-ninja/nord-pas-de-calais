@@ -1,5 +1,5 @@
 ---
 title: "Micromania"
 url: /cambrai/micromania/
-shop: Videospiele
+shop: jeux vidéo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /capinghem/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /la-chapelle-darmentieres/ford/
-shop: Autohaus
+shop: voiture
 ---

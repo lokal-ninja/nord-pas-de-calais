@@ -1,5 +1,5 @@
 ---
 title: "Hugo Box"
 url: /calais/hugo-box/
-shop: Mieten
+shop: location de stockage
 ---

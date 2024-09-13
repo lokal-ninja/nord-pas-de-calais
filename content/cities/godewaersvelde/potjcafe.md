@@ -1,5 +1,5 @@
 ---
 title: "Potj'Café"
 url: /godewaersvelde/potjcafe/
-shop: Kaffee
+shop: café
 ---

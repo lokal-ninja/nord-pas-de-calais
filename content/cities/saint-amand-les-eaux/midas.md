@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /saint-amand-les-eaux/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

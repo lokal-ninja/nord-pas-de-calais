@@ -1,5 +1,5 @@
 ---
 title: "Crémerie"
 url: /roubaix/cremerie/
-shop: Lebensmittel
+shop: commodité
 ---

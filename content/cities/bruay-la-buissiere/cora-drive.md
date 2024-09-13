@@ -1,5 +1,5 @@
 ---
 title: "Cora Drive"
 url: /bruay-la-buissiere/cora-drive/
-shop: Supermarkt
+shop: supermarché
 ---

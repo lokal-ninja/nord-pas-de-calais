@@ -1,5 +1,5 @@
 ---
 title: "Coiffeur"
 url: /la-bassee/coiffeur/
-shop: Friseur
+shop: coiffeur
 ---

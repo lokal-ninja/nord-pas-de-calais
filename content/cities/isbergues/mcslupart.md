@@ -1,5 +1,5 @@
 ---
 title: "mcslupart"
 url: /isbergues/mcslupart/
-shop: Fahrrad
+shop: vélo
 ---

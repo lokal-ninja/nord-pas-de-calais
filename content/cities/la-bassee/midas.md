@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /la-bassee/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

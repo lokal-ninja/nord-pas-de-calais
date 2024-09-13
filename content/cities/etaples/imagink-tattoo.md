@@ -1,5 +1,5 @@
 ---
 title: "Imag'ink Tattoo"
 url: /etaples/imagink-tattoo/
-shop: Tattoo
+shop: tatouage
 ---

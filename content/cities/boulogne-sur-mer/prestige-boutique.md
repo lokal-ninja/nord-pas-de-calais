@@ -1,5 +1,5 @@
 ---
 title: "Prestige Boutique"
 url: /boulogne-sur-mer/prestige-boutique/
-shop: Kleidung
+shop: vêtements
 ---

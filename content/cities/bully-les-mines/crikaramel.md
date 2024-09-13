@@ -1,5 +1,5 @@
 ---
 title: "Crikaramel"
 url: /bully-les-mines/crikaramel/
-shop: Konditorei
+shop: pâtisserie
 ---

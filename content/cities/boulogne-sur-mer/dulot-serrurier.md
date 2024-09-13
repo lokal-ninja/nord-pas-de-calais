@@ -1,5 +1,5 @@
 ---
 title: "Dulot serrurier"
 url: /boulogne-sur-mer/dulot-serrurier/
-shop: Schlüsseldienst
+shop: serrurier
 ---

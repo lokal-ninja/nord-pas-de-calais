@@ -1,5 +1,5 @@
 ---
 title: "Génération Voyage"
 url: /etaples/generation-voyage/
-shop: Reisebüro
+shop: agence de voyage
 ---

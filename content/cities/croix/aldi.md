@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /croix/aldi/
-shop: Supermarkt
+shop: supermarché
 ---

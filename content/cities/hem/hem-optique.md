@@ -1,5 +1,5 @@
 ---
 title: "Hem Optique"
 url: /hem/hem-optique/
-shop: Optiker
+shop: opticien
 ---

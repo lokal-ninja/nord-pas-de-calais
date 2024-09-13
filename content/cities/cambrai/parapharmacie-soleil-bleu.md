@@ -1,5 +1,5 @@
 ---
 title: "Parapharmacie Soleil Bleu"
 url: /cambrai/parapharmacie-soleil-bleu/
-shop: Drogerie
+shop: chimiste
 ---

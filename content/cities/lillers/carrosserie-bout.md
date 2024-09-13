@@ -1,5 +1,5 @@
 ---
 title: "Carrosserie Bout"
 url: /lillers/carrosserie-bout/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Christian Miche"
 url: /escaudoeuvres/christian-miche/
-shop: Schmuck
+shop: bijoux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Malo Presse"
 url: /dunkerque/malo-presse/
-shop: Zeitungen
+shop: marchand de journaux
 ---

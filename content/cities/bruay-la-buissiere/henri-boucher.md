@@ -1,5 +1,5 @@
 ---
 title: "Henri Boucher"
 url: /bruay-la-buissiere/henri-boucher/
-shop: Metzgerei
+shop: boucherie
 ---

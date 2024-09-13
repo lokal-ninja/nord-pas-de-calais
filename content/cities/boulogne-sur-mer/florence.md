@@ -1,5 +1,5 @@
 ---
 title: "Florence"
 url: /boulogne-sur-mer/florence/
-shop: Leder
+shop: cuir
 ---

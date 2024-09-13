@@ -1,5 +1,5 @@
 ---
 title: "Salon Helena"
 url: /boulogne-sur-mer/salon-helena/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Librairie Al Abrar"
 url: /louvroil/librairie-al-abrar/
-shop: Bücher
+shop: livres
 ---

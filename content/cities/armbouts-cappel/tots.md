@@ -1,5 +1,5 @@
 ---
 title: "Tots"
 url: /armbouts-cappel/tots/
-shop: Badezimmer
+shop: salle de bains
 ---

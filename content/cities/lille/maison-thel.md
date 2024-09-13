@@ -1,5 +1,5 @@
 ---
 title: "Maison Thel"
 url: /lille/maison-thel/
-shop: Haushaltsgeräte
+shop: appareil ménager
 ---

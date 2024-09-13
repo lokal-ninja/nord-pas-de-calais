@@ -1,5 +1,5 @@
 ---
 title: "Le Cyprien"
 url: /carvin/le-cyprien/
-shop: Tabak
+shop: tabac
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /neuville-en-ferrain/intersport/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /wasquehal/orange/
-shop: Handy
+shop: téléphone portable
 ---

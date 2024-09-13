@@ -1,5 +1,5 @@
 ---
 title: "Tabac Journaux"
 url: /douai/tabac-journaux/
-shop: Zeitungen
+shop: marchand de journaux
 ---

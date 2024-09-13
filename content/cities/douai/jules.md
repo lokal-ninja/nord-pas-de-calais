@@ -1,5 +1,5 @@
 ---
 title: "Jules"
 url: /douai/jules/
-shop: Kleidung
+shop: vêtements
 ---

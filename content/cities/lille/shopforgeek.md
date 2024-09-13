@@ -1,5 +1,5 @@
 ---
 title: "ShopForGeek"
 url: /lille/shopforgeek/
-shop: Spielzeug
+shop: jouets
 ---

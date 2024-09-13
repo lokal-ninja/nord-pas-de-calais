@@ -1,5 +1,5 @@
 ---
 title: "Opale Toilettage"
 url: /cucq/opale-toilettage/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

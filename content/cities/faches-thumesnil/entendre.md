@@ -1,5 +1,5 @@
 ---
 title: "Entendre"
 url: /faches-thumesnil/entendre/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

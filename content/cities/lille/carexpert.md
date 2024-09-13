@@ -1,5 +1,5 @@
 ---
 title: "Car'expert"
 url: /lille/carexpert/
-shop: Autoteile
+shop: pièces de voitures
 ---

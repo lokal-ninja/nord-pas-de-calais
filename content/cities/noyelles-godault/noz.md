@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /noyelles-godault/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

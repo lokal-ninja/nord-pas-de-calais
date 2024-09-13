@@ -1,5 +1,5 @@
 ---
 title: "Mr.Bricolage"
 url: /aire-sur-la-lys/mr-bricolage/
-shop: Baumarkt
+shop: à faire soi-même
 ---

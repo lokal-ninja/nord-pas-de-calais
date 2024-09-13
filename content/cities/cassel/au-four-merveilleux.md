@@ -1,5 +1,5 @@
 ---
 title: "Au Four Merveilleux"
 url: /cassel/au-four-merveilleux/
-shop: Warenhaus
+shop: grand magasin
 ---

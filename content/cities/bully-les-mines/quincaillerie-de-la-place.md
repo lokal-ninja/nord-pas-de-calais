@@ -1,5 +1,5 @@
 ---
 title: "Quincaillerie de la place"
 url: /bully-les-mines/quincaillerie-de-la-place/
-shop: Eisenwaren
+shop: matériel informatique
 ---

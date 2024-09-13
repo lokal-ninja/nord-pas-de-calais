@@ -1,5 +1,5 @@
 ---
 title: "Hainaut Pêche Quiévrain"
 url: /quievrain/hainaut-peche-quievrain/
-shop: Angeln
+shop: pêche
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Monoprix"
 url: /valenciennes/monoprix/
-shop: Supermarkt
+shop: supermarché
 ---

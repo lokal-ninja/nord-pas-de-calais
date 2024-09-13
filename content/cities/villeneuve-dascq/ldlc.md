@@ -1,5 +1,5 @@
 ---
 title: "LDLC"
 url: /villeneuve-dascq/ldlc/
-shop: Computer
+shop: ordinateur
 ---

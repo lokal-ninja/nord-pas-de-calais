@@ -1,5 +1,5 @@
 ---
 title: "Chic'On Brasse"
 url: /marcoing/chicon-brasse/
-shop: Getränke
+shop: boissons
 ---

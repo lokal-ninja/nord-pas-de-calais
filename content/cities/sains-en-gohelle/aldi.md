@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /sains-en-gohelle/aldi/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

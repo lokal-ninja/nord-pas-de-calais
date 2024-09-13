@@ -1,5 +1,5 @@
 ---
 title: "Garage Smyk Joël"
 url: /haillicourt/garage-smyk-joel/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

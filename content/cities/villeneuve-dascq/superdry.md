@@ -1,5 +1,5 @@
 ---
 title: "Superdry"
 url: /villeneuve-dascq/superdry/
-shop: Kleidung
+shop: vêtements
 ---

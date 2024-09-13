@@ -1,5 +1,5 @@
 ---
 title: "Comptoir des monnaies anciennes"
 url: /boulogne-sur-mer/comptoir-des-monnaies-anciennes/
-shop: Sammler
+shop: collecteur
 ---

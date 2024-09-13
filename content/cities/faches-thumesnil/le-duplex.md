@@ -1,5 +1,5 @@
 ---
 title: "Le Duplex"
 url: /faches-thumesnil/le-duplex/
-shop: Friseur
+shop: coiffeur
 ---

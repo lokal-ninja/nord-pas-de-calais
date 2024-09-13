@@ -1,5 +1,5 @@
 ---
 title: "Bérénice Coiffure"
 url: /le-portel/berenice-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ldestock Magasin de Destockage"
 url: /coudekerque-branche/ldestock-magasin-de-destockage/
-shop: Kramladen
+shop: magasin de variétés
 ---

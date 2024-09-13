@@ -1,5 +1,5 @@
 ---
 title: "Abrinor Immobilier Tourcoing"
 url: /tourcoing/abrinor-immobilier-tourcoing/
-shop: Blumen
+shop: fleuriste
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cuisinella"
 url: /proville/cuisinella/
-shop: Küchen
+shop: cuisine
 ---

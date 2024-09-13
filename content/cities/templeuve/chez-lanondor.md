@@ -1,5 +1,5 @@
 ---
 title: "Chez l'Anondor"
 url: /templeuve/chez-lanondor/
-shop: Hofladen
+shop: ferme
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MTD Lestienne"
 url: /boulogne-sur-mer/mtd-lestienne/
-shop: Bäckerei
+shop: boulangerie
 ---

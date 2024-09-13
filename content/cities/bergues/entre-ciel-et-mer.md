@@ -1,5 +1,5 @@
 ---
 title: "Entre ciel et mer"
 url: /bergues/entre-ciel-et-mer/
-shop: Fisch
+shop: fruits de mer
 ---

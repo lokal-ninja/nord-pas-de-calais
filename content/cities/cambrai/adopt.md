@@ -1,5 +1,5 @@
 ---
 title: "Adopt'"
 url: /cambrai/adopt/
-shop: Parfümerie
+shop: parfumerie
 ---

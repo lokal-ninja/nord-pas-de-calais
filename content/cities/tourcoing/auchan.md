@@ -1,5 +1,5 @@
 ---
 title: "Auchan"
 url: /tourcoing/auchan/
-shop: Supermarkt
+shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Louise"
 url: /valenciennes/louise/
-shop: Bäckerei
+shop: boulangerie
 ---

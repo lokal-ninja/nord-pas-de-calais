@@ -1,5 +1,5 @@
 ---
 title: "Kruidvat"
 url: /menen/kruidvat/
-shop: Drogerie
+shop: chimiste
 ---

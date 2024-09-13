@@ -1,5 +1,5 @@
 ---
 title: "Match"
 url: /henin-beaumont/match/
-shop: Supermarkt
+shop: supermarché
 ---

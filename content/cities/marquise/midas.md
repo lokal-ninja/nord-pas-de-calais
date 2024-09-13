@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /marquise/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

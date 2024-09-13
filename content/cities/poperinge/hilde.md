@@ -1,5 +1,5 @@
 ---
 title: "Hilde"
 url: /poperinge/hilde/
-shop: Friseur
+shop: coiffeur
 ---

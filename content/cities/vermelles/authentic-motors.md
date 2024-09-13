@@ -1,5 +1,5 @@
 ---
 title: "Authentic Motors"
 url: /vermelles/authentic-motors/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

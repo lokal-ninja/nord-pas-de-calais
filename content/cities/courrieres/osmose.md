@@ -1,5 +1,5 @@
 ---
 title: "Osmose"
 url: /courrieres/osmose/
-shop: Friseur
+shop: coiffeur
 ---

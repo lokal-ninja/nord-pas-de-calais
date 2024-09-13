@@ -1,5 +1,5 @@
 ---
 title: "Le Tabago"
 url: /harnes/le-tabago/
-shop: Tabak
+shop: tabac
 ---

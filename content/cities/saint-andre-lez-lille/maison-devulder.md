@@ -1,5 +1,5 @@
 ---
 title: "Maison Devulder"
 url: /saint-andre-lez-lille/maison-devulder/
-shop: Bäckerei
+shop: boulangerie
 ---

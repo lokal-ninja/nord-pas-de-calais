@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /maubeuge/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

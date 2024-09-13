@@ -1,5 +1,5 @@
 ---
 title: "ASD Carrosserie"
 url: /vendeville/asd-carrosserie/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

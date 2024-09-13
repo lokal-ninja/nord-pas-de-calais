@@ -1,5 +1,5 @@
 ---
 title: "Boutikazik"
 url: /douai/boutikazik/
-shop: Instrumente
+shop: instrument de musique
 ---

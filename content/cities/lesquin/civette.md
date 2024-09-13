@@ -1,5 +1,5 @@
 ---
 title: "Civette"
 url: /lesquin/civette/
-shop: Zeitungen
+shop: marchand de journaux
 ---

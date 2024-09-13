@@ -1,5 +1,5 @@
 ---
 title: "Lucidarme"
 url: /bondues/lucidarme/
-shop: Metzgerei
+shop: boucherie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Cave Gourmande"
 url: /gravelines/la-cave-gourmande/
-shop: Feinkost
+shop: charcuterie
 ---

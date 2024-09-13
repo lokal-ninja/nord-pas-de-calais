@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /saint-martin-au-laert/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

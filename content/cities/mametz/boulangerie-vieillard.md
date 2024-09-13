@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Vieillard"
 url: /mametz/boulangerie-vieillard/
-shop: Bäckerei
+shop: boulangerie
 ---

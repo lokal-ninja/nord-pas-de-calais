@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /wervik/aldi/
-shop: Supermarkt
+shop: supermarché
 ---

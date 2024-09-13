@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /vendin-le-vieil/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

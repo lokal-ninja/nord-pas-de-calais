@@ -1,5 +1,5 @@
 ---
 title: "Promod"
 url: /douai/promod/
-shop: Kleidung
+shop: vêtements
 ---

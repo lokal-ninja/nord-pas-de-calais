@@ -1,5 +1,5 @@
 ---
 title: "Station Carrefour"
 url: /wasquehal/station-carrefour/
-shop: Gasflaschen
+shop: gaz
 ---

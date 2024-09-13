@@ -1,5 +1,5 @@
 ---
 title: "Olivier Sauvage"
 url: /lille/olivier-sauvage/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /marly/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

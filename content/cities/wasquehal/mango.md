@@ -1,5 +1,5 @@
 ---
 title: "Mango"
 url: /wasquehal/mango/
-shop: Kleidung
+shop: vêtements
 ---

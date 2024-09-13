@@ -1,5 +1,5 @@
 ---
 title: "Speedy"
 url: /sains-en-gohelle/speedy/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

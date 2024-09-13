@@ -1,5 +1,5 @@
 ---
 title: "Verbeke"
 url: /lomme/verbeke/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Isa Fleurs"
 url: /bruay-la-buissiere/isa-fleurs/
-shop: Blumen
+shop: fleuriste
 ---

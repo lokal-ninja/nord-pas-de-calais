@@ -1,5 +1,5 @@
 ---
 title: "Cycles Matton"
 url: /estree-blanche/cycles-matton/
-shop: Fahrrad
+shop: vélo
 ---

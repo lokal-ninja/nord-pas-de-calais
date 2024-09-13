@@ -1,5 +1,5 @@
 ---
 title: "One Shop"
 url: /lille/one-shop/
-shop: Lebensmittel
+shop: commodité
 ---

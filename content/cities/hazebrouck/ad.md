@@ -1,5 +1,5 @@
 ---
 title: "AD"
 url: /hazebrouck/ad/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

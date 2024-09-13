@@ -1,5 +1,5 @@
 ---
 title: "Flash Phone"
 url: /douai/flash-phone/
-shop: Handy
+shop: téléphone portable
 ---

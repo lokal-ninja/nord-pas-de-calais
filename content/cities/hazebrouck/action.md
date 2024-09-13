@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /hazebrouck/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

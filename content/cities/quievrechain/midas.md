@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /quievrechain/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

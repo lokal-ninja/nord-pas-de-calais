@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /wasquehal/lidl/
-shop: Supermarkt
+shop: supermarché
 ---

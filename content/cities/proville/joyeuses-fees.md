@@ -1,5 +1,5 @@
 ---
 title: "Joyeuses Fées"
 url: /proville/joyeuses-fees/
-shop: Partyzubehör
+shop: fête
 ---

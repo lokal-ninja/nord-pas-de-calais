@@ -1,5 +1,5 @@
 ---
 title: "Excellence Coiffure"
 url: /villeneuve-dascq/excellence-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

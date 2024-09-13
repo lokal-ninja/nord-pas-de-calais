@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /marquette-lez-lille/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

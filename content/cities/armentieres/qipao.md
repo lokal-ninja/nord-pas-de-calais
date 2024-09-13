@@ -1,5 +1,5 @@
 ---
 title: "Qipao"
 url: /armentieres/qipao/
-shop: Kosmetik
+shop: beauté
 ---

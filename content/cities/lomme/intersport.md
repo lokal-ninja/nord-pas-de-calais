@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /lomme/intersport/
-shop: Sport
+shop: sports
 ---

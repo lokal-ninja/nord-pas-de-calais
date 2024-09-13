@@ -1,5 +1,5 @@
 ---
 title: "Kia"
 url: /villeneuve-dascq/kia/
-shop: Autohaus
+shop: voiture
 ---

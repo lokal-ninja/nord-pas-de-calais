@@ -1,5 +1,5 @@
 ---
 title: "Id Stock"
 url: /aire-sur-la-lys/id-stock/
-shop: Kramladen
+shop: magasin de variétés
 ---

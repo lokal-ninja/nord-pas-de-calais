@@ -1,5 +1,5 @@
 ---
 title: "Kapptech"
 url: /lille/kapptech/
-shop: Handy
+shop: téléphone portable
 ---

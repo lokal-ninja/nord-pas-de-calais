@@ -1,5 +1,5 @@
 ---
 title: "Etam"
 url: /douai/etam/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Au fournil d'Aulnoye"
 url: /aulnoye-aymeries/au-fournil-daulnoye/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Contact"
 url: /famars/carrefour-contact/
-shop: Supermarkt
+shop: supermarché
 ---

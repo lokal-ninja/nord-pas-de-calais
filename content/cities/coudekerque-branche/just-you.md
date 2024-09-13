@@ -1,5 +1,5 @@
 ---
 title: "JUST YOU"
 url: /coudekerque-branche/just-you/
-shop: Friseur
+shop: coiffeur
 ---

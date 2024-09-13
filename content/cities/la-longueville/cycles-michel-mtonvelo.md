@@ -1,5 +1,5 @@
 ---
 title: "Cycles Michel Mtonvelo"
 url: /la-longueville/cycles-michel-mtonvelo/
-shop: Fahrrad
+shop: vélo
 ---

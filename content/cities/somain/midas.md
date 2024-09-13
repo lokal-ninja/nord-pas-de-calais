@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /somain/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

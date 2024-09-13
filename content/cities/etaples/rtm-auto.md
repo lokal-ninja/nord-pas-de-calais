@@ -1,5 +1,5 @@
 ---
 title: "RTM Auto"
 url: /etaples/rtm-auto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

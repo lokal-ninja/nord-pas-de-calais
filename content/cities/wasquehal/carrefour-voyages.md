@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Voyages"
 url: /wasquehal/carrefour-voyages/
-shop: Reisebüro
+shop: agence de voyage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Mordacq"
 url: /westrehem/boucherie-mordacq/
-shop: Metzgerei
+shop: boucherie
 ---

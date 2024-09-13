@@ -1,5 +1,5 @@
 ---
 title: "Pierre Ramet"
 url: /etaples/pierre-ramet/
-shop: Bäckerei
+shop: boulangerie
 ---

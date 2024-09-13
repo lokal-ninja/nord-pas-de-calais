@@ -1,5 +1,5 @@
 ---
 title: "France Loisirs"
 url: /boulogne-sur-mer/france-loisirs/
-shop: Bücher
+shop: livres
 ---

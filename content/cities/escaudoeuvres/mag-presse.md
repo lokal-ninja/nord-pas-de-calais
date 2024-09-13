@@ -1,5 +1,5 @@
 ---
 title: "Mag Presse"
 url: /escaudoeuvres/mag-presse/
-shop: Tabak
+shop: tabac
 ---

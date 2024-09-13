@@ -1,5 +1,5 @@
 ---
 title: "Audika"
 url: /douai/audika/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /la-madeleine/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

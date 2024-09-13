@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /courrieres/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

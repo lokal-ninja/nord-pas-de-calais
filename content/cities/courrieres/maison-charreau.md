@@ -1,5 +1,5 @@
 ---
 title: "Maison Charreau"
 url: /courrieres/maison-charreau/
-shop: Metzgerei
+shop: boucherie
 ---

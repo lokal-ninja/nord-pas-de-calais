@@ -1,5 +1,5 @@
 ---
 title: "Henri Boucher"
 url: /etaples/henri-boucher/
-shop: Metzgerei
+shop: boucherie
 ---

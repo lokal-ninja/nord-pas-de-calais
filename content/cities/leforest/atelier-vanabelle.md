@@ -1,5 +1,5 @@
 ---
 title: "Atelier Vanabelle"
 url: /leforest/atelier-vanabelle/
-shop: Kunst
+shop: art
 ---

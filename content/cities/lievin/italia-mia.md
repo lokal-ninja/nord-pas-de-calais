@@ -1,5 +1,5 @@
 ---
 title: "Italia Mia"
 url: /lievin/italia-mia/
-shop: Lebensmittel
+shop: commodité
 ---

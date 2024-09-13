@@ -1,5 +1,5 @@
 ---
 title: "Pompes funèbres Héraut-Sion"
 url: /henin-beaumont/pompes-funebres-heraut-sion/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chic'Os"
 url: /etaples/chicos/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

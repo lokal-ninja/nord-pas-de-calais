@@ -1,5 +1,5 @@
 ---
 title: "Banette"
 url: /douai/banette/
-shop: Bäckerei
+shop: boulangerie
 ---

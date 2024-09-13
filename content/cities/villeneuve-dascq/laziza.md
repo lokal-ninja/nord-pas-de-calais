@@ -1,5 +1,5 @@
 ---
 title: "L'Aziza"
 url: /villeneuve-dascq/laziza/
-shop: Bäckerei
+shop: boulangerie
 ---

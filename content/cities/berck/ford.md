@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /berck/ford/
-shop: Autohaus
+shop: voiture
 ---

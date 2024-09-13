@@ -1,5 +1,5 @@
 ---
 title: "Educa'tif"
 url: /erquinghem-lys/educatif/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

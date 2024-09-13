@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /villeneuve-dascq/decathlon/
-shop: Sport
+shop: sports
 ---

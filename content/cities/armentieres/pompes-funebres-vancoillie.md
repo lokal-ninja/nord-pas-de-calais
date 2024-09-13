@@ -1,5 +1,5 @@
 ---
 title: "Pompes funèbres Vancoillie"
 url: /armentieres/pompes-funebres-vancoillie/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

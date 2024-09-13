@@ -1,5 +1,5 @@
 ---
 title: "Le Concert Gourmand"
 url: /lille/le-concert-gourmand/
-shop: Bäckerei
+shop: boulangerie
 ---

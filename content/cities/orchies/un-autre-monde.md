@@ -1,5 +1,5 @@
 ---
 title: "Un Autre Monde"
 url: /orchies/un-autre-monde/
-shop: Lebensmittel
+shop: commodité
 ---

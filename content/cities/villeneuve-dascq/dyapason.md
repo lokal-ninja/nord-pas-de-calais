@@ -1,5 +1,5 @@
 ---
 title: "Dyapason"
 url: /villeneuve-dascq/dyapason/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bréal"
 url: /cambrai/breal/
-shop: Kleidung
+shop: vêtements
 ---

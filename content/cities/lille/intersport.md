@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /lille/intersport/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Culture vélo"
 url: /saint-andre-lez-lille/culture-velo/
-shop: Fahrrad
+shop: vélo
 ---

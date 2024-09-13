@@ -1,5 +1,5 @@
 ---
 title: "Eco shop"
 url: /armentieres/eco-shop/
-shop: Leerstehend
+shop: vacant
 ---

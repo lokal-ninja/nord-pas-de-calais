@@ -1,5 +1,5 @@
 ---
 title: "Destock Jeans"
 url: /vendin-le-vieil/destock-jeans/
-shop: Kleidung
+shop: vêtements
 ---

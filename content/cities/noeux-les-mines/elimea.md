@@ -1,5 +1,5 @@
 ---
 title: "Éliméa"
 url: /noeux-les-mines/elimea/
-shop: Kosmetik
+shop: beauté
 ---

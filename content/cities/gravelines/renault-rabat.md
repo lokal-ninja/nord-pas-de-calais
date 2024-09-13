@@ -1,5 +1,5 @@
 ---
 title: "Renault Rabat"
 url: /gravelines/renault-rabat/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

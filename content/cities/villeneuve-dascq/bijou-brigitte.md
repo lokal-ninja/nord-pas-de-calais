@@ -1,5 +1,5 @@
 ---
 title: "Bijou Brigitte"
 url: /villeneuve-dascq/bijou-brigitte/
-shop: Schmuck
+shop: bijoux
 ---

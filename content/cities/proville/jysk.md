@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
 url: /proville/jysk/
-shop: Möbel
+shop: meubles
 ---

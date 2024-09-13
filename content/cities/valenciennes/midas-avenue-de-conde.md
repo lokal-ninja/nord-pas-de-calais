@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /valenciennes/midas-avenue-de-conde/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

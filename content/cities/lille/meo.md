@@ -1,5 +1,5 @@
 ---
 title: "Méo"
 url: /lille/meo/
-shop: Kaffee
+shop: café
 ---

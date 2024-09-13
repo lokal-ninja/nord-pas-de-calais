@@ -1,5 +1,5 @@
 ---
 title: "Styl'Chien"
 url: /bruay-la-buissiere/stylchien/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

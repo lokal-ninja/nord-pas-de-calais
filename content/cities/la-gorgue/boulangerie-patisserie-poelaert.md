@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Patisserie Poelaert"
 url: /la-gorgue/boulangerie-patisserie-poelaert/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "O'Gout Raya"
 url: /carvin/ogout-raya/
-shop: Supermarkt
+shop: supermarché
 ---

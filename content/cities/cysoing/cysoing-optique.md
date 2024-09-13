@@ -1,5 +1,5 @@
 ---
 title: "Cysoing Optique"
 url: /cysoing/cysoing-optique/
-shop: Optiker
+shop: opticien
 ---

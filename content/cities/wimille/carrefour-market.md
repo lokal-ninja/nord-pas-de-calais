@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Market"
 url: /wimille/carrefour-market/
-shop: Supermarkt
+shop: supermarché
 ---

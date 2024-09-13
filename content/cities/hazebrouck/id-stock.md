@@ -1,5 +1,5 @@
 ---
 title: "Id stock"
 url: /hazebrouck/id-stock/
-shop: Kramladen
+shop: magasin de variétés
 ---

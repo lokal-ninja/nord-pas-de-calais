@@ -1,5 +1,5 @@
 ---
 title: "Électro Dépôt"
 url: /cambrai/electro-depot/
-shop: Elektronik
+shop: électronique
 ---

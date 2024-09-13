@@ -1,5 +1,5 @@
 ---
 title: "Le Repère"
 url: /coudekerque-branche/le-repere/
-shop: Fahrrad
+shop: vélo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AEMI"
 url: /boulogne-sur-mer/aemi/
-shop: Allgemein
+shop: shop
 ---

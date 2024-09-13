@@ -1,5 +1,5 @@
 ---
 title: "Maxi Bazar"
 url: /hazebrouck/maxi-bazar/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

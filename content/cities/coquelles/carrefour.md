@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /coquelles/carrefour/
-shop: Supermarkt
+shop: supermarché
 ---

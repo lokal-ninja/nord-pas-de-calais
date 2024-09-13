@@ -1,5 +1,5 @@
 ---
 title: "Histoire d'Animaux"
 url: /wasquehal/histoire-danimaux/
-shop: Tiere
+shop: animal de compagnie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Liberty Cycles"
 url: /dunkerque/liberty-cycles/
-shop: Motorrad
+shop: moto
 ---

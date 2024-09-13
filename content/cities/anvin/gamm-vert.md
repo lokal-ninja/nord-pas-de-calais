@@ -1,5 +1,5 @@
 ---
 title: "Gamm Vert"
 url: /anvin/gamm-vert/
-shop: Garten-Center
+shop: centre de jardinage
 ---

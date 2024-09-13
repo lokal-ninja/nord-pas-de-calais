@@ -1,5 +1,5 @@
 ---
 title: "City"
 url: /armentieres/city/
-shop: Kleidung
+shop: vêtements
 ---

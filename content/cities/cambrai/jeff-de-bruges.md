@@ -1,5 +1,5 @@
 ---
 title: "Jeff de Bruges"
 url: /cambrai/jeff-de-bruges/
-shop: Schokolade
+shop: chocolat
 ---

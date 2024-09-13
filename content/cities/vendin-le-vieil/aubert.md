@@ -1,5 +1,5 @@
 ---
 title: "Aubert"
 url: /vendin-le-vieil/aubert/
-shop: Babysachen
+shop: produits pour bébés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferro Picta Tatouage"
 url: /tourcoing/ferro-picta-tatouage/
-shop: Tattoo
+shop: tatouage
 ---

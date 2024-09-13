@@ -1,5 +1,5 @@
 ---
 title: "Crozatier"
 url: /cambrai/crozatier/
-shop: Möbel
+shop: meubles
 ---

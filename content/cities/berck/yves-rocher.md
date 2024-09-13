@@ -1,5 +1,5 @@
 ---
 title: "Yves Rocher"
 url: /berck/yves-rocher/
-shop: Kosmetik
+shop: beauté
 ---

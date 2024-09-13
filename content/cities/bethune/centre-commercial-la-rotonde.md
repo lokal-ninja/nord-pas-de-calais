@@ -1,5 +1,5 @@
 ---
 title: "Centre commercial La Rotonde"
 url: /bethune/centre-commercial-la-rotonde/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

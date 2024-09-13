@@ -1,5 +1,5 @@
 ---
 title: "Bouchara"
 url: /douai/bouchara/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

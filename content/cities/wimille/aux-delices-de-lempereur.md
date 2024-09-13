@@ -1,5 +1,5 @@
 ---
 title: "Aux Délices de l'Empereur"
 url: /wimille/aux-delices-de-lempereur/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Genelec"
 url: /lievin/genelec/
-shop: Autoteile
+shop: pièces de voitures
 ---

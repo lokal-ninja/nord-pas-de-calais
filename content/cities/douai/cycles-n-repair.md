@@ -1,5 +1,5 @@
 ---
 title: "Cycles N Repair"
 url: /douai/cycles-n-repair/
-shop: Fahrrad
+shop: vélo
 ---

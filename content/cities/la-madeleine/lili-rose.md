@@ -1,5 +1,5 @@
 ---
 title: "Lili Rose"
 url: /la-madeleine/lili-rose/
-shop: Kleidung
+shop: vêtements
 ---

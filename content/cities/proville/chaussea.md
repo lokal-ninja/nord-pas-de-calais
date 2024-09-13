@@ -1,5 +1,5 @@
 ---
 title: "Chaussea"
 url: /proville/chaussea/
-shop: Schuhe
+shop: chaussures
 ---

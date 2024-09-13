@@ -1,5 +1,5 @@
 ---
 title: "Le Khedive"
 url: /wimereux/le-khedive/
-shop: Zeitungen
+shop: marchand de journaux
 ---

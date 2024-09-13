@@ -1,5 +1,5 @@
 ---
 title: "Tôle Acier"
 url: /thun-saint-martin/tole-acier/
-shop: Baumarkt
+shop: à faire soi-même
 ---

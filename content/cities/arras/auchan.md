@@ -1,5 +1,5 @@
 ---
 title: "Auchan"
 url: /arras/auchan/
-shop: Supermarkt
+shop: supermarché
 ---

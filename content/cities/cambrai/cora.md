@@ -1,5 +1,5 @@
 ---
 title: "Cora"
 url: /cambrai/cora/
-shop: Supermarkt
+shop: supermarché
 ---

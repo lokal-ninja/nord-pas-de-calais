@@ -1,5 +1,5 @@
 ---
 title: "Otera"
 url: /avelin/otera/
-shop: Hofladen
+shop: ferme
 ---

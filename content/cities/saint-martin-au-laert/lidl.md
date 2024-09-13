@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /saint-martin-au-laert/lidl/
-shop: Supermarkt
+shop: supermarché
 ---

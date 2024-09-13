@@ -1,5 +1,5 @@
 ---
 title: "La fée souris"
 url: /erquinghem-lys/la-fee-souris/
-shop: Spielzeug
+shop: jouets
 ---

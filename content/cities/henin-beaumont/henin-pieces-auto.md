@@ -1,5 +1,5 @@
 ---
 title: "Hénin pièces auto"
 url: /henin-beaumont/henin-pieces-auto/
-shop: Autoteile
+shop: pièces de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Louise"
 url: /cambrai/louise/
-shop: Bäckerei
+shop: boulangerie
 ---

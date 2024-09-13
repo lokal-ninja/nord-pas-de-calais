@@ -1,5 +1,5 @@
 ---
 title: "LPS Multimédia"
 url: /henin-beaumont/lps-multimedia/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Geox"
 url: /faches-thumesnil/geox/
-shop: Schuhe
+shop: chaussures
 ---

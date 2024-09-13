@@ -1,5 +1,5 @@
 ---
 title: "Boucherie - Charcuterie Ghesquiere"
 url: /armentieres/boucherie-charcuterie-ghesquiere/
-shop: Metzgerei
+shop: boucherie
 ---

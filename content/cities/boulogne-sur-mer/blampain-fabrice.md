@@ -1,5 +1,5 @@
 ---
 title: "Blampain Fabrice"
 url: /boulogne-sur-mer/blampain-fabrice/
-shop: Metzgerei
+shop: boucherie
 ---

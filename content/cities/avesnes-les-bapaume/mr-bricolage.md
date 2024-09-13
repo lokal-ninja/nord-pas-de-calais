@@ -1,5 +1,5 @@
 ---
 title: "Mr.Bricolage"
 url: /avesnes-les-bapaume/mr-bricolage/
-shop: Baumarkt
+shop: à faire soi-même
 ---

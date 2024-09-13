@@ -1,5 +1,5 @@
 ---
 title: "Rose Betterave"
 url: /armentieres/rose-betterave/
-shop: Leerstehend
+shop: vacant
 ---

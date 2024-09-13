@@ -1,5 +1,5 @@
 ---
 title: "La Civette"
 url: /sailly-labourse/la-civette/
-shop: Tabak
+shop: tabac
 ---

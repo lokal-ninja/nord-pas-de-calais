@@ -1,5 +1,5 @@
 ---
 title: "Darjeeling"
 url: /wasquehal/darjeeling/
-shop: Kleidung
+shop: vêtements
 ---

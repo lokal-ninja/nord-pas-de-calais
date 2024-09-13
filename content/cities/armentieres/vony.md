@@ -1,5 +1,5 @@
 ---
 title: "Vony"
 url: /armentieres/vony/
-shop: Kleidung
+shop: vêtements
 ---

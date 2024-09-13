@@ -1,5 +1,5 @@
 ---
 title: "Vision Plus"
 url: /lomme/vision-plus/
-shop: Optiker
+shop: opticien
 ---

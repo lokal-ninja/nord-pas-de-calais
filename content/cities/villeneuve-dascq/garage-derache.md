@@ -1,5 +1,5 @@
 ---
 title: "Garage Derache"
 url: /villeneuve-dascq/garage-derache/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

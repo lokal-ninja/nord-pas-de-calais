@@ -1,5 +1,5 @@
 ---
 title: "Chris coiffure"
 url: /achicourt/chris-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

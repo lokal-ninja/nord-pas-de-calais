@@ -1,5 +1,5 @@
 ---
 title: "basic fit"
 url: /hazebrouck/basic-fit/
-shop: Kramladen
+shop: magasin de variétés
 ---

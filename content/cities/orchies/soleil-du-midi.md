@@ -1,5 +1,5 @@
 ---
 title: "Soleil du Midi"
 url: /orchies/soleil-du-midi/
-shop: Bäckerei
+shop: boulangerie
 ---

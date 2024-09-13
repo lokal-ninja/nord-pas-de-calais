@@ -1,5 +1,5 @@
 ---
 title: "Optique d'Annappes"
 url: /villeneuve-dascq/optique-dannappes/
-shop: Optiker
+shop: opticien
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /baisieux/aldi/
-shop: Supermarkt
+shop: supermarché
 ---

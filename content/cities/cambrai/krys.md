@@ -1,5 +1,5 @@
 ---
 title: "Krys"
 url: /cambrai/krys/
-shop: Optiker
+shop: opticien
 ---

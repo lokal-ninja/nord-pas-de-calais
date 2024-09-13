@@ -1,5 +1,5 @@
 ---
 title: "CréaPain"
 url: /lillers/creapain/
-shop: Bäckerei
+shop: boulangerie
 ---

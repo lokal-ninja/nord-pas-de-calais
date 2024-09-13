@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /achicourt/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /conde-sur-lescaut/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

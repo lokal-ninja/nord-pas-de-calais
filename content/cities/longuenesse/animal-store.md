@@ -1,5 +1,5 @@
 ---
 title: "Animal Store"
 url: /longuenesse/animal-store/
-shop: Tiere
+shop: animal de compagnie
 ---

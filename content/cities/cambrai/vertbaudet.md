@@ -1,5 +1,5 @@
 ---
 title: "Vertbaudet"
 url: /cambrai/vertbaudet/
-shop: Babysachen
+shop: produits pour bébés
 ---

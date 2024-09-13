@@ -1,5 +1,5 @@
 ---
 title: "Dress Kode"
 url: /cambrai/dress-kode/
-shop: Kleidung
+shop: vêtements
 ---

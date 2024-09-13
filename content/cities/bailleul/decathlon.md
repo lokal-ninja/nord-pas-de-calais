@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /bailleul/decathlon/
-shop: Sport
+shop: sports
 ---

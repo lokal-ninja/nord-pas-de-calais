@@ -1,5 +1,5 @@
 ---
 title: "Deesse Coiffure"
 url: /coudekerque-branche/deesse-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

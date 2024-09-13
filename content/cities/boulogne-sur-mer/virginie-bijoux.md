@@ -1,5 +1,5 @@
 ---
 title: "Virginie Bijoux"
 url: /boulogne-sur-mer/virginie-bijoux/
-shop: Schmuck
+shop: bijoux
 ---

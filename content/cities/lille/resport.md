@@ -1,5 +1,5 @@
 ---
 title: "ReSport"
 url: /lille/resport/
-shop: Fahrrad
+shop: vélo
 ---

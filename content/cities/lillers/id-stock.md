@@ -1,5 +1,5 @@
 ---
 title: "iD Stock"
 url: /lillers/id-stock/
-shop: Kramladen
+shop: magasin de variétés
 ---

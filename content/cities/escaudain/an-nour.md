@@ -1,5 +1,5 @@
 ---
 title: "An Nour"
 url: /escaudain/an-nour/
-shop: Metzgerei
+shop: boucherie
 ---

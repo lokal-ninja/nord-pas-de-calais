@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /cambrai/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

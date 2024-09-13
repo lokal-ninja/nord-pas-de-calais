@@ -1,5 +1,5 @@
 ---
 title: "Au fumeur"
 url: /tourcoing/au-fumeur/
-shop: Zeitungen
+shop: marchand de journaux
 ---

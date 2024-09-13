@@ -1,5 +1,5 @@
 ---
 title: "l'onglerie"
 url: /boulogne-sur-mer/longlerie/
-shop: Kosmetik
+shop: beauté
 ---

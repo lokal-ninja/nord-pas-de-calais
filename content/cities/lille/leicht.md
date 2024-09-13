@@ -1,5 +1,5 @@
 ---
 title: "Leicht"
 url: /lille/leicht/
-shop: Küchen
+shop: cuisine
 ---

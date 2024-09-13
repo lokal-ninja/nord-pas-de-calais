@@ -1,5 +1,5 @@
 ---
 title: "Top Office"
 url: /vendin-le-vieil/top-office/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

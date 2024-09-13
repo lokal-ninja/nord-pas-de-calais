@@ -1,5 +1,5 @@
 ---
 title: "Krys"
 url: /escaudoeuvres/krys/
-shop: Optiker
+shop: opticien
 ---

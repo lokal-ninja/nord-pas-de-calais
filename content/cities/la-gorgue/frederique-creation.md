@@ -1,5 +1,5 @@
 ---
 title: "Frédérique Création"
 url: /la-gorgue/frederique-creation/
-shop: Blumen
+shop: fleuriste
 ---

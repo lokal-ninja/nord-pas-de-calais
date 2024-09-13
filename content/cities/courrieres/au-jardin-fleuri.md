@@ -1,5 +1,5 @@
 ---
 title: "Au Jardin Fleuri"
 url: /courrieres/au-jardin-fleuri/
-shop: Blumen
+shop: fleuriste
 ---
