@@ -1,11 +1,11 @@
 id: 82265970
-type: way
+type: node
 latitude: 50.6861
 longitude: 3.14456
 postcode: "59290"
 city: Wasquehal
-street: "Rue Louis Lejeune"
-housenumber: 28
-phone: "+33 3 20 26 26 85"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/express-wasquehal"
+street: Rue Louis Lejeune
+housenumber: "28"
+phone: +33 3 20 26 26 85
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/express-wasquehal

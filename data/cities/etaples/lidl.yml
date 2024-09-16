@@ -1,11 +1,11 @@
 id: 156560369
-type: way
+type: node
 latitude: 50.51547
 longitude: 1.64643
 postcode: "62530"
 city: Étaples
-street: "Route de Boulogne"
-housenumber: 
-phone: "+33 800005435"
-opening_hours: "Mo-Sa 08:30-19:30"
+street: Route de Boulogne
+housenumber: ""
+phone: +33 800005435
+opening_hours: Mo-Sa 08:30-19:30
 website: ""

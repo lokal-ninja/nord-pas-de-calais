@@ -1,11 +1,11 @@
 id: 108171867
-type: way
+type: node
 latitude: 50.42712
 longitude: 2.94455
 postcode: "62110"
 city: Hénin-Beaumont
-street: "Avenue des Déportés"
-housenumber: 226
+street: Avenue des Déportés
+housenumber: "226"
 phone: ""
 opening_hours: ""
 website: ""

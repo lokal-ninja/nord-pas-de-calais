@@ -1,11 +1,11 @@
 id: 79524422
-type: way
+type: node
 latitude: 50.61561
 longitude: 3.15256
 postcode: "59650"
 city: Villeneuve-d'Ascq
-street: "Rue des Fusillés"
-housenumber: 98
-phone: "+33 3 20 64 73 34"
-opening_hours: "Mo 14:00-20:00; Tu-Sa 09:00-20:00; Su,PH 09:00-13:00"
-website: "https://www.perle-d-eau.fr/copie-de-boutique-marcq"
+street: Rue des Fusillés
+housenumber: "98"
+phone: +33 3 20 64 73 34
+opening_hours: Mo 14:00-20:00; Tu-Sa 09:00-20:00; Su,PH 09:00-13:00
+website: https://www.perle-d-eau.fr/copie-de-boutique-marcq

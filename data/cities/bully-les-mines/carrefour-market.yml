@@ -1,11 +1,11 @@
 id: 1162272189
-type: way
+type: node
 latitude: 50.44697
 longitude: 2.72097
 postcode: "62160"
 city: Bully-les-Mines
-street: "Rue Casimir Beugnet"
-housenumber: 
-phone: "+33 3 21 29 04 23"
-opening_hours: "Mo-Sa 08:30-19:30; Su 09:00-12:30"
-website: "https://www.carrefour.fr/magasin/market-bully-les-mines"
+street: Rue Casimir Beugnet
+housenumber: ""
+phone: +33 3 21 29 04 23
+opening_hours: Mo-Sa 08:30-19:30; Su 09:00-12:30
+website: https://www.carrefour.fr/magasin/market-bully-les-mines

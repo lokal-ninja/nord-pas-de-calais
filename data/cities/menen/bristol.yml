@@ -4,8 +4,8 @@ latitude: 50.78959
 longitude: 3.14042
 postcode: "8930"
 city: Menen
-street: "Noordstraat"
-housenumber: 6
+street: Noordstraat
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 09:30-18:00"
-website: "https://bristolshop.be/be-nl/winkels/bristol-menen"
+opening_hours: Mo-Sa 09:30-18:00
+website: https://bristolshop.be/be-nl/winkels/bristol-menen

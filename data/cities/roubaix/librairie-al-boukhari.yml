@@ -1,11 +1,11 @@
 id: 78705071
-type: way
+type: node
 latitude: 50.69231
 longitude: 3.17289
 postcode: "59100"
 city: Roubaix
-street: "Rue du Vieil Abreuvoir"
-housenumber: 23
+street: Rue du Vieil Abreuvoir
+housenumber: "23"
 phone: ""
 opening_hours: ""
-website: "http://librairiemusulmanealboukhariroubaix.blogspot.fr/"
+website: http://librairiemusulmanealboukhariroubaix.blogspot.fr/

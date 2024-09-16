@@ -1,11 +1,11 @@
 id: 195062600
-type: way
+type: node
 latitude: 50.35714
 longitude: 3.40528
 postcode: "59255"
 city: Haveluy
-street: "Rue Ferrer"
-housenumber: 45
+street: Rue Ferrer
+housenumber: "45"
 phone: ""
 opening_hours: ""
-website: "https://cest-pas-dla-tarte.business.site/"
+website: https://cest-pas-dla-tarte.business.site/

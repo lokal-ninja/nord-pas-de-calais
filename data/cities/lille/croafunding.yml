@@ -4,8 +4,8 @@ latitude: 50.63517
 longitude: 3.06696
 postcode: "59000"
 city: Lille
-street: "Rue Pierre Mauroy"
-housenumber: 90
-phone: "09 67 48 72 68"
-opening_hours: "Mo-Fr 11:00-19:15; Sa 10:00-19:30"
+street: Rue Pierre Mauroy
+housenumber: "90"
+phone: 09 67 48 72 68
+opening_hours: Mo-Fr 11:00-19:15; Sa 10:00-19:30
 website: ""

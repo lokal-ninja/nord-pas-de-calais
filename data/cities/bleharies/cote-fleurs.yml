@@ -1,11 +1,11 @@
 id: 755259871
-type: way
+type: node
 latitude: 50.51341
 longitude: 3.41609
 postcode: "7620"
 city: Bléharies
-street: "Rue Wibault-Bouchart"
-housenumber: 14
+street: Rue Wibault-Bouchart
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

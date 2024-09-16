@@ -4,8 +4,8 @@ latitude: 50.72371
 longitude: 1.60708
 postcode: "62200"
 city: Boulogne-sur-Mer
-street: "Grande Rue"
-housenumber: 49
-phone: "+33 3 21 33 32 23"
-opening_hours: "Mo 14:30-18:30; Tu-Sa 10:00-12:00,14:30-18:30"
-website: "https://artisansdumonde.org/"
+street: Grande Rue
+housenumber: "49"
+phone: +33 3 21 33 32 23
+opening_hours: Mo 14:30-18:30; Tu-Sa 10:00-12:00,14:30-18:30
+website: https://artisansdumonde.org/

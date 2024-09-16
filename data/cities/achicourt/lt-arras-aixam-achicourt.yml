@@ -1,11 +1,11 @@
 id: 226442405
-type: way
+type: node
 latitude: 50.27636
 longitude: 2.76947
 postcode: "62217"
 city: Achicourt
-street: "Rue du Triangle"
-housenumber: 
+street: Rue du Triangle
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.aixam.com/fr/reseau/sarl-lt-arras"
+website: https://www.aixam.com/fr/reseau/sarl-lt-arras

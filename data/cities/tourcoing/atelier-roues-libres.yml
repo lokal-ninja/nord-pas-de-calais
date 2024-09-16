@@ -4,8 +4,8 @@ latitude: 50.72319
 longitude: 3.14715
 postcode: "59200"
 city: Tourcoing
-street: "Rue des Coulons"
-housenumber: 7
-phone: "+33 782944261"
-opening_hours: "We 17:00-19:00; Su 09:00-12:00"
-website: "https://droitauvelo.org/Tourcoing-Roues-Libres"
+street: Rue des Coulons
+housenumber: "7"
+phone: +33 782944261
+opening_hours: We 17:00-19:00; Su 09:00-12:00
+website: https://droitauvelo.org/Tourcoing-Roues-Libres

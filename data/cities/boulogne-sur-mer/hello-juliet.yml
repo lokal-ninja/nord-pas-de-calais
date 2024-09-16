@@ -4,8 +4,8 @@ latitude: 50.7231
 longitude: 1.60529
 postcode: "62200"
 city: Boulogne-sur-Mer
-street: "Rue Victor Hugo"
-housenumber: 8
-phone: "+339 87 59 01 53"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://hellojuliet.fr/"
+street: Rue Victor Hugo
+housenumber: "8"
+phone: +339 87 59 01 53
+opening_hours: Mo-Fr 09:00-18:00
+website: https://hellojuliet.fr/

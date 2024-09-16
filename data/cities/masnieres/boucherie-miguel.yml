@@ -4,8 +4,8 @@ latitude: 50.11561
 longitude: 3.21038
 postcode: "59241"
 city: Masnières
-street: "Rue Nationale"
-housenumber: 30
-phone: "+33 3 27 37 52 84"
-opening_hours: "Tu-Fr 09:00-12:30,15:00-19:00; Sa 09:00-12:30,15:00-18:00"
+street: Rue Nationale
+housenumber: "30"
+phone: +33 3 27 37 52 84
+opening_hours: Tu-Fr 09:00-12:30,15:00-19:00; Sa 09:00-12:30,15:00-18:00
 website: ""

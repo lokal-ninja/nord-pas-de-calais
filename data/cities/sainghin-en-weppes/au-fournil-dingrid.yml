@@ -1,11 +1,11 @@
 id: 125463488
-type: way
+type: node
 latitude: 50.56238
 longitude: 2.89957
 postcode: "59184"
 city: Sainghin-en-Weppes
-street: "Rue du Capitaine Lheureux"
-housenumber: 4
+street: Rue du Capitaine Lheureux
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

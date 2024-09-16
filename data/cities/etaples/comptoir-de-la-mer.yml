@@ -1,11 +1,11 @@
 id: 593002150
-type: way
+type: node
 latitude: 50.5145
 longitude: 1.63478
 postcode: "62630"
 city: Étaples
-street: "Boulevard de l'Impératrice"
-housenumber: 1
-phone: "+33 3 91 89 49 20"
+street: Boulevard de l'Impératrice
+housenumber: "1"
+phone: +33 3 91 89 49 20
 opening_hours: ""
 website: ""

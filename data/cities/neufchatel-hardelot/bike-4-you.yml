@@ -4,8 +4,8 @@ latitude: 50.63264
 longitude: 1.58215
 postcode: "62152"
 city: Neufchâtel-Hardelot
-street: "Avenue François 1er"
-housenumber: 468
+street: Avenue François 1er
+housenumber: "468"
 phone: ""
-opening_hours: "PH,Mo-Su 10:00-13:00,14:00-19:00"
-website: "https://www.bike4you.fr/"
+opening_hours: PH,Mo-Su 10:00-13:00,14:00-19:00
+website: https://www.bike4you.fr/

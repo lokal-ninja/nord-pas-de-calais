@@ -1,11 +1,11 @@
 id: 243396379
-type: way
+type: node
 latitude: 50.47905
 longitude: 2.7353
 postcode: "62980"
 city: Vermelles
-street: "Route Nationale"
-housenumber: 51
+street: Route Nationale
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

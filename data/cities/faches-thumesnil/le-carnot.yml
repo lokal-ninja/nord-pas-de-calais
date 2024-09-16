@@ -1,11 +1,11 @@
 id: 84359790
-type: way
+type: node
 latitude: 50.60001
 longitude: 3.06848
 postcode: "59155"
 city: Faches-Thumesnil
-street: "Rue Sadi Carnot"
-housenumber: 237
+street: Rue Sadi Carnot
+housenumber: "237"
 phone: ""
-opening_hours: "Tu-Sa 07:30-19:30; Su 09:00-18:00"
+opening_hours: Tu-Sa 07:30-19:30; Su 09:00-18:00
 website: ""

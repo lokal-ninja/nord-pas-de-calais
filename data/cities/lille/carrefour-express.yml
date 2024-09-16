@@ -4,8 +4,8 @@ latitude: 50.64726
 longitude: 3.00397
 postcode: "59160"
 city: Lille
-street: "Avenue de Dunkerque"
-housenumber: 654
-phone: "+33 3 20 50 68 73"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-21:00"
-website: "https://www.carrefour.fr/magasin/express-lomme-dunkerque-654"
+street: Avenue de Dunkerque
+housenumber: "654"
+phone: +33 3 20 50 68 73
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-21:00
+website: https://www.carrefour.fr/magasin/express-lomme-dunkerque-654

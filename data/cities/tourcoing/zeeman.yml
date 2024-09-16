@@ -1,11 +1,11 @@
 id: 61105142
-type: way
+type: node
 latitude: 50.72405
 longitude: 3.15704
 postcode: "59200"
 city: Tourcoing
-street: "Rue Nationale"
+street: Rue Nationale
 housenumber: 41-43
-phone: "+33 3 59 81 00 22"
-opening_hours: "Mo-Fr 09:30-19:00"
-website: "https://www.zeeman.com/fr/store/tourcoing-rue-nationale"
+phone: +33 3 59 81 00 22
+opening_hours: Mo-Fr 09:30-19:00
+website: https://www.zeeman.com/fr/store/tourcoing-rue-nationale

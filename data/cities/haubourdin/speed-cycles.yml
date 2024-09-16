@@ -1,11 +1,11 @@
 id: 63553583
-type: way
+type: node
 latitude: 50.61128
 longitude: 2.98586
 postcode: "59320"
 city: Haubourdin
-street: "Rue Sadi Carnot"
-housenumber: 64
+street: Rue Sadi Carnot
+housenumber: "64"
 phone: ""
-opening_hours: "Tu-Sa 09:00-12:15,14:00-19:15"
-website: "https://www.speedcycles.fr"
+opening_hours: Tu-Sa 09:00-12:15,14:00-19:15
+website: https://www.speedcycles.fr

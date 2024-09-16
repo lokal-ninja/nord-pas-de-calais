@@ -4,8 +4,8 @@ latitude: 50.29948
 longitude: 2.74546
 postcode: "62000"
 city: Arras
-street: "Rue Alfred de Musset"
-housenumber: 
+street: Rue Alfred de Musset
+housenumber: ""
 phone: ""
-opening_hours: "Tu-Fr 13:00-18:00; Sa 9:00-13:00"
-website: "https://www.smav62.fr/les-recycleries/"
+opening_hours: Tu-Fr 13:00-18:00; Sa 9:00-13:00
+website: https://www.smav62.fr/les-recycleries/

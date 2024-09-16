@@ -4,8 +4,8 @@ latitude: 50.63984
 longitude: 3.01917
 postcode: "59160"
 city: Lille
-street: "Avenue de Dunkerque"
-housenumber: 319
+street: Avenue de Dunkerque
+housenumber: "319"
 phone: ""
-opening_hours: "Tu,Th,Fr 10:00-19:00, We 09:00-11:30, Sa 10:00-18:00"
+opening_hours: Tu,Th,Fr 10:00-19:00, We 09:00-11:30, Sa 10:00-18:00
 website: ""

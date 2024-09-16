@@ -1,11 +1,11 @@
 id: 285884580
-type: way
+type: node
 latitude: 50.65955
 longitude: 3.01361
 postcode: "59130"
 city: Lambersart
-street: "Rue Ferdinand de Lesseps"
-housenumber: 77
-phone: "+33 3 28 03 61 00"
+street: Rue Ferdinand de Lesseps
+housenumber: "77"
+phone: +33 3 28 03 61 00
 opening_hours: ""
 website: ""

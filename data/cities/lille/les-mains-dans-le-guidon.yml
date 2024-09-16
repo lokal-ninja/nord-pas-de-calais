@@ -4,8 +4,9 @@ latitude: 50.62938
 longitude: 3.05422
 postcode: "59000"
 city: Lille
-street: "Rue Léon Gambetta"
-housenumber: 166
-phone: "+33 3 62 52 94 87"
-opening_hours: "Mo-Tu 10:00-13:00,14:00-19:00; We 10:00-13:00,14:00-21:00; Th-Sa 10:00-13:00,14:00-19:00; PH off"
-website: "https://www.lesmainsdansleguidon.fr"
+street: Rue Léon Gambetta
+housenumber: "166"
+phone: +33 3 62 52 94 87
+opening_hours: Mo-Tu 10:00-13:00,14:00-19:00; We 10:00-13:00,14:00-21:00; Th-Sa 10:00-13:00,14:00-19:00;
+    PH off
+website: https://www.lesmainsdansleguidon.fr

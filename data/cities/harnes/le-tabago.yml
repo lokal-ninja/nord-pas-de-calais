@@ -1,11 +1,11 @@
 id: 171295128
-type: way
+type: node
 latitude: 50.44846
 longitude: 2.91463
 postcode: "62440"
 city: Harnes
-street: "Rue du 11 Novembre"
-housenumber: 20
+street: Rue du 11 Novembre
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

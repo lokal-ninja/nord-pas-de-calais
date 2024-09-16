@@ -4,8 +4,8 @@ latitude: 50.60783
 longitude: 3.17183
 postcode: "59493"
 city: Villeneuve-d'Ascq
-street: "Allée de la Briqueterie"
-housenumber: 21
-phone: "+33 3 20 84 55 65"
-opening_hours: "Mo-Fr 09:00-13:00, 14:00-19:00; Sa 09:00-19:00"
-website: "https://www.ducatillon.com/"
+street: Allée de la Briqueterie
+housenumber: "21"
+phone: +33 3 20 84 55 65
+opening_hours: Mo-Fr 09:00-13:00, 14:00-19:00; Sa 09:00-19:00
+website: https://www.ducatillon.com/

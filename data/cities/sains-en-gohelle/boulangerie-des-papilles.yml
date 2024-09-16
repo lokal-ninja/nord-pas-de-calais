@@ -1,11 +1,11 @@
 id: 1028370899
-type: way
+type: node
 latitude: 50.46115
 longitude: 2.67819
 postcode: "62114"
 city: Sains-en-Gohelle
-street: "Avenue François Mitterrand"
-housenumber: 
+street: Avenue François Mitterrand
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

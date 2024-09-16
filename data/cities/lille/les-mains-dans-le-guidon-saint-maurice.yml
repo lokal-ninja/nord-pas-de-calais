@@ -4,8 +4,9 @@ latitude: 50.64219
 longitude: 3.08801
 postcode: "59800"
 city: Lille
-street: "Rue du Faubourg de Roubaix"
-housenumber: 188
-phone: "+33 9 85 23 64 47"
-opening_hours: "Tu 14:00-19:00; We 10:00-19:00; Th-Fr 14:00-19:00; Sa 10:00-19:00; PH off"
-website: "https://www.lesmainsdansleguidon.fr/stmaurice"
+street: Rue du Faubourg de Roubaix
+housenumber: "188"
+phone: +33 9 85 23 64 47
+opening_hours: Tu 14:00-19:00; We 10:00-19:00; Th-Fr 14:00-19:00; Sa 10:00-19:00;
+    PH off
+website: https://www.lesmainsdansleguidon.fr/stmaurice

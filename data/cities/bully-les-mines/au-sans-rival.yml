@@ -1,11 +1,11 @@
 id: 123706496
-type: way
+type: node
 latitude: 50.44531
 longitude: 2.72291
 postcode: "62160"
 city: Bully-les-Mines
-street: "Rue Roger Salengro"
-housenumber: 5
-phone: "+33 3 21 69 24 99"
+street: Rue Roger Salengro
+housenumber: "5"
+phone: +33 3 21 69 24 99
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.68963
 longitude: 3.17988
 postcode: "59100"
 city: Roubaix
-street: "Rue de Lannoy"
-housenumber: 4
-phone: "+33 7 65 64 46 85"
-opening_hours: "We-Fr 13:00-19:00, Sa 11:00-19:00"
+street: Rue de Lannoy
+housenumber: "4"
+phone: +33 7 65 64 46 85
+opening_hours: We-Fr 13:00-19:00, Sa 11:00-19:00
 website: ""

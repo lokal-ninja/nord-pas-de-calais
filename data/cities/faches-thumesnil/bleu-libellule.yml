@@ -1,11 +1,11 @@
 id: 788702629
-type: way
+type: node
 latitude: 50.58106
 longitude: 3.0804
 postcode: "59155"
 city: Faches-Thumesnil
-street: "Route de Vendeville"
-housenumber: 1
-phone: "+33 3 20 32 72 27"
-opening_hours: "Mo-Sa 9:30-20:30"
-website: "https://www.bleulibellule.com/magasins/bleu-libellule-faches-thumesnil.html"
+street: Route de Vendeville
+housenumber: "1"
+phone: +33 3 20 32 72 27
+opening_hours: Mo-Sa 9:30-20:30
+website: https://www.bleulibellule.com/magasins/bleu-libellule-faches-thumesnil.html

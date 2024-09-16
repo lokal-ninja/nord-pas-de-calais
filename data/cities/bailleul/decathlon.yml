@@ -1,11 +1,11 @@
 id: 81169602
-type: way
+type: node
 latitude: 50.72436
 longitude: 2.74802
 postcode: "59270"
 city: Bailleul
 street: ""
-housenumber: 
-phone: "+33 3 28 50 37 90"
-opening_hours: "Mo-Fr 09:30-20:00; Sa 09:00-20:00"
-website: "https://www.decathlon.fr/store-view/magasin-de-sports-decathlon-bailleul-0070047900479"
+housenumber: ""
+phone: +33 3 28 50 37 90
+opening_hours: Mo-Fr 09:30-20:00; Sa 09:00-20:00
+website: https://www.decathlon.fr/store-view/magasin-de-sports-decathlon-bailleul-0070047900479

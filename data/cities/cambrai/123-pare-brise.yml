@@ -4,8 +4,8 @@ latitude: 50.15006
 longitude: 3.21976
 postcode: "59400"
 city: Cambrai
-street: "Route de Marcoing"
-housenumber: 25
-phone: "+33 3 62 27 93 07"
-opening_hours: "Mo-Fr 8:30-12:30,14:00-18:00; Sa 8:30-12:30,14:00-17:00"
+street: Route de Marcoing
+housenumber: "25"
+phone: +33 3 62 27 93 07
+opening_hours: Mo-Fr 8:30-12:30,14:00-18:00; Sa 8:30-12:30,14:00-17:00
 website: ""

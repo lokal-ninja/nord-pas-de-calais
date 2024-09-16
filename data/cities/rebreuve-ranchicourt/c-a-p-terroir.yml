@@ -1,11 +1,11 @@
 id: 193587199
-type: way
+type: node
 latitude: 50.43581
 longitude: 2.55637
 postcode: "62150"
 city: Rebreuve-Ranchicourt
-street: "Route Nationale"
-housenumber: 38
-phone: "+33 3 21 65 52 49"
+street: Route Nationale
+housenumber: "38"
+phone: +33 3 21 65 52 49
 opening_hours: ""
 website: ""

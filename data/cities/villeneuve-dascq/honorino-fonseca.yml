@@ -1,11 +1,11 @@
 id: 79064657
-type: way
+type: node
 latitude: 50.61955
 longitude: 3.16034
 postcode: "59650"
 city: Villeneuve-d'Ascq
-street: "Rue Gaston Baratte"
-housenumber: 88
-phone: "+33 3 20 79 68 76"
-opening_hours: "Tu-Th 07:30-19:00; Fr,Sa 07:30-19:30"
-website: "https://www.boulangerie-fonseca.fr"
+street: Rue Gaston Baratte
+housenumber: "88"
+phone: +33 3 20 79 68 76
+opening_hours: Tu-Th 07:30-19:00; Fr,Sa 07:30-19:30
+website: https://www.boulangerie-fonseca.fr

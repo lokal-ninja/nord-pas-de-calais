@@ -4,8 +4,8 @@ latitude: 50.62081
 longitude: 3.14441
 postcode: "59650"
 city: Villeneuve-d'Ascq
-street: "Place de Verdun"
-housenumber: 1
+street: Place de Verdun
+housenumber: "1"
 phone: "+33320911602"
-opening_hours: "Mo-Sa 07:00-22:00; Su 08:00-22:00"
-website: "https://www.carrefour.fr/magasin/city-villeneuve-d-ascq"
+opening_hours: Mo-Sa 07:00-22:00; Su 08:00-22:00
+website: https://www.carrefour.fr/magasin/city-villeneuve-d-ascq

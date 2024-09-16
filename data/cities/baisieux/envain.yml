@@ -1,11 +1,11 @@
 id: 64863807
-type: way
+type: node
 latitude: 50.61626
 longitude: 3.23368
 postcode: "59780"
 city: Baisieux
-street: "Avenue d'Orimont"
-housenumber: 
+street: Avenue d'Orimont
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

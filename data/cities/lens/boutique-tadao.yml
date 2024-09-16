@@ -1,11 +1,11 @@
 id: 106162424
-type: way
+type: node
 latitude: 50.42821
 longitude: 2.82683
 postcode: "62300"
 city: Lens
-street: "Rue Jean Létienne"
-housenumber: 77
+street: Rue Jean Létienne
+housenumber: "77"
 phone: "0810001178"
-opening_hours: "Mo-Fr 07:30-18:30; Sa 08:00-12:30"
-website: "https://www.tadao.fr/"
+opening_hours: Mo-Fr 07:30-18:30; Sa 08:00-12:30
+website: https://www.tadao.fr/

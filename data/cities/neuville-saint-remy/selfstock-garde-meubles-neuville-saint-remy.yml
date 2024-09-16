@@ -1,11 +1,11 @@
 id: 1130690163
-type: way
+type: node
 latitude: 50.18884
 longitude: 3.21455
 postcode: "59554"
 city: Neuville-Saint-Rémy
-street: "Rue de la Vallée"
-housenumber: 
-phone: "+33 366599686"
-opening_hours: "24/7"
+street: Rue de la Vallée
+housenumber: ""
+phone: +33 366599686
+opening_hours: 24/7
 website: ""

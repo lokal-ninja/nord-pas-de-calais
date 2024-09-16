@@ -1,11 +1,11 @@
 id: 85285920
-type: way
+type: node
 latitude: 50.67494
 longitude: 3.14769
 postcode: "59170"
 city: Croix
-street: "Place de la République"
-housenumber: 29
+street: Place de la République
+housenumber: "29"
 phone: "+33951622823"
-opening_hours: "Tu-Sa 09:30-13:00,14:30-19:00"
-website: "https://daybyday-shop.com/magasin/croix"
+opening_hours: Tu-Sa 09:30-13:00,14:30-19:00
+website: https://daybyday-shop.com/magasin/croix

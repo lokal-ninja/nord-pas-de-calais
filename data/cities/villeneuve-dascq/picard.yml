@@ -4,8 +4,8 @@ latitude: 50.61494
 longitude: 3.12949
 postcode: "59650"
 city: Villeneuve-d'Ascq
-street: "Rue de Versailles"
-housenumber: 9
-phone: "+33 3 20 12 38 03"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://magasins.picard.fr/998-picard-villeneuve-d-ascq-zone-v2"
+street: Rue de Versailles
+housenumber: "9"
+phone: +33 3 20 12 38 03
+opening_hours: Mo-Sa 09:00-20:00
+website: https://magasins.picard.fr/998-picard-villeneuve-d-ascq-zone-v2

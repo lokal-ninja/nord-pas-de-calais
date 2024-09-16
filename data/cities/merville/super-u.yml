@@ -1,11 +1,11 @@
 id: 79838355
-type: way
+type: node
 latitude: 50.64065
 longitude: 2.65392
 postcode: "59660"
 city: Merville
-street: "Route d'Estaires"
-housenumber: 102
+street: Route d'Estaires
+housenumber: "102"
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30; Su 09:00-12:30"
-website: "https://www.magasins-u.com/magasin/superu-merville"
+opening_hours: Mo-Sa 08:30-19:30; Su 09:00-12:30
+website: https://www.magasins-u.com/magasin/superu-merville

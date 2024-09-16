@@ -1,11 +1,11 @@
 id: 934712401
-type: way
+type: node
 latitude: 50.47394
 longitude: 2.8644
 postcode: "62880"
 city: Vendin-le-Vieil
-street: "Rue Roger Salengro"
-housenumber: 4
+street: Rue Roger Salengro
+housenumber: "4"
 phone: "+33321696527"
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-18:30"
-website: "https://www.valcke-funeraires.fr/"
+opening_hours: Mo-Fr 09:00-12:00, 14:00-18:30
+website: https://www.valcke-funeraires.fr/

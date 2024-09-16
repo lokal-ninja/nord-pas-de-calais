@@ -4,8 +4,8 @@ latitude: 50.72402
 longitude: 1.60357
 postcode: "62200"
 city: Boulogne-sur-Mer
-street: "Rue Victor Hugo"
-housenumber: 61
-phone: "+33 3 21 33 94 40"
-opening_hours: "Tu-Sa 09:00-12:30,14:00-19:30; Su 09:30-13:00"
+street: Rue Victor Hugo
+housenumber: "61"
+phone: +33 3 21 33 94 40
+opening_hours: Tu-Sa 09:00-12:30,14:00-19:30; Su 09:30-13:00
 website: ""

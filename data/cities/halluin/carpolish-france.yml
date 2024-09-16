@@ -1,11 +1,11 @@
 id: 196666989
-type: way
+type: node
 latitude: 50.77617
 longitude: 3.09431
 postcode: "59250"
 city: Halluin
-street: "Rue de la Lys"
-housenumber: 334
+street: Rue de la Lys
+housenumber: "334"
 phone: ""
 opening_hours: ""
-website: "https://shop.carpolish.fr/"
+website: https://shop.carpolish.fr/

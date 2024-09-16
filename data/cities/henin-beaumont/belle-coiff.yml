@@ -1,11 +1,11 @@
 id: 108828399
-type: way
+type: node
 latitude: 50.41999
 longitude: 2.94701
 postcode: "62110"
 city: Hénin-Beaumont
-street: "Place Jean Jaurès"
-housenumber: 81
+street: Place Jean Jaurès
+housenumber: "81"
 phone: ""
 opening_hours: ""
 website: ""

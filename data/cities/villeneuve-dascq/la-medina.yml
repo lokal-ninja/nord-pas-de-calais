@@ -4,8 +4,8 @@ latitude: 50.62079
 longitude: 3.14573
 postcode: "59650"
 city: Villeneuve-d'Ascq
-street: "Place de Verdun"
-housenumber: 14
+street: Place de Verdun
+housenumber: "14"
 phone: "+33320049523"
-opening_hours: "Mo-Th, Sa-Su 09:00-20:00; Fr 09:00-13:00,14:00-20:00"
+opening_hours: Mo-Th, Sa-Su 09:00-20:00; Fr 09:00-13:00,14:00-20:00
 website: ""

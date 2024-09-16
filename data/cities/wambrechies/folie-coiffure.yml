@@ -1,11 +1,11 @@
 id: 75225470
-type: way
+type: node
 latitude: 50.68295
 longitude: 3.04307
 postcode: "59118"
 city: Wambrechies
-street: "Rue d'Ypres"
-housenumber: 1040
+street: Rue d'Ypres
+housenumber: "1040"
 phone: ""
 opening_hours: ""
 website: ""

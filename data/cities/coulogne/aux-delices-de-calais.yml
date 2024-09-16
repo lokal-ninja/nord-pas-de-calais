@@ -4,8 +4,8 @@ latitude: 50.92668
 longitude: 1.8758
 postcode: "62137"
 city: Coulogne
-street: "Rue Gellé Way"
-housenumber: 6
-phone: "+33 3 21 36 56 35"
-opening_hours: "Mo 7:00-13:00, 15:00-19:00; We-Sa 7:00-13:00, 15:00-19:00; Su 7:00-13:00"
+street: Rue Gellé Way
+housenumber: "6"
+phone: +33 3 21 36 56 35
+opening_hours: Mo 7:00-13:00, 15:00-19:00; We-Sa 7:00-13:00, 15:00-19:00; Su 7:00-13:00
 website: ""

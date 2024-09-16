@@ -4,8 +4,8 @@ latitude: 50.15236
 longitude: 3.21979
 postcode: "59267"
 city: Proville
-street: "Rue Jean d'Alembert"
-housenumber: 80
-phone: "+33 3 27 70 54 14"
-opening_hours: "Mo-Fr 09:30-12:30,13:30-19:00; We,Sa 09:30-19:00"
+street: Rue Jean d'Alembert
+housenumber: "80"
+phone: +33 3 27 70 54 14
+opening_hours: Mo-Fr 09:30-12:30,13:30-19:00; We,Sa 09:30-19:00
 website: ""

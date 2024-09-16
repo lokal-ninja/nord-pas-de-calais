@@ -4,8 +4,8 @@ latitude: 50.51172
 longitude: 1.64603
 postcode: "62630"
 city: Étaples
-street: "Route d'Hilbert"
-housenumber: 3
-phone: "+33 3 91 89 67 95"
+street: Route d'Hilbert
+housenumber: "3"
+phone: +33 3 91 89 67 95
 opening_hours: ""
-website: "https://fr-fr.facebook.com/opaletdesvins"
+website: https://fr-fr.facebook.com/opaletdesvins

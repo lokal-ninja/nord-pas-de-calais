@@ -1,11 +1,11 @@
 id: 240856817
-type: way
+type: node
 latitude: 50.45922
 longitude: 2.9451
 postcode: "62710"
 city: Courrières
-street: "Rue Urianne Sorriaux"
-housenumber: 33
-phone: "+33 3 21 20 12 09"
-opening_hours: "Mo-Su 07:30-21:00"
+street: Rue Urianne Sorriaux
+housenumber: "33"
+phone: +33 3 21 20 12 09
+opening_hours: Mo-Su 07:30-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 79495270
-type: way
+type: node
 latitude: 50.62034
 longitude: 3.14544
 postcode: "59650"
 city: Villeneuve-d'Ascq
-street: "Place de Verdun"
-housenumber: 24
-phone: "+33 3 20 47 35 08"
-opening_hours: "Mo-Su 09:00-20:00"
+street: Place de Verdun
+housenumber: "24"
+phone: +33 3 20 47 35 08
+opening_hours: Mo-Su 09:00-20:00
 website: ""

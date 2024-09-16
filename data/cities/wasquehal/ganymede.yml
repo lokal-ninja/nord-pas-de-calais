@@ -1,11 +1,11 @@
 id: 82272588
-type: way
+type: node
 latitude: 50.66978
 longitude: 3.12873
 postcode: "59290"
 city: Wasquehal
-street: "Rue Jean Macé"
-housenumber: 12
+street: Rue Jean Macé
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

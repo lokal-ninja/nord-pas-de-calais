@@ -1,11 +1,11 @@
 id: 100862413
-type: way
+type: node
 latitude: 50.80919
 longitude: 2.57952
 postcode: "59114"
 city: Steenvoorde
-street: "Rue de Cassel"
-housenumber: 3
+street: Rue de Cassel
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

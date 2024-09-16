@@ -1,11 +1,11 @@
 id: 66943321
-type: way
+type: node
 latitude: 50.33747
 longitude: 4.0149
 postcode: "59600"
 city: Villers-Sire-Nicole
-street: "Rue de l'Épinette"
-housenumber: 7
+street: Rue de l'Épinette
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

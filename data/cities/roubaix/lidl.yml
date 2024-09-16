@@ -1,11 +1,11 @@
 id: 80136168
-type: way
+type: node
 latitude: 50.68235
 longitude: 3.17932
 postcode: "59100"
 city: Roubaix
-street: "Rue Jules Guesde"
+street: Rue Jules Guesde
 housenumber: 43-45
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:30"
+opening_hours: Mo-Fr 08:30-19:30
 website: ""

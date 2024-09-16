@@ -1,11 +1,11 @@
 id: 76413731
-type: way
+type: node
 latitude: 51.04802
 longitude: 2.38929
 postcode: "59240"
 city: Dunkerque
-street: "Place du Casino"
-housenumber: 14
-phone: "+33 3 28 63 39 17"
-opening_hours: "Mo,We-Sa 06:30-13:30,15:00-19:15; Su 06:30-13:30"
+street: Place du Casino
+housenumber: "14"
+phone: +33 3 28 63 39 17
+opening_hours: Mo,We-Sa 06:30-13:30,15:00-19:15; Su 06:30-13:30
 website: ""

@@ -1,11 +1,11 @@
 id: 240856876
-type: way
+type: node
 latitude: 50.4579
 longitude: 2.94783
 postcode: "62710"
 city: Courrières
-street: "Rue Roger Salengro"
-housenumber: 14
+street: Rue Roger Salengro
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 171293507
-type: way
+type: node
 latitude: 50.44759
 longitude: 2.86613
 postcode: "62440"
 city: Harnes
-street: "Route de Lille"
-housenumber: 25
+street: Route de Lille
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

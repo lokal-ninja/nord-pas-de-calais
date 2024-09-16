@@ -1,11 +1,11 @@
 id: 108823498
-type: way
+type: node
 latitude: 50.42372
 longitude: 2.94448
 postcode: "62110"
 city: Hénin-Beaumont
-street: "Rue de l'Abbaye"
-housenumber: 359
+street: Rue de l'Abbaye
+housenumber: "359"
 phone: ""
 opening_hours: ""
 website: ""

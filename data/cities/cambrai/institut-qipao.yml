@@ -4,8 +4,8 @@ latitude: 50.14812
 longitude: 3.22225
 postcode: "59400"
 city: Cambrai
-street: "Avenue Georges Nuttin"
-housenumber: 2
-phone: "+33 3 27 73 45 26"
-opening_hours: "Mo-Sa 08:30-20:00"
-website: "https://www.qipao.fr/"
+street: Avenue Georges Nuttin
+housenumber: "2"
+phone: +33 3 27 73 45 26
+opening_hours: Mo-Sa 08:30-20:00
+website: https://www.qipao.fr/

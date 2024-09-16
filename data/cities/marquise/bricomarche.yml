@@ -1,11 +1,11 @@
 id: 245048472
-type: way
+type: node
 latitude: 50.82333
 longitude: 1.71012
 postcode: "62250"
 city: Marquise
-street: "Rue des Poissonniers"
-housenumber: 
+street: Rue des Poissonniers
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

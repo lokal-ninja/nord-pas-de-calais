@@ -1,11 +1,11 @@
 id: 1106247675
-type: way
+type: node
 latitude: 50.14354
 longitude: 3.36687
 postcode: "59157"
 city: Beauvois-en-Cambrésis
-street: "Rue des Entrepreneurs"
-housenumber: 1
-phone: "+33 327765680"
-opening_hours: "Tu-Sa 09:00-18:00"
-website: "https://www.libertium.fr/concessions/beauvois-en-cambresis"
+street: Rue des Entrepreneurs
+housenumber: "1"
+phone: +33 327765680
+opening_hours: Tu-Sa 09:00-18:00
+website: https://www.libertium.fr/concessions/beauvois-en-cambresis

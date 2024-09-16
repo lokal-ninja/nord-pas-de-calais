@@ -1,11 +1,11 @@
 id: 1288781043
-type: way
+type: node
 latitude: 50.13196
 longitude: 3.21855
 postcode: "59281"
 city: Rumilly-en-Cambrésis
-street: "Rue du Tour des Haies"
-housenumber: 21
-phone: "+33 7 78 02 33 10"
-opening_hours: "Mo 18:00-11:00; Tu-Su 13:00-17:00,18:00-11:00"
-website: "https://natispa-rumilly59.fr"
+street: Rue du Tour des Haies
+housenumber: "21"
+phone: +33 7 78 02 33 10
+opening_hours: Mo 18:00-11:00; Tu-Su 13:00-17:00,18:00-11:00
+website: https://natispa-rumilly59.fr

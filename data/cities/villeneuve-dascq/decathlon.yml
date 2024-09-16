@@ -1,11 +1,11 @@
 id: 79049914
-type: way
+type: node
 latitude: 50.6165
 longitude: 3.12714
 postcode: "59650"
 city: Villeneuve-d'Ascq
-street: "Boulevard de Valmy"
-housenumber: 121
-phone: "+33 3 20 91 61 03"
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.decathlon.fr/store-view/magasin-de-sports-villeneuve-d-ascq-ccial-v2-lille-0070001500015"
+street: Boulevard de Valmy
+housenumber: "121"
+phone: +33 3 20 91 61 03
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.decathlon.fr/store-view/magasin-de-sports-villeneuve-d-ascq-ccial-v2-lille-0070001500015

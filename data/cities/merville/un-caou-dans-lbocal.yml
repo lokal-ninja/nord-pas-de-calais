@@ -4,8 +4,8 @@ latitude: 50.64733
 longitude: 2.63339
 postcode: "59660"
 city: Merville
-street: "Route d'Hazebrouck"
-housenumber: 4
+street: Route d'Hazebrouck
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://un-caou-dans-lbocal.odoo.com/"
+website: https://un-caou-dans-lbocal.odoo.com/

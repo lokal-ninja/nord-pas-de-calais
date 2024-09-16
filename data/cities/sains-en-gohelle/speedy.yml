@@ -1,11 +1,11 @@
 id: 241478900
-type: way
+type: node
 latitude: 50.44809
 longitude: 2.68864
 postcode: "62114"
 city: Sains-en-Gohelle
-street: "Avenue François Mitterrand"
-housenumber: 218
+street: Avenue François Mitterrand
+housenumber: "218"
 phone: "+33321403636"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00"
-website: "https://centres-auto.speedy.fr/garage/sains-en-gohelle-62114/934"
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00
+website: https://centres-auto.speedy.fr/garage/sains-en-gohelle-62114/934

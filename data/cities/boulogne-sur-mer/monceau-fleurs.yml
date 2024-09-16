@@ -4,8 +4,8 @@ latitude: 50.72227
 longitude: 1.60467
 postcode: "62200"
 city: Boulogne-sur-Mer
-street: "Rue de la Lampe"
-housenumber: 40
-phone: "+33 3 21 30 94 77"
-opening_hours: "Mo-Sa 09:00-19:30; Su 09:00-13:00"
-website: "https://www.monceaufleurs.com/magasins/monceau-fleurs-fleuriste-boulogne-sur-mer-62200/"
+street: Rue de la Lampe
+housenumber: "40"
+phone: +33 3 21 30 94 77
+opening_hours: Mo-Sa 09:00-19:30; Su 09:00-13:00
+website: https://www.monceaufleurs.com/magasins/monceau-fleurs-fleuriste-boulogne-sur-mer-62200/

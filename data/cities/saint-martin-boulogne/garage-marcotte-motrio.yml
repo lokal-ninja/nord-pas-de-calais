@@ -4,8 +4,8 @@ latitude: 50.73532
 longitude: 1.62124
 postcode: "62280"
 city: Saint-Martin-Boulogne
-street: "Route de Calais"
-housenumber: 
+street: Route de Calais
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.garagemarcotte.fr/"
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.garagemarcotte.fr/

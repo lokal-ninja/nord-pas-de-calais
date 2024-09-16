@@ -4,8 +4,8 @@ latitude: 50.6403
 longitude: 3.06231
 postcode: "59800"
 city: Lille
-street: "Place Gilleson"
-housenumber: 
-phone: "+33 9 70 35 21 41"
-opening_hours: "Mo 14:00-18:30; Tu-Sa 10:00-18:30"
-website: "https://www.artisanat-monastique-lille.fr/"
+street: Place Gilleson
+housenumber: ""
+phone: +33 9 70 35 21 41
+opening_hours: Mo 14:00-18:30; Tu-Sa 10:00-18:30
+website: https://www.artisanat-monastique-lille.fr/

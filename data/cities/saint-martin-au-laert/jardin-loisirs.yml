@@ -1,11 +1,11 @@
 id: 167242434
-type: way
+type: node
 latitude: 50.75627
 longitude: 2.23402
 postcode: "62500"
 city: Saint-Martin-au-Laërt
-street: "Rue de Calais"
-housenumber: 54
-phone: "+33 3 21 98 17 41"
+street: Rue de Calais
+housenumber: "54"
+phone: +33 3 21 98 17 41
 opening_hours: ""
-website: "http://www.jardin-loisirs-3.fr/"
+website: http://www.jardin-loisirs-3.fr/

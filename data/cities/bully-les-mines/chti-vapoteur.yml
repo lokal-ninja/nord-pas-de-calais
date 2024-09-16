@@ -1,11 +1,11 @@
 id: 123710572
-type: way
+type: node
 latitude: 50.4443
 longitude: 2.72146
 postcode: "62160"
 city: Bully-les-Mines
-street: "Rue Jean Jaurès"
-housenumber: 32
-phone: "+33 9 84 06 25 03"
+street: Rue Jean Jaurès
+housenumber: "32"
+phone: +33 9 84 06 25 03
 opening_hours: ""
-website: "https://www.chti-vapoteur.fr/"
+website: https://www.chti-vapoteur.fr/

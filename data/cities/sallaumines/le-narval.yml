@@ -1,11 +1,11 @@
 id: 240956406
-type: way
+type: node
 latitude: 50.41997
 longitude: 2.87385
 postcode: "62430"
 city: Sallaumines
-street: "Rue Édouard Vaillant"
-housenumber: 95
+street: Rue Édouard Vaillant
+housenumber: "95"
 phone: ""
 opening_hours: ""
 website: ""

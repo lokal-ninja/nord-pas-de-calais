@@ -4,8 +4,8 @@ latitude: 50.5859
 longitude: 2.94376
 postcode: "59211"
 city: Wavrin
-street: "Rue Anatole France"
-housenumber: 
+street: Rue Anatole France
+housenumber: ""
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu-Fr 10:00-13:00, 14:00-19:00; Sa 09:00-13:00, 14:00-19:00"
-website: "https://www.biocoop-verttige-wavrin.fr"
+opening_hours: Mo 14:00-19:00; Tu-Fr 10:00-13:00, 14:00-19:00; Sa 09:00-13:00, 14:00-19:00
+website: https://www.biocoop-verttige-wavrin.fr

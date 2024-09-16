@@ -1,11 +1,11 @@
 id: 1119975120
-type: way
+type: node
 latitude: 50.93676
 longitude: 1.8704
 postcode: "62100"
 city: Calais
-street: "Quai Gustave Lamarle"
-housenumber: 1080
-phone: "+33 6 26 91 51 01"
-opening_hours: "Su-Sa,PH 08:00-21:00"
-website: "https://hugo-box.fr/"
+street: Quai Gustave Lamarle
+housenumber: "1080"
+phone: +33 6 26 91 51 01
+opening_hours: Su-Sa,PH 08:00-21:00
+website: https://hugo-box.fr/

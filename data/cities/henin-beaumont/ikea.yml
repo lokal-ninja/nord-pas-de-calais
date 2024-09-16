@@ -1,11 +1,11 @@
 id: 108559812
-type: way
+type: node
 latitude: 50.39172
 longitude: 2.97636
 postcode: "62110"
 city: Hénin-Beaumont
-street: "Boulevard Olof Palme"
-housenumber: 275
+street: Boulevard Olof Palme
+housenumber: "275"
 phone: ""
 opening_hours: ""
 website: ""

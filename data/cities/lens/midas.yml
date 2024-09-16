@@ -5,7 +5,7 @@ longitude: 2.83439
 postcode: "62300"
 city: Lens
 street: ""
-housenumber: 75
-phone: "+33 3 21 28 66 49"
+housenumber: "75"
+phone: +33 3 21 28 66 49
 opening_hours: ""
-website: "https://www.midas.fr/"
+website: https://www.midas.fr/

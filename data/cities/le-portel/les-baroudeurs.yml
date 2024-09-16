@@ -4,8 +4,8 @@ latitude: 50.70758
 longitude: 1.57266
 postcode: "62480"
 city: Le Portel
-street: "Boulevard Pasteur"
-housenumber: 29
-phone: "+33 6 82 30 14 90"
-opening_hours: "Mo-Su 09:00-12:30,13:30-18:00"
-website: "https://www.les-baroudeurs.fr/"
+street: Boulevard Pasteur
+housenumber: "29"
+phone: +33 6 82 30 14 90
+opening_hours: Mo-Su 09:00-12:30,13:30-18:00
+website: https://www.les-baroudeurs.fr/

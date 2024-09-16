@@ -1,11 +1,11 @@
 id: 88660817
-type: way
+type: node
 latitude: 50.46644
 longitude: 2.67394
 postcode: "62290"
 city: Nœux-les-Mines
-street: "Rue Nationale"
-housenumber: 421
+street: Rue Nationale
+housenumber: "421"
 phone: ""
 opening_hours: ""
-website: "https://www.nozarrivages.com/magasin/noeux-les-mines/"
+website: https://www.nozarrivages.com/magasin/noeux-les-mines/

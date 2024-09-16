@@ -1,11 +1,11 @@
 id: 143628090
-type: way
+type: node
 latitude: 50.71047
 longitude: 2.22879
 postcode: "62570"
 city: Wizernes
-street: "Rue de Saint-Omer"
-housenumber: 5
+street: Rue de Saint-Omer
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

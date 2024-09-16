@@ -1,11 +1,11 @@
 id: 244678695
-type: way
+type: node
 latitude: 50.66833
 longitude: 1.84098
 postcode: "62240"
 city: Desvres
-street: "Rue de la Gare"
-housenumber: 13
+street: Rue de la Gare
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

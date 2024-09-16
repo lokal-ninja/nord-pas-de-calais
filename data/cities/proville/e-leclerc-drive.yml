@@ -1,11 +1,11 @@
 id: 203553386
-type: way
+type: node
 latitude: 50.15131
 longitude: 3.21981
 postcode: "59267"
 city: Proville
-street: "Rue Jean-Jacques Rousseau"
-housenumber: 30
-phone: "+33 9 52 30 96 35"
-opening_hours: "Mo-Sa 9:30-18:45"
+street: Rue Jean-Jacques Rousseau
+housenumber: "30"
+phone: +33 9 52 30 96 35
+opening_hours: Mo-Sa 9:30-18:45
 website: ""

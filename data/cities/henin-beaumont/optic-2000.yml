@@ -1,11 +1,11 @@
 id: 108823131
-type: way
+type: node
 latitude: 50.41995
 longitude: 2.94736
 postcode: "62110"
 city: Hénin-Beaumont
-street: "Place Jean Jaurès"
-housenumber: 90
-phone: "+33 3 21 75 57 02"
-opening_hours: "Tu-Sa 09:00-12:00,14:00-19:00; Mo 14:00-19:00"
-website: "https://opticiens.optic2000.com/henin-beaumont"
+street: Place Jean Jaurès
+housenumber: "90"
+phone: +33 3 21 75 57 02
+opening_hours: Tu-Sa 09:00-12:00,14:00-19:00; Mo 14:00-19:00
+website: https://opticiens.optic2000.com/henin-beaumont

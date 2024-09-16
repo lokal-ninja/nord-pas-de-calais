@@ -1,11 +1,11 @@
 id: 64775718
-type: way
+type: node
 latitude: 50.27037
 longitude: 3.95233
 postcode: "59720"
 city: Louvroil
-street: "Rue d'Hautmont"
-housenumber: 37
+street: Rue d'Hautmont
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

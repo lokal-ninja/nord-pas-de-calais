@@ -1,11 +1,11 @@
 id: 220108727
-type: way
+type: node
 latitude: 50.38005
 longitude: 3.47474
 postcode: "59494"
 city: Petite-Forêt
-street: "route nationale"
-housenumber: 45
+street: route nationale
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.decathlon.fr/fr/store?store_id=PS_21"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.decathlon.fr/fr/store?store_id=PS_21

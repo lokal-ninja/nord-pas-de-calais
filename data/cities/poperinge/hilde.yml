@@ -1,11 +1,11 @@
 id: 174318109
-type: way
+type: node
 latitude: 50.81957
 longitude: 2.6668
 postcode: "8978"
 city: Poperinge
-street: "Abeleplein"
-housenumber: 33
+street: Abeleplein
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

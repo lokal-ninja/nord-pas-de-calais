@@ -1,11 +1,11 @@
 id: 241668972
-type: way
+type: node
 latitude: 50.65903
 longitude: 2.77032
 postcode: "62840"
 city: Sailly-sur-la-Lys
-street: "Rue de la Lys"
-housenumber: 1173
-phone: "+33 3 21 26 46 50"
-opening_hours: "Mo-Sa 08:00-21:00; Su 08:00-13:00"
-website: "https://carrefour.fr"
+street: Rue de la Lys
+housenumber: "1173"
+phone: +33 3 21 26 46 50
+opening_hours: Mo-Sa 08:00-21:00; Su 08:00-13:00
+website: https://carrefour.fr

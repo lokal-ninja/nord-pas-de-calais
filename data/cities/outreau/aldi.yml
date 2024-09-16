@@ -1,11 +1,11 @@
 id: 856515352
-type: way
+type: node
 latitude: 50.69806
 longitude: 1.57944
 postcode: "62230"
 city: Outreau
-street: "Rue Jules Massenet"
-housenumber: 
+street: Rue Jules Massenet
+housenumber: ""
 phone: "+33181097825"
 opening_hours: ""
 website: ""

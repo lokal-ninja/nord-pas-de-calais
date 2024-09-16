@@ -1,11 +1,11 @@
 id: 81360491
-type: way
+type: node
 latitude: 50.80202
 longitude: 2.48181
 postcode: "59670"
 city: Cassel
-street: "Rue Bollaert Le Gavrian"
-housenumber: 2
-phone: "+33 3 28 40 72 16"
+street: Rue Bollaert Le Gavrian
+housenumber: "2"
+phone: +33 3 28 40 72 16
 opening_hours: ""
-website: "http://pizzacassel.unblog.fr/"
+website: http://pizzacassel.unblog.fr/

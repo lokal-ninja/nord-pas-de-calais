@@ -1,11 +1,11 @@
 id: 243402087
-type: way
+type: node
 latitude: 50.48761
 longitude: 2.74704
 postcode: "62980"
 city: Vermelles
-street: "Rue Voltaire"
-housenumber: 2
+street: Rue Voltaire
+housenumber: "2"
 phone: "+33321273069"
-opening_hours: "Mo-Sa 09:00-19:30; Su 09:00-13:00"
+opening_hours: Mo-Sa 09:00-19:30; Su 09:00-13:00
 website: ""

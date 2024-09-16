@@ -1,11 +1,11 @@
 id: 945400545
-type: way
+type: node
 latitude: 50.52208
 longitude: 2.79253
 postcode: "62138"
 city: Auchy-les-Mines
-street: "Route Nationale"
-housenumber: 150
+street: Route Nationale
+housenumber: "150"
 phone: "+33967495617"
-opening_hours: "Tu-Sa 09:30-12:30, 14:30-18:30"
-website: "https://www.facebook.com/CashViolaines/"
+opening_hours: Tu-Sa 09:30-12:30, 14:30-18:30
+website: https://www.facebook.com/CashViolaines/

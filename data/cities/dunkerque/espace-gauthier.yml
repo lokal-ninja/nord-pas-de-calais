@@ -4,8 +4,8 @@ latitude: 51.0408
 longitude: 2.40455
 postcode: "59240"
 city: Dunkerque
-street: "Rue Paul Machy"
-housenumber: 4
+street: Rue Paul Machy
+housenumber: "4"
 phone: ""
-opening_hours: "Tu-Fr 9:00-12:00,13:30-19:00; Sa 9:00-18:00"
+opening_hours: Tu-Fr 9:00-12:00,13:30-19:00; Sa 9:00-18:00
 website: ""

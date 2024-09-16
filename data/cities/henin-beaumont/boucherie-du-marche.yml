@@ -1,11 +1,11 @@
 id: 108169761
-type: way
+type: node
 latitude: 50.42154
 longitude: 2.94678
 postcode: "62110"
 city: Hénin-Beaumont
-street: "Place de la République"
-housenumber: 20
+street: Place de la République
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

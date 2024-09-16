@@ -4,8 +4,8 @@ latitude: 50.56811
 longitude: 3.21536
 postcode: "59830"
 city: Cysoing
-street: "Place de la République"
-housenumber: 80
-phone: "+33 3 20 84 65 03"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00"
-website: "http://site.compoz.fr/cysoingoptique/fr/contact"
+street: Place de la République
+housenumber: "80"
+phone: +33 3 20 84 65 03
+opening_hours: Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00
+website: http://site.compoz.fr/cysoingoptique/fr/contact

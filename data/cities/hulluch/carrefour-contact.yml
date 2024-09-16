@@ -1,11 +1,11 @@
 id: 241528441
-type: way
+type: node
 latitude: 50.48631
 longitude: 2.81191
 postcode: "62410"
 city: Hulluch
-street: "Rue du Général Leclerc"
-housenumber: 45
+street: Rue du Général Leclerc
+housenumber: "45"
 phone: "+33321403534"
-opening_hours: "Mo-Sa 08:00-20:00; Su, PH 08:00-13:00"
-website: "https://www.carrefour.fr/magasin/contact-hulluch"
+opening_hours: Mo-Sa 08:00-20:00; Su, PH 08:00-13:00
+website: https://www.carrefour.fr/magasin/contact-hulluch

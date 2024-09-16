@@ -1,11 +1,11 @@
 id: 788702640
-type: way
+type: node
 latitude: 50.58152
 longitude: 3.08127
 postcode: "59155"
 city: Faches-Thumesnil
-street: "Route de Vendeville"
-housenumber: 1
-phone: "+33 6 59 87 30 35"
+street: Route de Vendeville
+housenumber: "1"
+phone: +33 6 59 87 30 35
 opening_hours: ""
 website: ""

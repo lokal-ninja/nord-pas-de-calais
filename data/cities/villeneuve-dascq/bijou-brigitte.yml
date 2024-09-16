@@ -5,7 +5,7 @@ longitude: 3.12987
 postcode: "59650"
 city: Villeneuve-d'Ascq
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:30"
-website: "https://www.bijou-brigitte.com/fr"
+opening_hours: Mo-Sa 09:30-20:30
+website: https://www.bijou-brigitte.com/fr

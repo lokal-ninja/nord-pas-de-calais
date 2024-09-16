@@ -4,8 +4,8 @@ latitude: 50.61365
 longitude: 3.12992
 postcode: "59650"
 city: Villeneuve-d'Ascq
-street: "Rue de Versailles"
-housenumber: 11
+street: Rue de Versailles
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:00,14:00-19:00, Sa 10:00-19:00"
+opening_hours: Mo-Fr 10:00-12:00,14:00-19:00, Sa 10:00-19:00
 website: ""

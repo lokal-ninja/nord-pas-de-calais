@@ -1,11 +1,12 @@
 id: 240856711
-type: way
+type: node
 latitude: 50.45783
 longitude: 2.9439
 postcode: "62710"
 city: Courrières
-street: "Rue Massenet"
+street: Rue Massenet
 housenumber: 26 bis
-phone: "+33 3 21 49 74 42"
-opening_hours: "Tu-We 08:30-12:30,15:00-19:00; Th 08:30-12:30; Fr 08:30-12:30,15:00-19:00; Sa 08:30-12:30,15:00-18:30"
+phone: +33 3 21 49 74 42
+opening_hours: Tu-We 08:30-12:30,15:00-19:00; Th 08:30-12:30; Fr 08:30-12:30,15:00-19:00;
+    Sa 08:30-12:30,15:00-18:30
 website: ""

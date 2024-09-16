@@ -1,11 +1,11 @@
 id: 189633709
-type: way
+type: node
 latitude: 50.52837
 longitude: 2.94404
 postcode: "59112"
 city: Annœullin
-street: "Rue Lavoisier"
-housenumber: 
+street: Rue Lavoisier
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.73362
 longitude: 3.15039
 postcode: "59200"
 city: Tourcoing
-street: "Rue Racine"
-housenumber: 9
-phone: "+33 3 20 94 52 51"
-opening_hours: "Tu-Sa 07:00-18:30; Su 07:00-13:00"
-website: "https://www.boulangerie-deherripon.fr"
+street: Rue Racine
+housenumber: "9"
+phone: +33 3 20 94 52 51
+opening_hours: Tu-Sa 07:00-18:30; Su 07:00-13:00
+website: https://www.boulangerie-deherripon.fr

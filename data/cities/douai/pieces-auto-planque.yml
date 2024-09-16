@@ -4,8 +4,8 @@ latitude: 50.36473
 longitude: 3.07145
 postcode: "59500"
 city: Douai
-street: "Boulevard Poincaré"
-housenumber: 14
+street: Boulevard Poincaré
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:15, 13:45-18:30; Sa 08:30-12:15"
-website: "https://www.planque-auto.fr/"
+opening_hours: Mo-Fr 08:30-12:15, 13:45-18:30; Sa 08:30-12:15
+website: https://www.planque-auto.fr/

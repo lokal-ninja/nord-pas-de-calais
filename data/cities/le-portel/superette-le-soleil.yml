@@ -1,11 +1,11 @@
 id: 95924686
-type: way
+type: node
 latitude: 50.71846
 longitude: 1.58801
 postcode: "62480"
 city: Le Portel
-street: "Rue Georges Clemenceau"
-housenumber: 81
+street: Rue Georges Clemenceau
+housenumber: "81"
 phone: ""
 opening_hours: ""
 website: ""

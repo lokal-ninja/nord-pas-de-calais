@@ -1,10 +1,10 @@
 id: 123468239
-type: way
+type: node
 latitude: 50.59378
 longitude: 3.11276
 postcode: "59810"
 city: Lesquin
-street: "Chemin d'Annappes"
+street: Chemin d'Annappes
 housenumber: 5 bis
 phone: ""
 opening_hours: ""

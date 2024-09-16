@@ -1,11 +1,11 @@
 id: 100898372
-type: way
+type: node
 latitude: 50.36839
 longitude: 3.08868
 postcode: "59500"
 city: Douai
-street: "Boulevard Faidherbe"
-housenumber: 147
+street: Boulevard Faidherbe
+housenumber: "147"
 phone: ""
 opening_hours: ""
-website: "https://www.epicerievracdouai.fr/"
+website: https://www.epicerievracdouai.fr/

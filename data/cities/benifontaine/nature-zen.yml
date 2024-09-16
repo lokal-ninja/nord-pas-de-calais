@@ -1,11 +1,11 @@
 id: 75849080
-type: way
+type: node
 latitude: 50.4867
 longitude: 2.83352
 postcode: "62410"
 city: Bénifontaine
-street: "Rue Victor Hugo"
-housenumber: 6
+street: Rue Victor Hugo
+housenumber: "6"
 phone: "+33321403675"
-opening_hours: "Mo 14:00-18:00; Tu,Th,Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00,14:00-17:00"
-website: "https://naturezen-benifontaine.fr/"
+opening_hours: Mo 14:00-18:00; Tu,Th,Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00,14:00-17:00
+website: https://naturezen-benifontaine.fr/

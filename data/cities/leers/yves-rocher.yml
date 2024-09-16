@@ -4,8 +4,8 @@ latitude: 50.68117
 longitude: 3.21849
 postcode: "59115"
 city: Leers
-street: "Rue de l'Europe"
-housenumber: 1
+street: Rue de l'Europe
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "http://yves-rocher.fr"
+opening_hours: Mo-Sa 09:30-20:00
+website: http://yves-rocher.fr

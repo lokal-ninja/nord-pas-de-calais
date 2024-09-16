@@ -1,11 +1,11 @@
 id: 86929502
-type: way
+type: node
 latitude: 50.2519
 longitude: 3.64238
 postcode: "59530"
 city: Le Quesnoy
-street: "Route de Bavay"
-housenumber: 2
+street: Route de Bavay
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

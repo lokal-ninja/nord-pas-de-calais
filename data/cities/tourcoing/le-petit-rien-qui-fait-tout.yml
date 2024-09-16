@@ -1,11 +1,11 @@
 id: 59274793
-type: way
+type: node
 latitude: 50.72197
 longitude: 3.15704
 postcode: "59200"
 city: Tourcoing
-street: "Place Charles et Albert Roussel"
-housenumber: 31
+street: Place Charles et Albert Roussel
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

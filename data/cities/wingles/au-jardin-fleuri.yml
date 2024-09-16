@@ -1,11 +1,11 @@
 id: 92151899
-type: way
+type: node
 latitude: 50.49448
 longitude: 2.85162
 postcode: "62410"
 city: Wingles
-street: "Rue Jules Guesde"
-housenumber: 2
+street: Rue Jules Guesde
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

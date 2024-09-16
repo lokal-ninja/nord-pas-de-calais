@@ -1,11 +1,11 @@
 id: 108174027
-type: way
+type: node
 latitude: 50.42189
 longitude: 2.94885
 postcode: "62110"
 city: Hénin-Beaumont
-street: "Rue Montpencher"
-housenumber: 
+street: Rue Montpencher
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-12:30"
-website: "https://www.supermarchesmatch.fr/"
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-12:30
+website: https://www.supermarchesmatch.fr/

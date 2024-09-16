@@ -4,8 +4,8 @@ latitude: 50.55128
 longitude: 3.04963
 postcode: "59113"
 city: Seclin
-street: "Rue de l'Industrie"
-housenumber: 
-phone: "+33 3 20 06 23 23"
-opening_hours: "Tu-Fr 09:30-12:30,14:00-19:00; Sa 09:30-18:30; Mo,Su,PH off"
-website: "https://www.hd-lille.com/"
+street: Rue de l'Industrie
+housenumber: ""
+phone: +33 3 20 06 23 23
+opening_hours: Tu-Fr 09:30-12:30,14:00-19:00; Sa 09:30-18:30; Mo,Su,PH off
+website: https://www.hd-lille.com/

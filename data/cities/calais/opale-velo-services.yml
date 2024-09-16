@@ -4,8 +4,9 @@ latitude: 50.94698
 longitude: 1.84644
 postcode: "62100"
 city: Calais
-street: "Boulevard Léon Gambetta"
-housenumber: 152
-phone: "+33 3 21 00 07 41"
-opening_hours: "Mo 15:00-18:30; Tu-Fr 10:00-12:00,15:00-18:30; Sa 10:00-12:00; Jan 1 off; May 1 off; Jul 14 off; Dec 25 off"
-website: "http://opaleveloservices.fr/"
+street: Boulevard Léon Gambetta
+housenumber: "152"
+phone: +33 3 21 00 07 41
+opening_hours: Mo 15:00-18:30; Tu-Fr 10:00-12:00,15:00-18:30; Sa 10:00-12:00; Jan
+    1 off; May 1 off; Jul 14 off; Dec 25 off
+website: http://opaleveloservices.fr/

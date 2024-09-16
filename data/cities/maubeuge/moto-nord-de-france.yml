@@ -4,8 +4,8 @@ latitude: 50.28688
 longitude: 3.97256
 postcode: "59600"
 city: Maubeuge
-street: "Rue des Champs-Élysées"
-housenumber: 18
-phone: "+33 7 68 90 82 33"
-opening_hours: "Mo-Fr 14:00-18:00"
-website: "https://motonorddefrance.com/fr/"
+street: Rue des Champs-Élysées
+housenumber: "18"
+phone: +33 7 68 90 82 33
+opening_hours: Mo-Fr 14:00-18:00
+website: https://motonorddefrance.com/fr/

@@ -1,11 +1,11 @@
 id: 239400211
-type: way
+type: node
 latitude: 50.71044
 longitude: 2.1272
 postcode: "62380"
 city: Lumbres
-street: "Avenue Bernard Chochoy"
-housenumber: 
+street: Avenue Bernard Chochoy
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

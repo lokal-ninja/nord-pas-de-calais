@@ -1,11 +1,11 @@
 id: 110923437
-type: way
+type: node
 latitude: 50.67739
 longitude: 2.84373
 postcode: "59193"
 city: Erquinghem-Lys
-street: "Rue du Bac"
-housenumber: 136
+street: Rue du Bac
+housenumber: "136"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.78994
 longitude: 3.13988
 postcode: "8930"
 city: Menen
-street: "Noordstraat"
-housenumber: 12
+street: Noordstraat
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00; PH off"
-website: "https://www.kruidvat.be/"
+opening_hours: Mo-Sa 09:00-18:00; PH off
+website: https://www.kruidvat.be/

@@ -1,11 +1,11 @@
 id: 167203312
-type: way
+type: node
 latitude: 50.7345
 longitude: 2.27295
 postcode: "62219"
 city: Longuenesse
-street: "Avenue des Frais Fonds"
-housenumber: 4
+street: Avenue des Frais Fonds
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.decathlon.fr/fr/store?store_id=PS_175"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.decathlon.fr/fr/store?store_id=PS_175

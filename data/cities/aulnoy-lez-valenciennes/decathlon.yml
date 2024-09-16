@@ -1,11 +1,11 @@
 id: 186766319
-type: way
+type: node
 latitude: 50.3348
 longitude: 3.51106
 postcode: "59300"
 city: Aulnoy-lez-Valenciennes
-street: "Chemin des Bourgeois"
-housenumber: 
+street: Chemin des Bourgeois
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.decathlon.fr/fr/store?store_id=PS_116"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.decathlon.fr/fr/store?store_id=PS_116

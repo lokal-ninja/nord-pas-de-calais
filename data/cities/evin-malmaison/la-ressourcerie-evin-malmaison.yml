@@ -1,11 +1,11 @@
 id: 107866980
-type: way
+type: node
 latitude: 50.43062
 longitude: 3.03162
 postcode: "62141"
 city: Évin-Malmaison
-street: "Rue Mirabeau"
-housenumber: 58
-phone: "+33 3 21 77 06 56"
+street: Rue Mirabeau
+housenumber: "58"
+phone: +33 3 21 77 06 56
 opening_hours: ""
-website: "http://www.ressourcerie-evin.org"
+website: http://www.ressourcerie-evin.org

@@ -4,8 +4,8 @@ latitude: 50.36543
 longitude: 3.08013
 postcode: "59500"
 city: Douai
-street: "Rue de Paris"
-housenumber: 284
-phone: "+33 3 61 43 11 44"
+street: Rue de Paris
+housenumber: "284"
+phone: +33 3 61 43 11 44
 opening_hours: ""
-website: "https://encredutonerdouai.fr/"
+website: https://encredutonerdouai.fr/

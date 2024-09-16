@@ -1,11 +1,11 @@
 id: 240770532
-type: way
+type: node
 latitude: 50.4715
 longitude: 3.01267
 postcode: "62590"
 city: Oignies
-street: "Rue Émile Basly"
-housenumber: 75
+street: Rue Émile Basly
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

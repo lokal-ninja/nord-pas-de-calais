@@ -1,11 +1,11 @@
 id: 175408988
-type: way
+type: node
 latitude: 50.30998
 longitude: 3.48467
 postcode: "59233"
 city: Maing
-street: "Rue Anatole France"
-housenumber: 22
+street: Rue Anatole France
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

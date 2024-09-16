@@ -1,11 +1,11 @@
 id: 82273778
-type: way
+type: node
 latitude: 50.66945
 longitude: 3.12998
 postcode: "59290"
 city: Wasquehal
-street: "Place de la République"
-housenumber: 3
-phone: "+33 3 20 72 02 76"
-opening_hours: "Mo-Sa 06:30-20:00; Su 07:00-17:00"
+street: Place de la République
+housenumber: "3"
+phone: +33 3 20 72 02 76
+opening_hours: Mo-Sa 06:30-20:00; Su 07:00-17:00
 website: ""

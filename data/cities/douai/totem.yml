@@ -1,11 +1,11 @@
 id: 100897444
-type: way
+type: node
 latitude: 50.3683
 longitude: 3.08024
 postcode: "59500"
 city: Douai
-street: "Rue de la Mairie"
-housenumber: 126
-phone: "+33 9 67 06 61 33"
+street: Rue de la Mairie
+housenumber: "126"
+phone: +33 9 67 06 61 33
 opening_hours: ""
-website: "https://bijoux-totem.fr/"
+website: https://bijoux-totem.fr/

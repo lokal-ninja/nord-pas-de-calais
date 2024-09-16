@@ -4,8 +4,8 @@ latitude: 50.67344
 longitude: 3.10483
 postcode: "59700"
 city: Marcq-en-Barœul
-street: "Rue du Quesne"
-housenumber: 192
-phone: "+33 3 20 72 69 63"
-opening_hours: "Tu-Fr 09:00-19:00; Sa 08:00-17:00"
-website: "https://www.lesalonduquesne.fr/"
+street: Rue du Quesne
+housenumber: "192"
+phone: +33 3 20 72 69 63
+opening_hours: Tu-Fr 09:00-19:00; Sa 08:00-17:00
+website: https://www.lesalonduquesne.fr/

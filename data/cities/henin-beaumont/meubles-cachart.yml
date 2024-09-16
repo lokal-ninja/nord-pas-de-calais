@@ -1,11 +1,11 @@
 id: 108173519
-type: way
+type: node
 latitude: 50.4203
 longitude: 2.94641
 postcode: "62110"
 city: Hénin-Beaumont
-street: "Rue Denis Papin"
-housenumber: 19
-phone: "+33 3 21 20 68 36"
-opening_hours: "Tu-Fr 09:30-12:00,14:00-18:30"
-website: "https://meubles-cachart.fr/"
+street: Rue Denis Papin
+housenumber: "19"
+phone: +33 3 21 20 68 36
+opening_hours: Tu-Fr 09:30-12:00,14:00-18:30
+website: https://meubles-cachart.fr/

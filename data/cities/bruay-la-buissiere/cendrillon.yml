@@ -4,8 +4,8 @@ latitude: 50.4808
 longitude: 2.54514
 postcode: "62700"
 city: Bruay-la-Buissière
-street: "Rue Henri Cadot"
-housenumber: 23
-phone: "+33 3 21 62 42 65"
-opening_hours: "Mo-Sa 09:00-12:00,14:00-18:00; Su off"
+street: Rue Henri Cadot
+housenumber: "23"
+phone: +33 3 21 62 42 65
+opening_hours: Mo-Sa 09:00-12:00,14:00-18:00; Su off
 website: ""

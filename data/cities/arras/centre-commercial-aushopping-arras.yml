@@ -1,11 +1,11 @@
 id: 138348842
-type: way
+type: node
 latitude: 50.30073
 longitude: 2.7297
 postcode: "62000"
 city: Arras
-street: "Avenue Winston Churchill"
-housenumber: 225
+street: Avenue Winston Churchill
+housenumber: "225"
 phone: ""
 opening_hours: ""
-website: "https://arras.aushopping.com/fr"
+website: https://arras.aushopping.com/fr

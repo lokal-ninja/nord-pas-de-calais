@@ -1,11 +1,11 @@
 id: 100895098
-type: way
+type: node
 latitude: 50.36816
 longitude: 3.08097
 postcode: "59500"
 city: Douai
-street: "Rue de la Mairie"
-housenumber: 68
-phone: "+33 3 27 88 69 19"
+street: Rue de la Mairie
+housenumber: "68"
+phone: +33 3 27 88 69 19
 opening_hours: ""
 website: ""

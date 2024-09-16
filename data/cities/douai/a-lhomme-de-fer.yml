@@ -4,8 +4,8 @@ latitude: 50.36887
 longitude: 3.0821
 postcode: "59500"
 city: Douai
-street: "Rue de Bellain"
-housenumber: 93
-phone: "+33 3 27 88 97 88"
+street: Rue de Bellain
+housenumber: "93"
+phone: +33 3 27 88 97 88
 opening_hours: ""
-website: "https://alhommedefer.fr/"
+website: https://alhommedefer.fr/

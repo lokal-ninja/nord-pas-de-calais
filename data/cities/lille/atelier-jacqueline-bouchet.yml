@@ -1,11 +1,11 @@
 id: 48635068
-type: way
+type: node
 latitude: 50.63859
 longitude: 3.06891
 postcode: "59000"
 city: Lille
-street: "Rue de Roubaix"
-housenumber: 31
-phone: "+33 9 70 35 28 81"
+street: Rue de Roubaix
+housenumber: "31"
+phone: +33 9 70 35 28 81
 opening_hours: ""
-website: "https://www.encadrement-jbouchet.fr/"
+website: https://www.encadrement-jbouchet.fr/

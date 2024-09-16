@@ -1,11 +1,11 @@
 id: 77004152
-type: way
+type: node
 latitude: 50.69257
 longitude: 3.18334
 postcode: "59100"
 city: Roubaix
-street: "Boulevard Gambetta"
-housenumber: 107
+street: Boulevard Gambetta
+housenumber: "107"
 phone: ""
 opening_hours: ""
 website: ""

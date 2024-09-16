@@ -1,11 +1,11 @@
 id: 85293425
-type: way
+type: node
 latitude: 50.67481
 longitude: 3.14512
 postcode: "59170"
 city: Croix
-street: "Rue de la Gare"
-housenumber: 29
+street: Rue de la Gare
+housenumber: "29"
 phone: ""
 opening_hours: ""
-website: "https://latelierdulunetier.fr/"
+website: https://latelierdulunetier.fr/

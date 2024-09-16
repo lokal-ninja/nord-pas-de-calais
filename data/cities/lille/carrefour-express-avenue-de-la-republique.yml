@@ -1,11 +1,11 @@
 id: 84930523
-type: way
+type: node
 latitude: 50.65648
 longitude: 3.08881
 postcode: "59800"
 city: Lille
-street: "Avenue de la République"
-housenumber: 732
-phone: "+33 3 28 07 97 68"
-opening_hours: "Mo-Sa 07:00-21:00; Su 08:00-13:00"
-website: "https://www.carrefour.fr/magasin/express-lille-republique"
+street: Avenue de la République
+housenumber: "732"
+phone: +33 3 28 07 97 68
+opening_hours: Mo-Sa 07:00-21:00; Su 08:00-13:00
+website: https://www.carrefour.fr/magasin/express-lille-republique

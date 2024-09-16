@@ -1,11 +1,11 @@
 id: 108106977
-type: way
+type: node
 latitude: 50.64364
 longitude: 3.01005
 postcode: "59160"
 city: Lomme
-street: "Rue Lavoisier"
-housenumber: 5
-phone: "+33 3 20 60 54 48"
+street: Rue Lavoisier
+housenumber: "5"
+phone: +33 3 20 60 54 48
 opening_hours: ""
-website: "https://concessions.peugeot.fr/verbaere-lomme/"
+website: https://concessions.peugeot.fr/verbaere-lomme/

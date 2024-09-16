@@ -1,11 +1,11 @@
 id: 108053350
-type: way
+type: node
 latitude: 50.41892
 longitude: 2.99856
 postcode: "62950"
 city: Noyelles-Godault
-street: "Rue Joseph Fontaine"
-housenumber: 33
+street: Rue Joseph Fontaine
+housenumber: "33"
 phone: "+33321207228"
-opening_hours: "Mo-We,Fr,Sa 08:00-12:30,15:00-19:30"
+opening_hours: Mo-We,Fr,Sa 08:00-12:30,15:00-19:30
 website: ""

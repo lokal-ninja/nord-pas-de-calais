@@ -1,11 +1,11 @@
 id: 245799300
-type: way
+type: node
 latitude: 50.56756
 longitude: 1.91085
 postcode: "62650"
 city: Hucqueliers
-street: "Rue de la Longeville"
-housenumber: 18
-phone: "+33 3 21 81 13 04"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.carrefour.fr/magasin/contact-hucqueliers"
+street: Rue de la Longeville
+housenumber: "18"
+phone: +33 3 21 81 13 04
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.carrefour.fr/magasin/contact-hucqueliers

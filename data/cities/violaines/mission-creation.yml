@@ -4,8 +4,8 @@ latitude: 50.54035
 longitude: 2.79622
 postcode: "62138"
 city: Violaines
-street: "Rue du 11 Novembre"
-housenumber: 1
-phone: "+33 3 20 29 10 36"
-opening_hours: "Tu-Fr 09:30-12:00, 14:00-18:30; Sa 09:30-12:00, 14:00-18:00"
-website: "https://www.mission-creation.fr/"
+street: Rue du 11 Novembre
+housenumber: "1"
+phone: +33 3 20 29 10 36
+opening_hours: Tu-Fr 09:30-12:00, 14:00-18:30; Sa 09:30-12:00, 14:00-18:00
+website: https://www.mission-creation.fr/

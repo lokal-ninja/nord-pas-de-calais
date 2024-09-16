@@ -4,8 +4,8 @@ latitude: 50.16395
 longitude: 3.90082
 postcode: "59440"
 city: Saint-Aubin
-street: "Chemin du Pont des Loups"
-housenumber: 2
-phone: "+33 3 27 57 84 09"
-opening_hours: "Mo-We 09:30-12:00,14:00-17:30; Th-Sa 09:30-12:00,14:00-18:30"
-website: "https://www.fermedupontdesloups.fr/"
+street: Chemin du Pont des Loups
+housenumber: "2"
+phone: +33 3 27 57 84 09
+opening_hours: Mo-We 09:30-12:00,14:00-17:30; Th-Sa 09:30-12:00,14:00-18:30
+website: https://www.fermedupontdesloups.fr/

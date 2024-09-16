@@ -1,11 +1,11 @@
 id: 220945989
-type: way
+type: node
 latitude: 50.24051
 longitude: 2.65715
 postcode: "62123"
 city: Beaumetz-lès-Loges
-street: "Rue Nationale"
-housenumber: 9
+street: Rue Nationale
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/contact-beaumetz-les-loges"
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/contact-beaumetz-les-loges

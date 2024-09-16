@@ -1,11 +1,11 @@
 id: 179833006
-type: way
+type: node
 latitude: 51.01533
 longitude: 2.31897
 postcode: "59760"
 city: Grande-Synthe
-street: "Avenue de Petite-Synthe"
-housenumber: 140
-phone: "+33 3 28 24 83 83"
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.decathlon.fr/store-view/magasin-de-sports-decathlon-dunkerque-grande-synthe-0070006300063"
+street: Avenue de Petite-Synthe
+housenumber: "140"
+phone: +33 3 28 24 83 83
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.decathlon.fr/store-view/magasin-de-sports-decathlon-dunkerque-grande-synthe-0070006300063

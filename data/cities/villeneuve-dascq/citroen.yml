@@ -1,11 +1,11 @@
 id: 79525124
-type: way
+type: node
 latitude: 50.61203
 longitude: 3.16007
 postcode: "59650"
 city: Villeneuve-d'Ascq
-street: "Rue des Fusillés"
-housenumber: 186
-phone: "+33 3 20 41 23 05"
-opening_hours: "Mo-Fr 07:30-12:00,14:00-18:00"
-website: "https://www.garage-delahauteborne.fr"
+street: Rue des Fusillés
+housenumber: "186"
+phone: +33 3 20 41 23 05
+opening_hours: Mo-Fr 07:30-12:00,14:00-18:00
+website: https://www.garage-delahauteborne.fr

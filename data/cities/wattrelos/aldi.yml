@@ -1,11 +1,11 @@
 id: 532941602
-type: way
+type: node
 latitude: 50.70609
 longitude: 3.19838
 postcode: "59150"
 city: Wattrelos
-street: "Rue des Patriotes"
-housenumber: 60
+street: Rue des Patriotes
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:30"
+opening_hours: Mo-Sa 08:00-19:30
 website: ""

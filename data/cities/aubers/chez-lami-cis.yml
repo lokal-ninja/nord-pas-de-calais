@@ -1,11 +1,11 @@
 id: 83532515
-type: way
+type: node
 latitude: 50.59491
 longitude: 2.82491
 postcode: "59249"
 city: Aubers
-street: "Place de l'Église"
-housenumber: 25
+street: Place de l'Église
+housenumber: "25"
 phone: ""
-opening_hours: "12:00-14:00,19:00-22:00; Tu off"
+opening_hours: 12:00-14:00,19:00-22:00; Tu off
 website: ""

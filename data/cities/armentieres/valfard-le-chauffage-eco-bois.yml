@@ -4,8 +4,8 @@ latitude: 50.68869
 longitude: 2.88053
 postcode: "59280"
 city: Armentières
-street: "Rue de Dunkerque"
-housenumber: 34
+street: Rue de Dunkerque
+housenumber: "34"
 phone: "+33320574746"
-opening_hours: "Mo-Sa 10:00-12:00,14:00-19:00"
-website: "http://www.valfard.fr/"
+opening_hours: Mo-Sa 10:00-12:00,14:00-19:00
+website: http://www.valfard.fr/

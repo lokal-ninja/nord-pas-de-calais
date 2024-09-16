@@ -1,11 +1,11 @@
 id: 95925578
-type: way
+type: node
 latitude: 50.70716
 longitude: 1.57487
 postcode: "62480"
 city: Le Portel
 street: ""
-housenumber: 4
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

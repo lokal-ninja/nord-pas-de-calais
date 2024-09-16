@@ -1,11 +1,11 @@
 id: 592315731
-type: way
+type: node
 latitude: 50.38963
 longitude: 3.1042
 postcode: "59119"
 city: Waziers
 street: ""
-housenumber: 130
-phone: "+33 3 27 80 36 16"
-opening_hours: "Mo-Sa 09:00-19:00; Su 09:00-13:00"
-website: "https://arbre-et-fleur.fr/"
+housenumber: "130"
+phone: +33 3 27 80 36 16
+opening_hours: Mo-Sa 09:00-19:00; Su 09:00-13:00
+website: https://arbre-et-fleur.fr/

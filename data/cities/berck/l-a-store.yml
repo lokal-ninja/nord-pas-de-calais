@@ -1,11 +1,11 @@
 id: 132174484
-type: way
+type: node
 latitude: 50.40734
 longitude: 1.56519
 postcode: "62600"
 city: Berck
-street: "Rue Carnot"
-housenumber: 
+street: Rue Carnot
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://lastorebylea.com/"
+website: https://lastorebylea.com/

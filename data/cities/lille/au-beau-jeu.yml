@@ -4,8 +4,8 @@ latitude: 50.63283
 longitude: 3.06459
 postcode: "59800"
 city: Lille
-street: "Rue du Molinel"
-housenumber: 127
-phone: "+33 6 27 09 88 73"
-opening_hours: "Tu-Sa 10:00-23:30"
-website: "https://aubeaujeu.com"
+street: Rue du Molinel
+housenumber: "127"
+phone: +33 6 27 09 88 73
+opening_hours: Tu-Sa 10:00-23:30
+website: https://aubeaujeu.com

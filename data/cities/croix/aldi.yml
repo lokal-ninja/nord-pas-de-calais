@@ -1,11 +1,11 @@
 id: 85289961
-type: way
+type: node
 latitude: 50.68003
 longitude: 3.15115
 postcode: "59170"
 city: Croix
-street: "Boulevard Émile Zola"
-housenumber: 215
+street: Boulevard Émile Zola
+housenumber: "215"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.68116
 longitude: 3.08068
 postcode: "59520"
 city: Marquette-lez-Lille
-street: "Rue de Menin"
-housenumber: 187
-phone: "+33 3 20 52 93 96"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://bradway.fr"
+street: Rue de Menin
+housenumber: "187"
+phone: +33 3 20 52 93 96
+opening_hours: Mo-Sa 10:00-19:00
+website: https://bradway.fr

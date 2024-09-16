@@ -4,8 +4,8 @@ latitude: 50.6847
 longitude: 2.88168
 postcode: "59280"
 city: Armentières
-street: "Rue de Lille"
-housenumber: 19
-phone: "+33 3 20 93 76 21"
-opening_hours: "Tu-Sa 08:30-19:30;Su 08:30-13:00"
+street: Rue de Lille
+housenumber: "19"
+phone: +33 3 20 93 76 21
+opening_hours: Tu-Sa 08:30-19:30;Su 08:30-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 136658428
-type: way
+type: node
 latitude: 50.52378
 longitude: 2.62576
 postcode: "62400"
 city: Béthune
-street: "Rue de la Faïencerie"
-housenumber: 218
-phone: "+33 3 21 25 26 48"
-opening_hours: "Mo-Sa 09:30-19:00"
+street: Rue de la Faïencerie
+housenumber: "218"
+phone: +33 3 21 25 26 48
+opening_hours: Mo-Sa 09:30-19:00
 website: ""

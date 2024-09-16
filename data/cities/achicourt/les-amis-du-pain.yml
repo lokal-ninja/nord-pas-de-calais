@@ -1,11 +1,11 @@
 id: 144736119
-type: way
+type: node
 latitude: 50.27228
 longitude: 2.75607
 postcode: "62217"
 city: Achicourt
-street: "Rue Pasteur"
-housenumber: 2
+street: Rue Pasteur
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 76410385
-type: way
+type: node
 latitude: 51.04142
 longitude: 2.40567
 postcode: "59240"
 city: Dunkerque
-street: "Rue Paul Machy"
-housenumber: 31
+street: Rue Paul Machy
+housenumber: "31"
 phone: ""
-opening_hours: "We-Sa 8:00-12:30,14:00-19:00; Su 8:00-13:00"
+opening_hours: We-Sa 8:00-12:30,14:00-19:00; Su 8:00-13:00
 website: ""

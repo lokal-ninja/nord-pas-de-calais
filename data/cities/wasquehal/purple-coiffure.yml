@@ -1,11 +1,11 @@
 id: 82268589
-type: way
+type: node
 latitude: 50.66922
 longitude: 3.12782
 postcode: "59290"
 city: Wasquehal
-street: "Rue Francisco Ferrer"
-housenumber: 19
-phone: "+33 3 20 98 68 33"
+street: Rue Francisco Ferrer
+housenumber: "19"
+phone: +33 3 20 98 68 33
 opening_hours: ""
 website: ""

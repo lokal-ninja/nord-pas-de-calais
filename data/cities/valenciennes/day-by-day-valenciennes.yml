@@ -4,8 +4,8 @@ latitude: 50.35764
 longitude: 3.52599
 postcode: "59300"
 city: Valenciennes
-street: "Rue Delsaux"
-housenumber: 2
-phone: "+33 9 84 52 51 99"
-opening_hours: "Tu-Fr 10:00-13:00,15:00-19:00; Sa 09:30-13:00,14:30-19:00"
-website: "https://daybyday-shop.com/magasin/valenciennes"
+street: Rue Delsaux
+housenumber: "2"
+phone: +33 9 84 52 51 99
+opening_hours: Tu-Fr 10:00-13:00,15:00-19:00; Sa 09:30-13:00,14:30-19:00
+website: https://daybyday-shop.com/magasin/valenciennes

@@ -4,8 +4,8 @@ latitude: 50.61756
 longitude: 3.13054
 postcode: "59650"
 city: Villeneuve-d'Ascq
-street: "Rue du Ventoux"
-housenumber: 19
-phone: "+33 3 20 04 14 30"
-opening_hours: "Mo-Sa 09:30-20:30"
-website: "https://www.twentynails.fr/"
+street: Rue du Ventoux
+housenumber: "19"
+phone: +33 3 20 04 14 30
+opening_hours: Mo-Sa 09:30-20:30
+website: https://www.twentynails.fr/

@@ -1,11 +1,12 @@
 id: 240842704
-type: way
+type: node
 latitude: 50.46949
 longitude: 2.95463
 postcode: "62710"
 city: Courrières
-street: "Rue du Lieutenant Giard"
-housenumber: 63
-phone: "+33 3 21 40 29 12"
-opening_hours: "Mo 15:00-19:00; Tu 10:00-12:00,14:00-19:00; We 14:00-19:00; Th-Fr 10:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00"
-website: "http://www.flandersarchery.com"
+street: Rue du Lieutenant Giard
+housenumber: "63"
+phone: +33 3 21 40 29 12
+opening_hours: Mo 15:00-19:00; Tu 10:00-12:00,14:00-19:00; We 14:00-19:00; Th-Fr 10:00-12:00,14:00-19:00;
+    Sa 09:00-12:00,14:00-18:00
+website: http://www.flandersarchery.com

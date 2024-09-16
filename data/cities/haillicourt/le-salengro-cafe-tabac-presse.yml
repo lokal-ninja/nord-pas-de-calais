@@ -1,11 +1,11 @@
 id: 243150857
-type: way
+type: node
 latitude: 50.46631
 longitude: 2.55875
 postcode: "62940"
 city: Haillicourt
-street: "Rue Roger Salengro"
-housenumber: 25
-phone: "+33 3 21 62 42 71"
+street: Rue Roger Salengro
+housenumber: "25"
+phone: +33 3 21 62 42 71
 opening_hours: ""
 website: ""

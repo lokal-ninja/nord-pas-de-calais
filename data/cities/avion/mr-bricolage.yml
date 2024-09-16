@@ -1,11 +1,11 @@
 id: 105530188
-type: way
+type: node
 latitude: 50.41304
 longitude: 2.83605
 postcode: "62210"
 city: Avion
-street: "Rue René Lannoy"
-housenumber: 14
+street: Rue René Lannoy
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

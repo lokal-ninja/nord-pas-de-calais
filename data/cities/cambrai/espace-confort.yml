@@ -1,11 +1,11 @@
 id: 1178117021
-type: way
+type: node
 latitude: 50.18136
 longitude: 3.246
 postcode: "59400"
 city: Cambrai
-street: "Avenue de Valenciennes"
-housenumber: 77
-phone: "+33 3 27 83 61 50"
+street: Avenue de Valenciennes
+housenumber: "77"
+phone: +33 3 27 83 61 50
 opening_hours: ""
 website: ""

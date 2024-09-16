@@ -4,8 +4,8 @@ latitude: 50.61574
 longitude: 3.12786
 postcode: "59650"
 city: Villeneuve-d'Ascq
-street: "Boulevard de Valmy"
-housenumber: 119
-phone: "+33 3 20 91 68 44"
-opening_hours: "Mo-Sa 10:00-19:30"
-website: "https://www.devianne.com/magasins/villeneuve-dascq/"
+street: Boulevard de Valmy
+housenumber: "119"
+phone: +33 3 20 91 68 44
+opening_hours: Mo-Sa 10:00-19:30
+website: https://www.devianne.com/magasins/villeneuve-dascq/

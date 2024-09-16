@@ -1,11 +1,11 @@
 id: 1183340740
-type: way
+type: node
 latitude: 50.68445
 longitude: 2.88121
 postcode: "59280"
 city: Armentières
-street: "Rue de Lille"
-housenumber: 33
+street: Rue de Lille
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

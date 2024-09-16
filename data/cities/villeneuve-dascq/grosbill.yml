@@ -4,8 +4,8 @@ latitude: 50.61562
 longitude: 3.13092
 postcode: ""
 city: Villeneuve-d'Ascq
-street: "Boulevard de Valmy"
-housenumber: 85
-phone: "+33 374 098 379"
-opening_hours: "Mo-Sa 10:00-12:30,13:30-19:00"
-website: "https://grosbill.com/"
+street: Boulevard de Valmy
+housenumber: "85"
+phone: +33 374 098 379
+opening_hours: Mo-Sa 10:00-12:30,13:30-19:00
+website: https://grosbill.com/

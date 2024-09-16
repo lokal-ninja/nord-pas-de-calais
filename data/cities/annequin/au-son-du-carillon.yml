@@ -1,11 +1,11 @@
 id: 243415279
-type: way
+type: node
 latitude: 50.5024
 longitude: 2.72648
 postcode: "62149"
 city: Annequin
-street: "Rue de l'Église"
-housenumber: 77
+street: Rue de l'Église
+housenumber: "77"
 phone: "+33768382878"
-opening_hours: "Mo-Tu,Th-Sa 09:00-19:00; Su 09:00-13:00"
-website: "https://ausonducarillonann.wixsite.com/my-site"
+opening_hours: Mo-Tu,Th-Sa 09:00-19:00; Su 09:00-13:00
+website: https://ausonducarillonann.wixsite.com/my-site

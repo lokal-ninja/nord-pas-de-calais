@@ -1,11 +1,11 @@
 id: 81385908
-type: way
+type: node
 latitude: 50.71736
 longitude: 2.54751
 postcode: "59190"
 city: Hazebrouck
-street: "Rue de Merville"
-housenumber: 
+street: Rue de Merville
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 167243499
-type: way
+type: node
 latitude: 50.76174
 longitude: 2.2241
 postcode: "62500"
 city: Saint-Martin-au-Laërt
-street: "Rue de l'Industrie"
-housenumber: 
+street: Rue de l'Industrie
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30; Su 08:30-12:30"
+opening_hours: Mo-Sa 08:30-19:30; Su 08:30-12:30
 website: ""

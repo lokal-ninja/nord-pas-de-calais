@@ -1,11 +1,11 @@
 id: 519523065
-type: way
+type: node
 latitude: 50.44322
 longitude: 2.94697
 postcode: "62710"
 city: Courrières
-street: "Rue Raoul Briquet"
-housenumber: 5
-phone: "+33 3 21 67 53 98"
-opening_hours: "Mo-Sa 10:00-19:00"
+street: Rue Raoul Briquet
+housenumber: "5"
+phone: +33 3 21 67 53 98
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

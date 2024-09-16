@@ -1,11 +1,11 @@
 id: 318631301
-type: way
+type: node
 latitude: 50.71167
 longitude: 3.22005
 postcode: "7712"
 city: Herseauc
-street: "Rangée Lepers"
-housenumber: 2
-phone: "+32 56 33 64 39"
+street: Rangée Lepers
+housenumber: "2"
+phone: +32 56 33 64 39
 opening_hours: ""
-website: "http://www.philippefleurs.be/"
+website: http://www.philippefleurs.be/

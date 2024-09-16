@@ -4,8 +4,8 @@ latitude: 50.62296
 longitude: 3.05504
 postcode: "59000"
 city: Lille
-street: "Rue de Wazemmes"
-housenumber: 147
+street: Rue de Wazemmes
+housenumber: "147"
 phone: "+33979202836"
-opening_hours: "Mo-Sa 10:00-21:00"
+opening_hours: Mo-Sa 10:00-21:00
 website: ""

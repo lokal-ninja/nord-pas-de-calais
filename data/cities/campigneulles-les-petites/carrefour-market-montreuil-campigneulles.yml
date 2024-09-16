@@ -1,11 +1,11 @@
 id: 244312936
-type: way
+type: node
 latitude: 50.44944
 longitude: 1.75076
 postcode: "62170"
 city: Campigneulles-les-Petites
-street: "Route de Paris"
-housenumber: 
-phone: "+33 3 21 86 15 87"
-opening_hours: "Mo-Sa 08:30-20:00"
-website: "https://www.carrefour.fr/magasin/market-montreuil-campigneulles"
+street: Route de Paris
+housenumber: ""
+phone: +33 3 21 86 15 87
+opening_hours: Mo-Sa 08:30-20:00
+website: https://www.carrefour.fr/magasin/market-montreuil-campigneulles

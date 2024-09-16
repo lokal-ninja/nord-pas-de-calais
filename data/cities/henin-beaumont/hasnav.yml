@@ -1,11 +1,11 @@
 id: 108169558
-type: way
+type: node
 latitude: 50.41868
 longitude: 2.94716
 postcode: "62110"
 city: Hénin-Beaumont
-street: "Rue Pasteur"
-housenumber: 53
+street: Rue Pasteur
+housenumber: "53"
 phone: ""
 opening_hours: ""
 website: ""

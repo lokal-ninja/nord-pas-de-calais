@@ -1,11 +1,11 @@
 id: 156564716
-type: way
+type: node
 latitude: 50.51979
 longitude: 1.64059
 postcode: "62630"
 city: Étaples
-street: "Rue de la Pierre Trouée"
-housenumber: 15
+street: Rue de la Pierre Trouée
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

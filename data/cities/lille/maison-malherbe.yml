@@ -1,11 +1,11 @@
 id: 48636607
-type: way
+type: node
 latitude: 50.64078
 longitude: 3.06766
 postcode: "59800"
 city: Lille
-street: "Place aux Bleuets"
-housenumber: 6
+street: Place aux Bleuets
+housenumber: "6"
 phone: ""
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "https://www.maison-malherbe.com/"
+opening_hours: Tu-Sa 10:00-19:00
+website: https://www.maison-malherbe.com/

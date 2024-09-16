@@ -4,8 +4,9 @@ latitude: 50.66676
 longitude: 2.97397
 postcode: "59840"
 city: Pérenchies
-street: "Rue du Général Leclerc"
-housenumber: 23
+street: Rue du Général Leclerc
+housenumber: "23"
 phone: "+33320087208"
-opening_hours: "Tu-Th 09:30-12:30, 15:00-19:00; Fr 09:30-12:30, 15:00-19:30; Sa 09:30-19:30; Su 09:30-13:00"
-website: "https://www.mesenseignes.fr/angele-lefebvre-fleuriste/"
+opening_hours: Tu-Th 09:30-12:30, 15:00-19:00; Fr 09:30-12:30, 15:00-19:30; Sa 09:30-19:30;
+    Su 09:30-13:00
+website: https://www.mesenseignes.fr/angele-lefebvre-fleuriste/

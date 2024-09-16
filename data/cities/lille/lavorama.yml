@@ -4,8 +4,8 @@ latitude: 50.63333
 longitude: 3.01021
 postcode: "59160"
 city: Lille
-street: "Avenue Arthur Notebart"
-housenumber: 118
+street: Avenue Arthur Notebart
+housenumber: "118"
 phone: ""
-opening_hours: "PH,Mo-Su 07:00-20:00"
+opening_hours: PH,Mo-Su 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 80591042
-type: way
+type: node
 latitude: 50.63464
 longitude: 2.7354
 postcode: "59253"
 city: La Gorgue
-street: "ZA Le Grand Chemin"
-housenumber: 
+street: ZA Le Grand Chemin
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

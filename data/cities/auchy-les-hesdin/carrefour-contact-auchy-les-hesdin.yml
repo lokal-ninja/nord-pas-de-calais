@@ -1,11 +1,11 @@
 id: 246422045
-type: way
+type: node
 latitude: 50.40027
 longitude: 2.10187
 postcode: "62770"
 city: Auchy-lès-Hesdin
-street: "Rue Wattine Bossut"
-housenumber: 1
-phone: "+33 3 21 47 94 92"
-opening_hours: "Mo-Sa 08:00-20:00; Su 08:00-13:00"
-website: "https://www.carrefour.fr/magasin/contact-auchy-les-hesdin"
+street: Rue Wattine Bossut
+housenumber: "1"
+phone: +33 3 21 47 94 92
+opening_hours: Mo-Sa 08:00-20:00; Su 08:00-13:00
+website: https://www.carrefour.fr/magasin/contact-auchy-les-hesdin

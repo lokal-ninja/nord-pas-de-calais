@@ -4,8 +4,8 @@ latitude: 50.77923
 longitude: 3.04403
 postcode: "8940"
 city: Wervik
-street: "Vlamingenstraat"
-housenumber: 13
+street: Vlamingenstraat
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:30; PH off"
-website: "https://www.kruidvat.be/"
+opening_hours: Mo-Sa 09:00-18:30; PH off
+website: https://www.kruidvat.be/

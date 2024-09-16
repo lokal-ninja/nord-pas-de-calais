@@ -4,8 +4,8 @@ latitude: 50.46301
 longitude: 2.58379
 postcode: "62620"
 city: Ruitz
-street: "Rue de Maisnil"
-housenumber: 72
+street: Rue de Maisnil
+housenumber: "72"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-18:00; Sa 08:00-12:00"
-website: "http://ruitz-garage.com/"
+opening_hours: Mo-Fr 08:00-12:00, 14:00-18:00; Sa 08:00-12:00
+website: http://ruitz-garage.com/

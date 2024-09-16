@@ -1,11 +1,11 @@
 id: 241254090
-type: way
+type: node
 latitude: 50.47214
 longitude: 2.71657
 postcode: "62670"
 city: Mazingarbe
-street: "Rue Berthelot"
-housenumber: 12
-phone: "+33 3 21 44 76 09"
+street: Rue Berthelot
+housenumber: "12"
+phone: +33 3 21 44 76 09
 opening_hours: ""
 website: ""

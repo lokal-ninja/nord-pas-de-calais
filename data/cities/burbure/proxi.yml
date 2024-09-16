@@ -4,8 +4,8 @@ latitude: 50.53806
 longitude: 2.4666
 postcode: "62151"
 city: Burbure
-street: "Rue du Cavin"
-housenumber: 6
-phone: "+33 3 21 02 96 68"
-opening_hours: "Mo-Su 08:30-12:30,15:00-21:00"
+street: Rue du Cavin
+housenumber: "6"
+phone: +33 3 21 02 96 68
+opening_hours: Mo-Su 08:30-12:30,15:00-21:00
 website: ""

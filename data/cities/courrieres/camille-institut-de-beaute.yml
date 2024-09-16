@@ -1,11 +1,11 @@
 id: 240851099
-type: way
+type: node
 latitude: 50.45652
 longitude: 2.94737
 postcode: "62710"
 city: Courrières
-street: "Rue Émile Basly"
-housenumber: 3
-phone: "+33 3 21 49 60 17"
-opening_hours: "Mo-Tu 09:00-19:00; We 14:00-19:00; Th-Fr 09:00-19:00; Sa 09:00-17:00"
+street: Rue Émile Basly
+housenumber: "3"
+phone: +33 3 21 49 60 17
+opening_hours: Mo-Tu 09:00-19:00; We 14:00-19:00; Th-Fr 09:00-19:00; Sa 09:00-17:00
 website: ""

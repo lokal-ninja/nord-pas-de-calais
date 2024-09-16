@@ -1,11 +1,11 @@
 id: 167243348
-type: way
+type: node
 latitude: 50.76169
 longitude: 2.22892
 postcode: "62500"
 city: Saint-Martin-au-Laërt
-street: "Rue du Maroc"
-housenumber: 6000
+street: Rue du Maroc
+housenumber: "6000"
 phone: "+33321951539"
 opening_hours: ""
-website: "https://www.cyclestandem.fr/"
+website: https://www.cyclestandem.fr/

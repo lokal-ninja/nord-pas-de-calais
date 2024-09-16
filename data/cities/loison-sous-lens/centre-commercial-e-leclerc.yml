@@ -1,11 +1,11 @@
 id: 234204546
-type: way
+type: node
 latitude: 50.44629
 longitude: 2.86564
 postcode: "62218"
 city: Loison-sous-Lens
-street: "Rue de l'Abbaye"
-housenumber: 
-phone: "+33 3 21 13 05 13"
-opening_hours: "Mo-Sa 08:30-20:00"
-website: "https://e.leclerc/mag/e-leclerc-loison"
+street: Rue de l'Abbaye
+housenumber: ""
+phone: +33 3 21 13 05 13
+opening_hours: Mo-Sa 08:30-20:00
+website: https://e.leclerc/mag/e-leclerc-loison

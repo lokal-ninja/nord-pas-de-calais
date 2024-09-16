@@ -1,11 +1,11 @@
 id: 427816436
-type: way
+type: node
 latitude: 50.72522
 longitude: 1.61174
 postcode: "62200"
 city: Boulogne-sur-Mer
-street: "Place de la Résistance"
-housenumber: 6
+street: Place de la Résistance
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

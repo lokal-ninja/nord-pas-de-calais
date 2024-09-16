@@ -1,11 +1,11 @@
 id: 77462267
-type: way
+type: node
 latitude: 50.63713
 longitude: 3.12329
 postcode: "59650"
 city: Villeneuve-d'Ascq
-street: "Rue Jules Guesde"
-housenumber: 120
+street: Rue Jules Guesde
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

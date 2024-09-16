@@ -1,11 +1,11 @@
 id: 144785755
-type: way
+type: node
 latitude: 50.28285
 longitude: 2.74197
 postcode: "62000"
 city: Dainville
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.conforama.fr/magasins-conforama/arras?lat=50.2834628&long=2.7379919&name=ARRAS"
+website: https://www.conforama.fr/magasins-conforama/arras?lat=50.2834628&long=2.7379919&name=ARRAS

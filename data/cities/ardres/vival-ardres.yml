@@ -1,11 +1,11 @@
 id: 230975607
-type: way
+type: node
 latitude: 50.85702
 longitude: 1.97389
 postcode: "62610"
 city: Ardres
-street: "Rue du Rivage"
-housenumber: 76
-phone: "+33 3 21 19 20 03"
+street: Rue du Rivage
+housenumber: "76"
+phone: +33 3 21 19 20 03
 opening_hours: ""
-website: "http://www.casino-proximite.fr"
+website: http://www.casino-proximite.fr

@@ -4,8 +4,8 @@ latitude: 50.72403
 longitude: 1.60547
 postcode: "62200"
 city: Boulogne-sur-Mer
-street: "Rue Adolphe Thiers"
-housenumber: 30
-phone: "+333 21 31 32 50"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-19:00"
+street: Rue Adolphe Thiers
+housenumber: "30"
+phone: +333 21 31 32 50
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-19:00
 website: ""

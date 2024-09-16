@@ -1,11 +1,11 @@
 id: 92155751
-type: way
+type: node
 latitude: 50.49531
 longitude: 2.85547
 postcode: "62410"
 city: Wingles
-street: "Rue Anatole France"
-housenumber: 5
+street: Rue Anatole France
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 108171870
-type: way
+type: node
 latitude: 50.42017
 longitude: 2.94793
 postcode: "62110"
 city: Hénin-Beaumont
-street: "Place Carnot"
-housenumber: 22
+street: Place Carnot
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

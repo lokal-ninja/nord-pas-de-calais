@@ -1,11 +1,11 @@
 id: 123234449
-type: way
+type: node
 latitude: 50.77845
 longitude: 1.61991
 postcode: "62930"
 city: Wimereux
-street: "Rue du Château"
-housenumber: 
+street: Rue du Château
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30"
+opening_hours: Mo-Sa 08:30-19:30
 website: ""

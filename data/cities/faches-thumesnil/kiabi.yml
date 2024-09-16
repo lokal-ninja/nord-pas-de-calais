@@ -1,11 +1,11 @@
 id: 132527019
-type: way
+type: node
 latitude: 50.58442
 longitude: 3.08601
 postcode: "59155"
 city: Faches-Thumesnil
-street: "Rue des Fourmestraux"
-housenumber: 1
+street: Rue des Fourmestraux
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

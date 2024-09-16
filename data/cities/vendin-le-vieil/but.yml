@@ -1,11 +1,11 @@
 id: 69678646
-type: way
+type: node
 latitude: 50.46395
 longitude: 2.82568
 postcode: "62880"
 city: Vendin-le-Vieil
-street: "Rue Louis Blériot"
-housenumber: 11
+street: Rue Louis Blériot
+housenumber: "11"
 phone: "+33826252525"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.but.fr/magasins/012/But-Lens.html"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.but.fr/magasins/012/But-Lens.html

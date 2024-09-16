@@ -1,11 +1,11 @@
 id: 77572763
-type: way
+type: node
 latitude: 50.74096
 longitude: 3.16668
 postcode: "59200"
 city: Tourcoing
-street: "Rue de l'Yser"
-housenumber: 2
-phone: "+33 6 62 34 33 77"
+street: Rue de l'Yser
+housenumber: "2"
+phone: +33 6 62 34 33 77
 opening_hours: ""
 website: ""

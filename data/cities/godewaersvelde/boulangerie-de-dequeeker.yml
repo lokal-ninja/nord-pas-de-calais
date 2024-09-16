@@ -1,11 +1,11 @@
 id: 100825202
-type: way
+type: node
 latitude: 50.79561
 longitude: 2.64509
 postcode: "59270"
 city: Godewaersvelde
-street: "Rue de Boeschepe"
-housenumber: 189
-phone: "+33 3 28 42 54 53"
-opening_hours: "Mo-Tu 07:00-19:30, Th-Sa 07:00-19:30, Su 07:00-13:00"
+street: Rue de Boeschepe
+housenumber: "189"
+phone: +33 3 28 42 54 53
+opening_hours: Mo-Tu 07:00-19:30, Th-Sa 07:00-19:30, Su 07:00-13:00
 website: ""

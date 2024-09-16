@@ -4,8 +4,8 @@ latitude: 51.03099
 longitude: 2.36953
 postcode: "59140"
 city: Dunkerque
-street: "Place de la Gare"
-housenumber: 5
-phone: "+33 3 28 59 00 78"
+street: Place de la Gare
+housenumber: "5"
+phone: +33 3 28 59 00 78
 opening_hours: ""
-website: "https://www.dkbus.com/"
+website: https://www.dkbus.com/

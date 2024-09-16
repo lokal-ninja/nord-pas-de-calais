@@ -1,11 +1,11 @@
 id: 77463739
-type: way
+type: node
 latitude: 50.6368
 longitude: 3.12814
 postcode: "59650"
 city: Villeneuve-d'Ascq
-street: "Rue du Général Leclerc"
-housenumber: 6
-phone: "+33 3 20 91 22 24"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-21:00"
-website: "https://www.carrefour.fr/magasin/express-villeneuve-d-ascq"
+street: Rue du Général Leclerc
+housenumber: "6"
+phone: +33 3 20 91 22 24
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-21:00
+website: https://www.carrefour.fr/magasin/express-villeneuve-d-ascq

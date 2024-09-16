@@ -4,8 +4,9 @@ latitude: 51.05088
 longitude: 2.41008
 postcode: "59240"
 city: Dunkerque
-street: "Rue de Douai"
-housenumber: 125
-phone: "+33 3 28 69 66 61"
-opening_hours: "Mo-We 09:00 -12:30, Mo-We 14:30-19:30, Th-Fr 09:30-12:30, Th-Fr 14:30-19:30, Sa 09:00-19:00"
-website: "https://www.maisonfermaut.com/"
+street: Rue de Douai
+housenumber: "125"
+phone: +33 3 28 69 66 61
+opening_hours: Mo-We 09:00 -12:30, Mo-We 14:30-19:30, Th-Fr 09:30-12:30, Th-Fr 14:30-19:30,
+    Sa 09:00-19:00
+website: https://www.maisonfermaut.com/

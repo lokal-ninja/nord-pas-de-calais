@@ -1,11 +1,11 @@
 id: 79496002
-type: way
+type: node
 latitude: 50.62277
 longitude: 3.14331
 postcode: "59650"
 city: Villeneuve-d'Ascq
-street: "Rue Claude Debussy"
-housenumber: 90
-phone: "+33 3 61 97 50 78"
+street: Rue Claude Debussy
+housenumber: "90"
+phone: +33 3 61 97 50 78
 opening_hours: ""
 website: ""

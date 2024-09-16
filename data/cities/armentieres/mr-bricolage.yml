@@ -1,11 +1,11 @@
 id: 110710330
-type: way
+type: node
 latitude: 50.68208
 longitude: 2.87074
 postcode: "59280"
 city: Armentières
-street: "Rue d'Erquinghem"
-housenumber: 
+street: Rue d'Erquinghem
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

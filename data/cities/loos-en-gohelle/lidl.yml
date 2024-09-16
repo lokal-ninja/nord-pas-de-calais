@@ -1,11 +1,11 @@
 id: 669157141
-type: way
+type: node
 latitude: 50.44839
 longitude: 2.7949
 postcode: "62750"
 city: Loos-en-Gohelle
-street: "Route de Béthune"
-housenumber: 
+street: Route de Béthune
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

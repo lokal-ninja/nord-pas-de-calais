@@ -1,11 +1,11 @@
 id: 248744150
-type: way
+type: node
 latitude: 50.44645
 longitude: 2.25272
 postcode: ""
 city: Anvin
-street: "Rue d'Hesdin"
-housenumber: 222
+street: Rue d'Hesdin
+housenumber: "222"
 phone: "+33321046141"
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 79524289
-type: way
+type: node
 latitude: 50.61645
 longitude: 3.15639
 postcode: "59493"
 city: Villeneuve-d'Ascq
-street: "Rue Gaston Baratte"
-housenumber: 6
+street: Rue Gaston Baratte
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

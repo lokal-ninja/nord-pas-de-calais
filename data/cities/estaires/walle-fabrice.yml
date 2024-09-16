@@ -4,8 +4,9 @@ latitude: 50.64401
 longitude: 2.72452
 postcode: "59940"
 city: Estaires
-street: "Rue du Général de Gaulle"
-housenumber: 
-phone: "+33 3 28 48 83 62"
-opening_hours: "Mo-Tu 06:00-13:00,14:00-19:00; We off; Th-Fr 06:00-13:00,14:00-19:00; Sa-Su 06:30-13:00,14:00-19:00"
+street: Rue du Général de Gaulle
+housenumber: ""
+phone: +33 3 28 48 83 62
+opening_hours: Mo-Tu 06:00-13:00,14:00-19:00; We off; Th-Fr 06:00-13:00,14:00-19:00;
+    Sa-Su 06:30-13:00,14:00-19:00
 website: ""

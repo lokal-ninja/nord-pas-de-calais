@@ -1,11 +1,11 @@
 id: 110872944
-type: way
+type: node
 latitude: 50.49567
 longitude: 2.56794
 postcode: "62700"
 city: Bruay-la-Buissière
-street: "Avenue de la Libération"
-housenumber: 1115
+street: Avenue de la Libération
+housenumber: "1115"
 phone: ""
 opening_hours: ""
 website: ""

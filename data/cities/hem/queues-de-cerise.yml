@@ -1,11 +1,11 @@
 id: 69988812
-type: way
+type: node
 latitude: 50.65457
 longitude: 3.17307
 postcode: "59510"
 city: Hem
-street: "Rue du Général Leclerc"
-housenumber: 230
+street: Rue du Général Leclerc
+housenumber: "230"
 phone: ""
 opening_hours: ""
 website: ""

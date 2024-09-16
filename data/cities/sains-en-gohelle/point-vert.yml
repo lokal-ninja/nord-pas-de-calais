@@ -1,11 +1,11 @@
 id: 241488082
-type: way
+type: node
 latitude: 50.44898
 longitude: 2.69019
 postcode: "62114"
 city: Sains-en-Gohelle
-street: "Avenue François Mitterrand"
-housenumber: 
+street: Avenue François Mitterrand
+housenumber: ""
 phone: "+33974974049"
-opening_hours: "Mo-Sa 09:00-12:00,14:00-19:00"
-website: "https://www.magasin-point-vert.fr/magasin/sains-en-gohelle"
+opening_hours: Mo-Sa 09:00-12:00,14:00-19:00
+website: https://www.magasin-point-vert.fr/magasin/sains-en-gohelle

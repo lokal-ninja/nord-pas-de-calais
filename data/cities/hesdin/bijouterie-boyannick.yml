@@ -4,8 +4,8 @@ latitude: 50.37385
 longitude: 2.03699
 postcode: "62140"
 city: Hesdin
-street: "Rue de la Paroisse"
-housenumber: 7
+street: Rue de la Paroisse
+housenumber: "7"
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu-Sa 09:00-12:00, 14:00-19:00"
-website: "https://www.juliendorcel.com/bijouteries/julien-d-orcel-hesdin.html"
+opening_hours: Mo 14:00-19:00; Tu-Sa 09:00-12:00, 14:00-19:00
+website: https://www.juliendorcel.com/bijouteries/julien-d-orcel-hesdin.html

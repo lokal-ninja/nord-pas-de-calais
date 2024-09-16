@@ -1,11 +1,11 @@
 id: 81360582
-type: way
+type: node
 latitude: 50.79806
 longitude: 2.49376
 postcode: "59670"
 city: Cassel
-street: "Avenue Albert Mahieu"
-housenumber: 769
-phone: "+33 3 28 40 55 56"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/contact-cassel"
+street: Avenue Albert Mahieu
+housenumber: "769"
+phone: +33 3 28 40 55 56
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/contact-cassel

@@ -5,7 +5,7 @@ longitude: 3.07268
 postcode: "59777"
 city: Lille
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.briochedoree.fr/restaurants/329-lille-c.cial-euralille"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.briochedoree.fr/restaurants/329-lille-c.cial-euralille

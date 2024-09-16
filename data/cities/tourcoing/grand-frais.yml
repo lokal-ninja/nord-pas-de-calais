@@ -1,11 +1,11 @@
 id: 677920130
-type: way
+type: node
 latitude: 50.7227
 longitude: 3.18195
 postcode: "59200"
 city: Tourcoing
-street: "Chaussée Marcelin Berthelot"
-housenumber: 2
-phone: "+33 3 20 36 08 90"
-opening_hours: "Mo-Fr 09:00-19:30; Su 09:00-12:30"
-website: "https://www.grandfrais.com/magasins/tourcoing"
+street: Chaussée Marcelin Berthelot
+housenumber: "2"
+phone: +33 3 20 36 08 90
+opening_hours: Mo-Fr 09:00-19:30; Su 09:00-12:30
+website: https://www.grandfrais.com/magasins/tourcoing

@@ -1,11 +1,11 @@
 id: 82268690
-type: way
+type: node
 latitude: 50.66892
 longitude: 3.13176
 postcode: "59290"
 city: Wasquehal
-street: "Rue Sadi Carnot"
-housenumber: 35
+street: Rue Sadi Carnot
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

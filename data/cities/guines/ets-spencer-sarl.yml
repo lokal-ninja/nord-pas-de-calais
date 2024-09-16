@@ -5,7 +5,7 @@ longitude: 1.87068
 postcode: ""
 city: Guînes
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Tu-Sa 10:00-12:00, 14:30-19:00; Su 09:30-12:00, 14:30-19:00"
-website: "https://www.spencer.fr/"
+opening_hours: Tu-Sa 10:00-12:00, 14:30-19:00; Su 09:30-12:00, 14:30-19:00
+website: https://www.spencer.fr/

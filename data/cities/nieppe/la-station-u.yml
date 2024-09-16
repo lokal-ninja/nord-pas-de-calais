@@ -1,11 +1,11 @@
 id: 110668068
-type: way
+type: node
 latitude: 50.68562
 longitude: 2.84196
 postcode: "59850"
 city: Nieppe
-street: "Ruelle du Bailly"
-housenumber: 
+street: Ruelle du Bailly
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

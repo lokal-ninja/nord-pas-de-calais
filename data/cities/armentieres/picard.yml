@@ -4,8 +4,8 @@ latitude: 50.69217
 longitude: 2.8698
 postcode: "59280"
 city: Armentières
-street: "Rue des Résistants"
-housenumber: 99
-phone: "+33 3 20 57 52 49"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://magasins.picard.fr/48-picard-armentieres"
+street: Rue des Résistants
+housenumber: "99"
+phone: +33 3 20 57 52 49
+opening_hours: Mo-Sa 09:00-19:30
+website: https://magasins.picard.fr/48-picard-armentieres

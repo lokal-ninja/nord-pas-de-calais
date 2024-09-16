@@ -1,11 +1,11 @@
 id: 178161612
-type: way
+type: node
 latitude: 50.98789
 longitude: 2.1229
 postcode: "59820"
 city: Gravelines
-street: "Rue des Islandais"
-housenumber: 19
-phone: "+33 328231350"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00"
+street: Rue des Islandais
+housenumber: "19"
+phone: +33 328231350
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00
 website: ""

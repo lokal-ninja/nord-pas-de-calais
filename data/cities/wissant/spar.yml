@@ -1,11 +1,11 @@
 id: 106519126
-type: way
+type: node
 latitude: 50.8852
 longitude: 1.66109
 postcode: "62179"
 city: Wissant
 street: ""
-housenumber: 16
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Su 08:00-19:00"
+opening_hours: Mo-Su 08:00-19:00
 website: ""

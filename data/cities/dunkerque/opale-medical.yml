@@ -4,8 +4,8 @@ latitude: 51.05056
 longitude: 2.40979
 postcode: "59240"
 city: Dunkerque
-street: "Boulevard de l'Europe"
-housenumber: 215
+street: Boulevard de l'Europe
+housenumber: "215"
 phone: ""
-opening_hours: "09:00-12:00,14:00-19:00"
+opening_hours: 09:00-12:00,14:00-19:00
 website: ""

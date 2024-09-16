@@ -1,11 +1,11 @@
 id: 245402473
-type: way
+type: node
 latitude: 50.57157
 longitude: 1.87528
 postcode: "62650"
 city: Preures
-street: "Rue Belle Croix"
-housenumber: 1
-phone: "+33 3 21 90 50 49"
+street: Rue Belle Croix
+housenumber: "1"
+phone: +33 3 21 90 50 49
 opening_hours: ""
 website: ""

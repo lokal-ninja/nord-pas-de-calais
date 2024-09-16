@@ -4,8 +4,8 @@ latitude: 50.27293
 longitude: 3.97311
 postcode: "59600"
 city: Maubeuge
-street: "Porte de Paris"
-housenumber: 13
-phone: "+33 3 27 65 40 50"
+street: Porte de Paris
+housenumber: "13"
+phone: +33 3 27 65 40 50
 opening_hours: ""
-website: "https://www.midas.fr/"
+website: https://www.midas.fr/

@@ -1,11 +1,11 @@
 id: 110128633
-type: way
+type: node
 latitude: 50.36333
 longitude: 3.52694
 postcode: "59300"
 city: Valenciennes
-street: "Boulevard Harpignies"
-housenumber: 860
+street: Boulevard Harpignies
+housenumber: "860"
 phone: ""
 opening_hours: ""
 website: ""

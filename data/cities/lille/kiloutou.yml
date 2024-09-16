@@ -1,11 +1,11 @@
 id: 40236921
-type: way
+type: node
 latitude: 50.62925
 longitude: 3.03752
 postcode: "59000"
 city: Lille
-street: "Rue de Turenne"
+street: Rue de Turenne
 housenumber: 21 ter
 phone: "+33374097318"
-opening_hours: "Mo-Fr 07:30-12:15,13:30-18:00; Sa 08:00-12:00,14:00-18:00"
-website: "https://www.kiloutou.fr/"
+opening_hours: Mo-Fr 07:30-12:15,13:30-18:00; Sa 08:00-12:00,14:00-18:00
+website: https://www.kiloutou.fr/

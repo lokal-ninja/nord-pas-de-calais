@@ -1,11 +1,11 @@
 id: 123707157
-type: way
+type: node
 latitude: 50.44994
 longitude: 2.72015
 postcode: "62160"
 city: Bully-les-Mines
-street: "Rue Casimir Beugnet"
-housenumber: 2
-phone: "+33 9 70 82 32 47"
-opening_hours: "24/7"
-website: "https://www.revolution-laundry.com/fr-fr/"
+street: Rue Casimir Beugnet
+housenumber: "2"
+phone: +33 9 70 82 32 47
+opening_hours: 24/7
+website: https://www.revolution-laundry.com/fr-fr/

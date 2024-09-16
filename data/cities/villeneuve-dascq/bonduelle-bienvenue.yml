@@ -1,11 +1,11 @@
 id: 79508994
-type: way
+type: node
 latitude: 50.60488
 longitude: 3.13249
 postcode: "59650"
 city: Villeneuve-d'Ascq
-street: "Rue Élisée Reclus"
-housenumber: 51
-phone: "+33 3 20 43 79 18"
-opening_hours: "Tu-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://bonduellebienvenue.fr/"
+street: Rue Élisée Reclus
+housenumber: "51"
+phone: +33 3 20 43 79 18
+opening_hours: Tu-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://bonduellebienvenue.fr/

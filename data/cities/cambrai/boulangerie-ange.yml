@@ -1,11 +1,11 @@
 id: 200800653
-type: way
-latitude: 50.17832
+type: node
+latitude: 50.17833
 longitude: 3.21742
 postcode: "59400"
 city: Cambrai
-street: "Rue des Docks"
-housenumber: 4
-phone: "+33 3 27 70 99 58"
-opening_hours: "Mo-Sa 6:30-20:00"
+street: Rue des Docks
+housenumber: "4"
+phone: +33 3 27 70 99 58
+opening_hours: Mo-Sa 6:30-20:00
 website: ""

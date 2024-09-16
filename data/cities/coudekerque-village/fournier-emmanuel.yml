@@ -1,11 +1,11 @@
 id: 179978650
-type: way
+type: node
 latitude: 50.99585
 longitude: 2.41376
 postcode: "59380"
 city: Coudekerque-Village
-street: "Rue Principale"
-housenumber: 20
+street: Rue Principale
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.73819
 longitude: 1.61656
 postcode: "62200"
 city: Boulogne-sur-Mer
-street: "Rue du Chemin Vert"
-housenumber: 296
-phone: "+33 3 21 80 48 66"
-opening_hours: "Mo-Sa 08:30-12:30,15:30-20:00;Su 09:15-13:00,18:00-20:00"
+street: Rue du Chemin Vert
+housenumber: "296"
+phone: +33 3 21 80 48 66
+opening_hours: Mo-Sa 08:30-12:30,15:30-20:00;Su 09:15-13:00,18:00-20:00
 website: ""

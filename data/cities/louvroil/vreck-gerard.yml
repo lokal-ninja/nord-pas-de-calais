@@ -1,11 +1,11 @@
 id: 64775864
-type: way
+type: node
 latitude: 50.27045
 longitude: 3.95248
 postcode: "59720"
 city: Louvroil
-street: "Rue d'Hautmont"
+street: Rue d'Hautmont
 housenumber: 31-33
-phone: "+33.3 27 64 68 42"
+phone: +33.3 27 64 68 42
 opening_hours: ""
-website: "https://www.vtr-vreck-racing.fr/"
+website: https://www.vtr-vreck-racing.fr/

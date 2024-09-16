@@ -1,11 +1,11 @@
 id: 102667125
-type: way
+type: node
 latitude: 50.34755
 longitude: 3.09215
 postcode: "59552"
 city: Lambres-lez-Douai
-street: "Faubourg de Paris"
-housenumber: 1
+street: Faubourg de Paris
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.decathlon.fr/fr/store?store_id=PS_164"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.decathlon.fr/fr/store?store_id=PS_164

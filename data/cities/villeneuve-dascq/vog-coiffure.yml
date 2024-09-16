@@ -4,8 +4,8 @@ latitude: 50.66512
 longitude: 3.14077
 postcode: "59491"
 city: Villeneuve-d'Ascq
-street: "Rue Jean Jaurès"
-housenumber: 150
+street: Rue Jean Jaurès
+housenumber: "150"
 phone: "+33320892291"
-opening_hours: "Tu-Fr 09:00-19:00; Sa 08:30-18:30"
-website: "https://vog.fr/salon/view/3835"
+opening_hours: Tu-Fr 09:00-19:00; Sa 08:30-18:30
+website: https://vog.fr/salon/view/3835

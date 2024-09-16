@@ -4,8 +4,8 @@ latitude: 50.79003
 longitude: 3.14028
 postcode: "8930"
 city: Menen
-street: "Noordstraat"
-housenumber: 12
+street: Noordstraat
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:30; Su off"
-website: "https://www.action.com/nl-be/winkels/menen-noordstraat/"
+opening_hours: Mo-Sa 09:00-18:30; Su off
+website: https://www.action.com/nl-be/winkels/menen-noordstraat/

@@ -1,11 +1,11 @@
 id: 82272859
-type: way
+type: node
 latitude: 50.6862
 longitude: 3.14462
 postcode: "59290"
 city: Wasquehal
-street: "Rue Louis Lejeune"
-housenumber: 24
-phone: "+33 3 20 36 84 49"
-opening_hours: "Tu-Sa 07:00-19:00; Su 07:00-12:30; Su off"
+street: Rue Louis Lejeune
+housenumber: "24"
+phone: +33 3 20 36 84 49
+opening_hours: Tu-Sa 07:00-19:00; Su 07:00-12:30; Su off
 website: ""

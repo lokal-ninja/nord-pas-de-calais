@@ -1,11 +1,11 @@
 id: 77462518
-type: way
+type: node
 latitude: 50.63295
 longitude: 3.12159
 postcode: "59650"
 city: Villeneuve-d'Ascq
-street: "Rue de Fives"
-housenumber: 200
+street: Rue de Fives
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

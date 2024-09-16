@@ -1,11 +1,11 @@
 id: 243425843
-type: way
+type: node
 latitude: 50.48781
 longitude: 2.72384
 postcode: "62980"
 city: Noyelles-lès-Vermelles
-street: "Rue des Résistants"
-housenumber: 234
+street: Rue des Résistants
+housenumber: "234"
 phone: ""
-opening_hours: "Tu-Fr 09:00-12:00, 14:00-19:00; Sa 09:00-17:00"
+opening_hours: Tu-Fr 09:00-12:00, 14:00-19:00; Sa 09:00-17:00
 website: ""

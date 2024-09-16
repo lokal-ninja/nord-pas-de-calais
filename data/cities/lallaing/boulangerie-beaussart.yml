@@ -1,11 +1,11 @@
 id: 105236563
-type: way
+type: node
 latitude: 50.38933
 longitude: 3.16943
 postcode: "59167"
 city: Lallaing
-street: "Rue Joseph Morel"
-housenumber: 32
-phone: "+33 3 27 80 42 62"
-opening_hours: "07:30-12:30, 14:30-19:00"
+street: Rue Joseph Morel
+housenumber: "32"
+phone: +33 3 27 80 42 62
+opening_hours: 07:30-12:30, 14:30-19:00
 website: ""

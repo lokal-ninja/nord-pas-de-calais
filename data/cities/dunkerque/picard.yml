@@ -1,11 +1,11 @@
 id: 76417214
-type: way
+type: node
 latitude: 51.04096
 longitude: 2.40502
 postcode: "59240"
 city: Dunkerque
-street: "Rue Paul Machy"
-housenumber: 14
-phone: "+33 3 28 63 51 08"
-opening_hours: "Mo-Sa 09:00-19:30; Su 09:00-12:45"
-website: "https://magasins.picard.fr/302-picard-dunkerque"
+street: Rue Paul Machy
+housenumber: "14"
+phone: +33 3 28 63 51 08
+opening_hours: Mo-Sa 09:00-19:30; Su 09:00-12:45
+website: https://magasins.picard.fr/302-picard-dunkerque

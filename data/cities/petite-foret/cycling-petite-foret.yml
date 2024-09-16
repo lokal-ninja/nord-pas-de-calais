@@ -5,7 +5,7 @@ longitude: 3.47451
 postcode: ""
 city: Petite-Forêt
 street: ""
-housenumber: 169
-phone: "+333 27 42 41 21"
-opening_hours: "Mo,Sa 10:00-19:00"
-website: "https://www.cycling.fr/"
+housenumber: "169"
+phone: +333 27 42 41 21
+opening_hours: Mo,Sa 10:00-19:00
+website: https://www.cycling.fr/

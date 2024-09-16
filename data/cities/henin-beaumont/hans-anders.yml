@@ -1,11 +1,11 @@
 id: 108824331
-type: way
+type: node
 latitude: 50.4201
 longitude: 2.94869
 postcode: "62110"
 city: Hénin-Beaumont
-street: "Place Carnot"
-housenumber: 66
+street: Place Carnot
+housenumber: "66"
 phone: ""
-opening_hours: "Mo-Sa 10:00-13:00,14:00-19:00"
+opening_hours: Mo-Sa 10:00-13:00,14:00-19:00
 website: ""

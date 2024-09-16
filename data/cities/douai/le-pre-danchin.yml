@@ -4,8 +4,8 @@ latitude: 50.37103
 longitude: 3.08415
 postcode: "59500"
 city: Douai
-street: "Boulevard Faidherbe"
-housenumber: 147
-phone: "+33 769733570"
-opening_hours: "Th-Sa 10:00-20:00"
-website: "https://www.acheteradouai.fr/epicerie-le-pre-d-anchin/produits"
+street: Boulevard Faidherbe
+housenumber: "147"
+phone: +33 769733570
+opening_hours: Th-Sa 10:00-20:00
+website: https://www.acheteradouai.fr/epicerie-le-pre-d-anchin/produits

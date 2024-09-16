@@ -1,11 +1,11 @@
 id: 174946998
-type: way
+type: node
 latitude: 50.34541
 longitude: 3.47835
 postcode: "59174"
 city: La Sentinelle
-street: "Avenue Jean Jaurès"
-housenumber: 972
+street: Avenue Jean Jaurès
+housenumber: "972"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:30"
+opening_hours: Mo-Sa 09:00-18:30
 website: ""

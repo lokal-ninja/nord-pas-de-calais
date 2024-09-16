@@ -1,11 +1,11 @@
 id: 529055055
-type: way
+type: node
 latitude: 50.4217
 longitude: 2.94611
 postcode: "62110"
 city: Hénin-Beaumont
-street: "Rue de l'Abbaye"
-housenumber: 99
-phone: "+33 3 21 75 02 18"
+street: Rue de l'Abbaye
+housenumber: "99"
+phone: +33 3 21 75 02 18
 opening_hours: ""
-website: "https://pompes-funebres-heraut.fr/"
+website: https://pompes-funebres-heraut.fr/

@@ -1,11 +1,11 @@
 id: 100897702
-type: way
+type: node
 latitude: 50.37049
 longitude: 3.08358
 postcode: "59500"
 city: Douai
-street: "Rue Saint-Jacques"
-housenumber: 28
-phone: "+33 6 26 79 53 09"
-opening_hours: "Tu-Sa 10:00-12:30,14:00-19:00"
-website: "https://www.leonidas.com/fr_fr/boutiques/douai/leonidas-douai"
+street: Rue Saint-Jacques
+housenumber: "28"
+phone: +33 6 26 79 53 09
+opening_hours: Tu-Sa 10:00-12:30,14:00-19:00
+website: https://www.leonidas.com/fr_fr/boutiques/douai/leonidas-douai

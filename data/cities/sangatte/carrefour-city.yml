@@ -1,11 +1,11 @@
 id: 221211931
-type: way
+type: node
 latitude: 50.95763
 longitude: 1.82098
 postcode: "62231"
 city: Sangatte
 street: ""
-housenumber: 
-phone: "+33 3 21 97 09 51"
-opening_hours: "Mo-Sa 07:00-22:00; Su 09:00-22:00"
-website: "https://www.carrefour.fr/magasin/city-bleriot"
+housenumber: ""
+phone: +33 3 21 97 09 51
+opening_hours: Mo-Sa 07:00-22:00; Su 09:00-22:00
+website: https://www.carrefour.fr/magasin/city-bleriot

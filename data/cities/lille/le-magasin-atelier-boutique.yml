@@ -4,8 +4,8 @@ latitude: 50.64599
 longitude: 3.05485
 postcode: "59000"
 city: Lille
-street: "Rue du Magasin"
-housenumber: 5
+street: Rue du Magasin
+housenumber: "5"
 phone: ""
-opening_hours: "Th-Fr 11:00-19:00; Sa 14:00-19:00"
+opening_hours: Th-Fr 11:00-19:00; Sa 14:00-19:00
 website: ""

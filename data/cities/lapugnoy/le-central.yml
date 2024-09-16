@@ -1,11 +1,11 @@
 id: 85925382
-type: way
+type: node
 latitude: 50.51596
 longitude: 2.53887
 postcode: "62122"
 city: Lapugnoy
-street: "Rue Jean Jaurès"
-housenumber: 242
-phone: "+33 3 21 62 60 59"
+street: Rue Jean Jaurès
+housenumber: "242"
+phone: +33 3 21 62 60 59
 opening_hours: ""
 website: ""

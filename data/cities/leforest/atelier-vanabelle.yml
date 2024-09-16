@@ -1,11 +1,11 @@
 id: 107764706
-type: way
+type: node
 latitude: 50.43717
 longitude: 3.06058
 postcode: "62790"
 city: Leforest
-street: "Rue Léon Gambetta"
-housenumber: 17
+street: Rue Léon Gambetta
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

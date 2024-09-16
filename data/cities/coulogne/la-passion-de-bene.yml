@@ -1,11 +1,11 @@
 id: 231723091
-type: way
+type: node
 latitude: 50.92638
 longitude: 1.86787
 postcode: "62137"
 city: Coulogne
-street: "Chemin des Régniers"
-housenumber: 5
+street: Chemin des Régniers
+housenumber: "5"
 phone: ""
-opening_hours: "Tu-Sa 09:30-19:00; Su 10:00-13:00"
+opening_hours: Tu-Sa 09:30-19:00; Su 10:00-13:00
 website: ""

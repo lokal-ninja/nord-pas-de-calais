@@ -1,11 +1,11 @@
 id: 1268650902
-type: way
+type: node
 latitude: 50.70378
 longitude: 3.09127
 postcode: "59910"
 city: Bondues
-street: "Avenue du Coquinage"
+street: Avenue du Coquinage
 housenumber: 6bis
-phone: "+33 3 20 35 56 61"
-opening_hours: "Th-Su 09:00-13:00,15:00-19:00"
+phone: +33 3 20 35 56 61
+opening_hours: Th-Su 09:00-13:00,15:00-19:00
 website: ""

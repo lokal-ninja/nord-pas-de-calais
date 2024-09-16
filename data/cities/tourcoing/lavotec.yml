@@ -1,11 +1,11 @@
 id: 77548977
-type: way
+type: node
 latitude: 50.69464
 longitude: 3.15237
 postcode: "59200"
 city: Tourcoing
-street: "Rue de Mouvaux"
-housenumber: 114
+street: Rue de Mouvaux
+housenumber: "114"
 phone: ""
-opening_hours: "Mo-Su 07:00-20:00"
+opening_hours: Mo-Su 07:00-20:00
 website: ""

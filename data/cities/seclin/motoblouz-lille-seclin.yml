@@ -1,11 +1,11 @@
 id: 125564855
-type: way
+type: node
 latitude: 50.55147
 longitude: 3.0506
 postcode: "59113"
 city: Seclin
-street: "Rue de l'Industrie"
-housenumber: 
-phone: "+33 3 20 97 66 26"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-19:00; Su,PH off"
-website: "https://www.motoblouz.com"
+street: Rue de l'Industrie
+housenumber: ""
+phone: +33 3 20 97 66 26
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-19:00; Su,PH off
+website: https://www.motoblouz.com

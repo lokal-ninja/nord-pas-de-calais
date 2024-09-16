@@ -4,8 +4,8 @@ latitude: 50.70451
 longitude: 1.59361
 postcode: "62230"
 city: Outreau
-street: "Place Léon Blum"
-housenumber: 6
-phone: "+33 3 91 90 00 73"
-opening_hours: "Mo-Fr 9:30-12:30, 14:00-19:00; Sa 14:30-19:00"
-website: "https://www.zeeman.com/"
+street: Place Léon Blum
+housenumber: "6"
+phone: +33 3 91 90 00 73
+opening_hours: Mo-Fr 9:30-12:30, 14:00-19:00; Sa 14:30-19:00
+website: https://www.zeeman.com/

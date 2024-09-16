@@ -1,11 +1,11 @@
 id: 944000436
-type: way
+type: node
 latitude: 50.42383
 longitude: 2.82017
 postcode: ""
 city: Lens
-street: "Route d'Arras"
-housenumber: 44
-phone: "+33 3 21 28 08 25"
-opening_hours: "24/7"
-website: "https://store.totalenergies.fr/en_EN/NF058339"
+street: Route d'Arras
+housenumber: "44"
+phone: +33 3 21 28 08 25
+opening_hours: 24/7
+website: https://store.totalenergies.fr/en_EN/NF058339

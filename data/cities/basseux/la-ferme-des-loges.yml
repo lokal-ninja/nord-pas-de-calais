@@ -1,11 +1,11 @@
 id: 226231659
-type: way
+type: node
 latitude: 50.22781
 longitude: 2.64151
 postcode: "62123"
 city: Basseux
-street: "Rue d'en Haut"
-housenumber: 23
+street: Rue d'en Haut
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

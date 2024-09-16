@@ -1,11 +1,11 @@
 id: 193058424
-type: way
+type: node
 latitude: 50.68717
 longitude: 3.05205
 postcode: "59118"
 city: Wambrechies
-street: "Rue du 11 Novembre 1918"
-housenumber: 8
+street: Rue du 11 Novembre 1918
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.boucherie-rigaud.fr/"
+website: https://www.boucherie-rigaud.fr/

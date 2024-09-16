@@ -1,11 +1,11 @@
 id: 679660277
-type: way
+type: node
 latitude: 50.51132
 longitude: 2.6206
 postcode: "62232"
 city: Fouquières-lès-Béthune
-street: "Avenue du Prieuré Saint-Pry"
-housenumber: 
-phone: "+33 3 21 62 29 97"
-opening_hours: "Mo-Sa 06:30-20:00; Su 06:30-19:00"
-website: "https://sophie-lebreuilly.com/nos-boulangeries/fouquieres-les-bethune"
+street: Avenue du Prieuré Saint-Pry
+housenumber: ""
+phone: +33 3 21 62 29 97
+opening_hours: Mo-Sa 06:30-20:00; Su 06:30-19:00
+website: https://sophie-lebreuilly.com/nos-boulangeries/fouquieres-les-bethune

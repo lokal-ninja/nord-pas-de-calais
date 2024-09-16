@@ -4,8 +4,8 @@ latitude: 50.7044
 longitude: 3.17149
 postcode: "59100"
 city: Roubaix
-street: "Rue de Tourcoing"
-housenumber: 122
-phone: "+33 7 66 34 95 62"
-opening_hours: "Mo-Sa 10:00-20:00"
+street: Rue de Tourcoing
+housenumber: "122"
+phone: +33 7 66 34 95 62
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

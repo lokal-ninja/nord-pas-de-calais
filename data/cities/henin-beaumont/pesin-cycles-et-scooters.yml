@@ -1,11 +1,11 @@
 id: 108172467
-type: way
+type: node
 latitude: 50.42127
 longitude: 2.9541
 postcode: "62110"
 city: Hénin-Beaumont
-street: "Rue Élie Gruyelle"
-housenumber: 368
+street: Rue Élie Gruyelle
+housenumber: "368"
 phone: ""
 opening_hours: ""
-website: "https://www.facebook.com/etspesin/"
+website: https://www.facebook.com/etspesin/

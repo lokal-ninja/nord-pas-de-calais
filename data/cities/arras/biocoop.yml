@@ -4,8 +4,8 @@ latitude: 50.29775
 longitude: 2.76902
 postcode: "62000"
 city: Arras
-street: "Voie Notre-Dame-de-Lorette"
-housenumber: 10
+street: Voie Notre-Dame-de-Lorette
+housenumber: "10"
 phone: ""
-opening_hours: "Mo 10:00-19:15; Tu-Sa 09:30-19:15"
-website: "https://www.biocoop-bioenartois.fr/"
+opening_hours: Mo 10:00-19:15; Tu-Sa 09:30-19:15
+website: https://www.biocoop-bioenartois.fr/

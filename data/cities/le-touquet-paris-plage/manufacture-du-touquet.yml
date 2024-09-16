@@ -4,8 +4,8 @@ latitude: 50.52324
 longitude: 1.58441
 postcode: "62520"
 city: Le Touquet-Paris-Plage
-street: "Rue Saint-Louis"
-housenumber: 29
-phone: "+33 3 21 05 21 37"
-opening_hours: "Mo,Th-Sa 10:00-13:00,16:00-18:00"
-website: "https://www.biscuit-touquet.fr/boutiques/"
+street: Rue Saint-Louis
+housenumber: "29"
+phone: +33 3 21 05 21 37
+opening_hours: Mo,Th-Sa 10:00-13:00,16:00-18:00
+website: https://www.biscuit-touquet.fr/boutiques/

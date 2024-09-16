@@ -4,8 +4,8 @@ latitude: 50.52943
 longitude: 2.63932
 postcode: "62400"
 city: Béthune
-street: "Rue d'Arras"
-housenumber: 62
+street: Rue d'Arras
+housenumber: "62"
 phone: ""
-opening_hours: "Mo-Fr 07:45-12:30,13:30-19:30; Sa 07:45-12:30,14:00-19:30"
+opening_hours: Mo-Fr 07:45-12:30,13:30-19:30; Sa 07:45-12:30,14:00-19:30
 website: ""

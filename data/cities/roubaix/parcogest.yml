@@ -4,8 +4,8 @@ latitude: 50.69004
 longitude: 3.1725
 postcode: "59100"
 city: Roubaix
-street: "Rue du Curoir"
-housenumber: 5
+street: Rue du Curoir
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.parcogest.com/"
+website: https://www.parcogest.com/

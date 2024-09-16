@@ -1,11 +1,11 @@
 id: 218291967
-type: way
+type: node
 latitude: 50.1129
 longitude: 3.41093
 postcode: "59540"
 city: Caudry
-street: "Boulevard du 19 Mars 1962"
-housenumber: 
+street: Boulevard du 19 Mars 1962
+housenumber: ""
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu-Sa 09:00-12:00, 14:00-19:00"
-website: "https://magasin.mr-bricolage.fr/296-mr-bricolage-caudry"
+opening_hours: Mo 14:00-19:00; Tu-Sa 09:00-12:00, 14:00-19:00
+website: https://magasin.mr-bricolage.fr/296-mr-bricolage-caudry

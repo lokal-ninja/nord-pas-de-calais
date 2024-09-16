@@ -1,11 +1,11 @@
 id: 108823813
-type: way
+type: node
 latitude: 50.42148
 longitude: 2.94865
 postcode: "62110"
 city: Hénin-Beaumont
-street: "Rue Montpencher"
-housenumber: 108
+street: Rue Montpencher
+housenumber: "108"
 phone: ""
-opening_hours: "Mo-Sa 09:30-12:30,14:00-19:00"
+opening_hours: Mo-Sa 09:30-12:30,14:00-19:00
 website: ""

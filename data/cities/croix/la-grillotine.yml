@@ -1,11 +1,11 @@
 id: 85296394
-type: way
+type: node
 latitude: 50.67471
 longitude: 3.14808
 postcode: "59170"
 city: Croix
-street: "Place de la République"
-housenumber: 24
+street: Place de la République
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

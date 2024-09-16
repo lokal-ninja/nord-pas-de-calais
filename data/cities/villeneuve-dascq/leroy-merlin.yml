@@ -1,11 +1,11 @@
 id: 79050430
-type: way
+type: node
 latitude: 50.61449
 longitude: 3.12731
 postcode: "59650"
 city: Villeneuve-d'Ascq
-street: "Rue de Versailles"
-housenumber: 
+street: Rue de Versailles
+housenumber: ""
 phone: "+33320438888"
-opening_hours: "Mo-Sa 9:00-20:00"
-website: "https://www.leroymerlin.fr/v3/p/magasins/villeneuve-d-ascq-l1308216870"
+opening_hours: Mo-Sa 9:00-20:00
+website: https://www.leroymerlin.fr/v3/p/magasins/villeneuve-d-ascq-l1308216870

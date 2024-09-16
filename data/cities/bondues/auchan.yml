@@ -1,11 +1,11 @@
 id: 122940534
-type: way
+type: node
 latitude: 50.71036
 longitude: 3.1241
 postcode: "59910"
 city: Bondues
-street: "Rue Mirabeau"
-housenumber: 
+street: Rue Mirabeau
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

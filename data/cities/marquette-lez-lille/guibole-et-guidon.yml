@@ -4,8 +4,8 @@ latitude: 50.68047
 longitude: 3.06161
 postcode: "59520"
 city: Marquette-lez-Lille
-street: "Rue de Wambrechies"
-housenumber: 1
+street: Rue de Wambrechies
+housenumber: "1"
 phone: ""
-opening_hours: "Mo,Th 13:00-18:30; Tu,We,Fr,Sa 10:00-18:30"
-website: "https://www.guibole-et-guidon.com/"
+opening_hours: Mo,Th 13:00-18:30; Tu,We,Fr,Sa 10:00-18:30
+website: https://www.guibole-et-guidon.com/

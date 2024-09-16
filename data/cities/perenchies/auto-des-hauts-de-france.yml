@@ -1,11 +1,11 @@
 id: 126805364
-type: way
+type: node
 latitude: 50.66804
 longitude: 2.96655
 postcode: "59840"
 city: Pérenchies
-street: "Rue Carnot"
-housenumber: 160
-phone: "+33 3 20 45 87 29"
+street: Rue Carnot
+housenumber: "160"
+phone: +33 3 20 45 87 29
 opening_hours: ""
 website: ""

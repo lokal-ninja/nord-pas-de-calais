@@ -1,11 +1,12 @@
 id: 230808300
-type: way
+type: node
 latitude: 50.6346
 longitude: 2.3205
 postcode: "62120"
 city: Mametz
-street: "Rue des Écoliers"
-housenumber: 3
-phone: "+33 321391163"
-opening_hours: "Mo closed; Tu 08:30-19:00; We 08:30-19:00; Th 08:30-19:00; Fr 08:30-19:00; Sa 08:30-19:00; Su 08:30-12:30"
-website: "https://www.achetezenpaysdesaintomer.com/boucherieauxenfants/"
+street: Rue des Écoliers
+housenumber: "3"
+phone: +33 321391163
+opening_hours: Mo closed; Tu 08:30-19:00; We 08:30-19:00; Th 08:30-19:00; Fr 08:30-19:00;
+    Sa 08:30-19:00; Su 08:30-12:30
+website: https://www.achetezenpaysdesaintomer.com/boucherieauxenfants/

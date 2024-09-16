@@ -4,8 +4,8 @@ latitude: 50.66554
 longitude: 3.05694
 postcode: "59350"
 city: Saint-André-lez-Lille
-street: "Rue Émile Vandamme"
-housenumber: 25
-phone: "+336 68 89 48 39"
-opening_hours: "Mo 10:00-12:00; We 10:00-12:00; Fr 10:00-12:00"
-website: "https://consignerie.com/"
+street: Rue Émile Vandamme
+housenumber: "25"
+phone: +336 68 89 48 39
+opening_hours: Mo 10:00-12:00; We 10:00-12:00; Fr 10:00-12:00
+website: https://consignerie.com/

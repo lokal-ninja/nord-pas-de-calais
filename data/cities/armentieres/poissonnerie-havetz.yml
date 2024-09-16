@@ -4,8 +4,8 @@ latitude: 50.68687
 longitude: 2.88147
 postcode: "59280"
 city: Armentières
-street: "Place du Général de Gaulle"
-housenumber: 10
-phone: "+33 3 20 77 04 60"
-opening_hours: "We,Th,Sa 10:00-17:00; Fr 08:00-17:00"
-website: "https://www.facebook.com/pg/Poissonnerieshavetz/about/?ref=page_internal"
+street: Place du Général de Gaulle
+housenumber: "10"
+phone: +33 3 20 77 04 60
+opening_hours: We,Th,Sa 10:00-17:00; Fr 08:00-17:00
+website: https://www.facebook.com/pg/Poissonnerieshavetz/about/?ref=page_internal

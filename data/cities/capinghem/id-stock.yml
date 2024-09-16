@@ -1,11 +1,11 @@
 id: 676539641
-type: way
+type: node
 latitude: 50.6402
 longitude: 2.97026
 postcode: "59160"
 city: Capinghem
-street: "Rue des Fusillés"
-housenumber: 70
+street: Rue des Fusillés
+housenumber: "70"
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-19:00; Su off"
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-19:00; Su off
 website: ""

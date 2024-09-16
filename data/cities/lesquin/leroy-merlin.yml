@@ -1,11 +1,11 @@
 id: 123467509
-type: way
+type: node
 latitude: 50.58628
 longitude: 3.0894
 postcode: "59810"
 city: Lesquin
-street: "Rue de Douai"
-housenumber: 
+street: Rue de Douai
+housenumber: ""
 phone: "+33320600001"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.leroymerlin.fr/v3/p/magasins/lesquin-l1308219906"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.leroymerlin.fr/v3/p/magasins/lesquin-l1308219906

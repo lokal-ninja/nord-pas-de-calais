@@ -4,8 +4,8 @@ latitude: 50.63724
 longitude: 3.06576
 postcode: "59000"
 city: Lille
-street: "Rue Faidherbe"
-housenumber: 1
-phone: "+33 3 59 81 89 00"
-opening_hours: "Mo-Fr 10:00-19:30, Sa 10:00-20:00"
+street: Rue Faidherbe
+housenumber: "1"
+phone: +33 3 59 81 89 00
+opening_hours: Mo-Fr 10:00-19:30, Sa 10:00-20:00
 website: ""

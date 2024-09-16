@@ -1,11 +1,11 @@
 id: 227501250
-type: way
+type: node
 latitude: 50.10352
 longitude: 2.84023
 postcode: "62450"
 city: Avesnes-lès-Bapaume
-street: "Rue d'Albert"
-housenumber: 6
+street: Rue d'Albert
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:00,14:00-18:00"
-website: "https://magasin.mr-bricolage.fr/280-mr-bricolage-bapaume"
+opening_hours: Mo-Sa 09:00-12:00,14:00-18:00
+website: https://magasin.mr-bricolage.fr/280-mr-bricolage-bapaume

@@ -1,11 +1,11 @@
 id: 123430590
-type: way
+type: node
 latitude: 50.4098
 longitude: 1.6457
 postcode: "62180"
 city: Verton
-street: "Allées les Allees"
-housenumber: 
-phone: "+33 3 21 84 33 00"
-opening_hours: "Mo-Sa 08:30-19:30; Su 08:30-12:30"
-website: "https://www.carrefour.fr/magasin/market-verton"
+street: Allées les Allees
+housenumber: ""
+phone: +33 3 21 84 33 00
+opening_hours: Mo-Sa 08:30-19:30; Su 08:30-12:30
+website: https://www.carrefour.fr/magasin/market-verton

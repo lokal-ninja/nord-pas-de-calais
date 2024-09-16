@@ -1,11 +1,11 @@
 id: 243272904
-type: way
+type: node
 latitude: 50.49903
 longitude: 2.68051
 postcode: ""
 city: Labourse
-street: "Rue Achille Larue"
-housenumber: 34
+street: Rue Achille Larue
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

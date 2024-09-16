@@ -1,11 +1,11 @@
 id: 86929160
-type: way
+type: node
 latitude: 50.26108
 longitude: 3.63284
 postcode: "59530"
 city: Le Quesnoy
-street: "Route de Valenciennes"
-housenumber: 
+street: Route de Valenciennes
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

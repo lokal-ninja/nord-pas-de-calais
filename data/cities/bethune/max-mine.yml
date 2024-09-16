@@ -1,11 +1,11 @@
 id: 136681942
-type: way
+type: node
 latitude: 50.53263
 longitude: 2.64873
 postcode: "62400"
 city: Béthune
 street: ""
-housenumber: 210
-phone: "+33 3 21 01 01 21"
-opening_hours: "Mo-Th 07:30-12:00,13:30-18:00; Fr 07:30-12:00,13:30-16:30"
-website: "https://max-mine.fr/"
+housenumber: "210"
+phone: +33 3 21 01 01 21
+opening_hours: Mo-Th 07:30-12:00,13:30-18:00; Fr 07:30-12:00,13:30-16:30
+website: https://max-mine.fr/

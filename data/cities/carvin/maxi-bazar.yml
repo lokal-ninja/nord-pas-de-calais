@@ -1,11 +1,11 @@
 id: 171153479
-type: way
+type: node
 latitude: 50.50022
 longitude: 2.94569
 postcode: "62220"
 city: Carvin
-street: "Route de Meurchin"
-housenumber: 
+street: Route de Meurchin
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

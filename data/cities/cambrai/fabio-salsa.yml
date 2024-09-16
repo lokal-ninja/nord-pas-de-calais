@@ -4,8 +4,8 @@ latitude: 50.14802
 longitude: 3.2226
 postcode: "59400"
 city: Cambrai
-street: "Avenue Georges Nuttin"
-housenumber: 2
-phone: "+33 3 27 81 13 14"
-opening_hours: "Mo-Sa 9:30-19:00"
-website: "https://reservations.fabiosalsa.com/reservation?salonId=5dd65de9fa5e707981828b9c"
+street: Avenue Georges Nuttin
+housenumber: "2"
+phone: +33 3 27 81 13 14
+opening_hours: Mo-Sa 9:30-19:00
+website: https://reservations.fabiosalsa.com/reservation?salonId=5dd65de9fa5e707981828b9c

@@ -4,8 +4,8 @@ latitude: 50.65446
 longitude: 3.12131
 postcode: "59290"
 city: Wasquehal
-street: "Rue de la Couture"
-housenumber: 30
+street: Rue de la Couture
+housenumber: "30"
 phone: "+33644646800"
-opening_hours: "Mo-Fr 06:30-18:30; Sa 07:30-12:00"
-website: "https://www.laplateforme.com/"
+opening_hours: Mo-Fr 06:30-18:30; Sa 07:30-12:00
+website: https://www.laplateforme.com/

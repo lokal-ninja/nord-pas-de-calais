@@ -1,11 +1,11 @@
 id: 203553448
-type: way
+type: node
 latitude: 50.15057
 longitude: 3.21614
 postcode: "59267"
 city: Proville
-street: "Rue Charles de Montesquieu"
-housenumber: 170
-phone: "+33 3 27 72 67 40"
-opening_hours: "Mo-Sa 9:30-19:30"
+street: Rue Charles de Montesquieu
+housenumber: "170"
+phone: +33 3 27 72 67 40
+opening_hours: Mo-Sa 9:30-19:30
 website: ""

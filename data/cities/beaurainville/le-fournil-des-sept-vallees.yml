@@ -1,11 +1,11 @@
 id: 450602975
-type: way
+type: node
 latitude: 50.42422
 longitude: 1.89892
 postcode: "62990"
 city: Beaurainville
-street: "Grande Rue"
-housenumber: 97
+street: Grande Rue
+housenumber: "97"
 phone: ""
 opening_hours: ""
 website: ""

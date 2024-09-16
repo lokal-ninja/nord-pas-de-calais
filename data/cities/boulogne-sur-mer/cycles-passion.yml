@@ -4,8 +4,8 @@ latitude: 50.72204
 longitude: 1.60468
 postcode: "62200"
 city: Boulogne-sur-Mer
-street: "Place des Capucins"
-housenumber: 5
-phone: "+33 3 21 31 34 41"
-opening_hours: "Th-Sa 09:00-12:00, 14:00-19:00"
-website: "http://cyclespassion.bike/presentation/"
+street: Place des Capucins
+housenumber: "5"
+phone: +33 3 21 31 34 41
+opening_hours: Th-Sa 09:00-12:00, 14:00-19:00
+website: http://cyclespassion.bike/presentation/

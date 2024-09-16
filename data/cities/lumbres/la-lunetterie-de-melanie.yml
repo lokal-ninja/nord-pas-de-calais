@@ -1,11 +1,11 @@
 id: 239403921
-type: way
+type: node
 latitude: 50.70553
 longitude: 2.12195
 postcode: "62380"
 city: Lumbres
-street: "Rue Albert Thomas"
-housenumber: 12
+street: Rue Albert Thomas
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 136679468
-type: way
+type: node
 latitude: 50.53895
 longitude: 2.65399
 postcode: "62400"
 city: Béthune
 street: ""
-housenumber: 264
+housenumber: "264"
 phone: ""
-opening_hours: "Tu-Fr 13:00-19:00; Sa 10:00-19:00"
-website: "https://www.labouquineriedesflandres.fr/pages/adresses/adresse-bethune-1.html"
+opening_hours: Tu-Fr 13:00-19:00; Sa 10:00-19:00
+website: https://www.labouquineriedesflandres.fr/pages/adresses/adresse-bethune-1.html

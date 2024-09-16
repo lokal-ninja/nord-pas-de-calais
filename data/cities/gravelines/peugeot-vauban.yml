@@ -1,11 +1,11 @@
 id: 178161636
-type: way
+type: node
 latitude: 50.9867
 longitude: 2.12202
 postcode: "59820"
 city: Gravelines
-street: "Rue des Islandais"
-housenumber: 11
-phone: "+33 328231151"
-opening_hours: "Mo-Th 09:00-12:15,14:00-18:30; Sa 08:00-12:00"
-website: "https://concessions.peugeot.fr/vauban-gravelines/"
+street: Rue des Islandais
+housenumber: "11"
+phone: +33 328231151
+opening_hours: Mo-Th 09:00-12:15,14:00-18:30; Sa 08:00-12:00
+website: https://concessions.peugeot.fr/vauban-gravelines/

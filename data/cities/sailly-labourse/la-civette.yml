@@ -1,11 +1,11 @@
 id: 243301937
-type: way
+type: node
 latitude: 50.50111
 longitude: 2.69669
 postcode: "62113"
 city: Sailly-Labourse
-street: "Route Nationale"
-housenumber: 39
+street: Route Nationale
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 167244308
-type: way
+type: node
 latitude: 50.75433
 longitude: 2.24432
 postcode: "62500"
 city: Saint-Martin-au-Laërt
-street: "Avenue du Maréchal Joffre"
-housenumber: 46
-phone: "+33 3 91 92 41 79"
-opening_hours: "Mo-Sa 08:30-20:30; Su 09:00-12:30"
+street: Avenue du Maréchal Joffre
+housenumber: "46"
+phone: +33 3 91 92 41 79
+opening_hours: Mo-Sa 08:30-20:30; Su 09:00-12:30
 website: ""

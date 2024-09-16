@@ -1,11 +1,11 @@
 id: 243402049
-type: way
+type: node
 latitude: 50.48872
 longitude: 2.74335
 postcode: "62980"
 city: Vermelles
-street: "Rue Florent Evrard"
-housenumber: 4
+street: Rue Florent Evrard
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 09:30-12:00, 14:30-19:00; We off; Su 09:00-13:00"
-website: "https://fleuristes-et-fleurs.com/fleuriste/histoire-de-famille-vermelles-62980"
+opening_hours: Mo-Sa 09:30-12:00, 14:30-19:00; We off; Su 09:00-13:00
+website: https://fleuristes-et-fleurs.com/fleuriste/histoire-de-famille-vermelles-62980

@@ -1,11 +1,11 @@
 id: 75874326
-type: way
+type: node
 latitude: 50.10369
 longitude: 3.54346
 postcode: "59360"
 city: Le Cateau-Cambrésis
-street: "Rue Jean Jaurès"
-housenumber: 32
+street: Rue Jean Jaurès
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

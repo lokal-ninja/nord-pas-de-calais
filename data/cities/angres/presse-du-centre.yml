@@ -1,11 +1,11 @@
 id: 241490256
-type: way
+type: node
 latitude: 50.41051
 longitude: 2.75842
 postcode: "62143"
 city: Angres
-street: "Rue Roger Salengro"
-housenumber: 18
-phone: "+33 3 21 44 25 15"
+street: Rue Roger Salengro
+housenumber: "18"
+phone: +33 3 21 44 25 15
 opening_hours: ""
 website: ""

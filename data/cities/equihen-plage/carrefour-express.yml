@@ -1,11 +1,11 @@
 id: 1191304393
-type: way
+type: node
 latitude: 50.67891
 longitude: 1.57157
 postcode: "62224"
 city: Équihen-Plage
-street: "Rue de l'Abbé Coppin"
-housenumber: 14
-phone: "+33 9 79 67 00 47"
-opening_hours: "Mo-Sa 07:00-20:00; Su 08:00-13:00"
-website: "https://www.carrefour.fr/magasin/express-equihen-plage"
+street: Rue de l'Abbé Coppin
+housenumber: "14"
+phone: +33 9 79 67 00 47
+opening_hours: Mo-Sa 07:00-20:00; Su 08:00-13:00
+website: https://www.carrefour.fr/magasin/express-equihen-plage

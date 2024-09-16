@@ -4,8 +4,8 @@ latitude: 50.61551
 longitude: 3.12909
 postcode: "59650"
 city: Villeneuve-d'Ascq
-street: "Rue de Versailles"
-housenumber: 1
+street: Rue de Versailles
+housenumber: "1"
 phone: "+33320338278"
-opening_hours: "Mo-Fr 10:00-19:00; Th 14:30-19:00"
-website: "https://www.heytens.fr/magasin-rideaux/lille-villeneuve-d-ascq/"
+opening_hours: Mo-Fr 10:00-19:00; Th 14:30-19:00
+website: https://www.heytens.fr/magasin-rideaux/lille-villeneuve-d-ascq/

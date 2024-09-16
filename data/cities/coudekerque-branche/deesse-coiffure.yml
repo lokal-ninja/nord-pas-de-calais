@@ -4,8 +4,9 @@ latitude: 51.02277
 longitude: 2.3788
 postcode: "59210"
 city: Coudekerque-Branche
-street: "Boulevard Jean Jaurès"
-housenumber: 
+street: Boulevard Jean Jaurès
+housenumber: ""
 phone: "+33328266831"
-opening_hours: "Mo 09:00-12:00,14:00-19:00; Tu 09:00-12:00,14:00-19:00; We closed; Th 09:00-12:00,14:00-19:00; Fr 09:00-18:00; Sa 08:00-16:00; Su closed"
+opening_hours: Mo 09:00-12:00,14:00-19:00; Tu 09:00-12:00,14:00-19:00; We closed;
+    Th 09:00-12:00,14:00-19:00; Fr 09:00-18:00; Sa 08:00-16:00; Su closed
 website: ""

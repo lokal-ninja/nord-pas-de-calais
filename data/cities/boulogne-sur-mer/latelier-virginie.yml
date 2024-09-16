@@ -4,8 +4,8 @@ latitude: 50.72342
 longitude: 1.60442
 postcode: "62200"
 city: Boulogne-sur-Mer
-street: "Rue Victor Hugo"
-housenumber: 35
-phone: "+333 21 87 17 06"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:30-13:00,14:00-19:00"
-website: "https://www.ateliervirginie.com/"
+street: Rue Victor Hugo
+housenumber: "35"
+phone: +333 21 87 17 06
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:30-13:00,14:00-19:00
+website: https://www.ateliervirginie.com/

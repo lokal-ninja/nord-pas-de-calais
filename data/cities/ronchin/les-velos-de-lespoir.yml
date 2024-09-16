@@ -4,8 +4,8 @@ latitude: 50.60038
 longitude: 3.09809
 postcode: "59790"
 city: Ronchin
-street: "Rue Roger Salengro"
-housenumber: 43
-phone: "+33 6 46 32 28 30"
-opening_hours: "by appointment, prendre RDV au numéro de téléphone indiqué"
-website: "https://www.chtimuco.fr/reparation-de-velo-ou-pieces-detachees/"
+street: Rue Roger Salengro
+housenumber: "43"
+phone: +33 6 46 32 28 30
+opening_hours: '"by appointment, prendre RDV au numéro de téléphone indiqué"'
+website: https://www.chtimuco.fr/reparation-de-velo-ou-pieces-detachees/

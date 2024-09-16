@@ -1,11 +1,11 @@
 id: 140997887
-type: way
+type: node
 latitude: 50.5239
 longitude: 2.87593
 postcode: "62138"
 city: Billy-Berclau
-street: "Rue du 11 Novembre"
-housenumber: 7
+street: Rue du 11 Novembre
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

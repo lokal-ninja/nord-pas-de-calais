@@ -1,11 +1,11 @@
 id: 240855303
-type: way
+type: node
 latitude: 50.45763
 longitude: 2.94652
 postcode: "62710"
 city: Courrières
-street: "Rue Louis Breton"
-housenumber: 16
-phone: "+33 3 21 20 35 37"
-opening_hours: "Tu-Fr 08:00-13:00,15:30-19:00; Sa 08:00-19:00; Su 08:00-12:00"
+street: Rue Louis Breton
+housenumber: "16"
+phone: +33 3 21 20 35 37
+opening_hours: Tu-Fr 08:00-13:00,15:30-19:00; Sa 08:00-19:00; Su 08:00-12:00
 website: ""

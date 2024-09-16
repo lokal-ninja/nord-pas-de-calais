@@ -1,11 +1,11 @@
 id: 141263493
-type: way
+type: node
 latitude: 50.42888
 longitude: 2.91313
 postcode: "62740"
 city: Fouquières-lès-Lens
-street: "Rue Louis Pasteur"
-housenumber: 11
+street: Rue Louis Pasteur
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

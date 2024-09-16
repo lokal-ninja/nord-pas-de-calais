@@ -1,11 +1,11 @@
 id: 189182732
-type: way
+type: node
 latitude: 50.56839
 longitude: 2.46498
 postcode: "62190"
 city: Lillers
-street: "Rue Adolphe Dekeiser"
-housenumber: 
-phone: "+33 3 21 54 63 10"
-opening_hours: "Mo-Sa 08:30-20:00; Su 08:30-12:30"
-website: "https://www.carrefour.fr/magasin/market-lillers"
+street: Rue Adolphe Dekeiser
+housenumber: ""
+phone: +33 3 21 54 63 10
+opening_hours: Mo-Sa 08:30-20:00; Su 08:30-12:30
+website: https://www.carrefour.fr/magasin/market-lillers

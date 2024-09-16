@@ -1,11 +1,11 @@
 id: 1017155423
-type: way
+type: node
 latitude: 50.76287
 longitude: 2.22823
 postcode: "62505"
 city: Saint-Martin-au-Laërt
-street: "Rue du Commerce"
-housenumber: 2
+street: Rue du Commerce
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://nozarrivages.com/magasin/saint-martin-au-laert/"
+website: https://nozarrivages.com/magasin/saint-martin-au-laert/

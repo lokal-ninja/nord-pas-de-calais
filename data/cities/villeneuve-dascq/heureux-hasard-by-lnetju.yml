@@ -1,11 +1,12 @@
 id: 79066821
-type: way
+type: node
 latitude: 50.61971
 longitude: 3.15975
 postcode: "59493"
 city: Villeneuve-d'Ascq
-street: "Rue Gaston Baratte"
-housenumber: 75
+street: Rue Gaston Baratte
+housenumber: "75"
 phone: ""
-opening_hours: "Tu 10:00-12:30,14:30-19:00; We 10:00-13:00,14:30-19:00; Th 10:00-19:00; Fr 10:00-19:00; Sa 10:00-13:00,14:30-19:00"
-website: "https://www.heureuxhasard.store"
+opening_hours: Tu 10:00-12:30,14:30-19:00; We 10:00-13:00,14:30-19:00; Th 10:00-19:00;
+    Fr 10:00-19:00; Sa 10:00-13:00,14:30-19:00
+website: https://www.heureuxhasard.store

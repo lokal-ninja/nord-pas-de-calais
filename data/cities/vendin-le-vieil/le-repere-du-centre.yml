@@ -1,11 +1,11 @@
 id: 69674856
-type: way
+type: node
 latitude: 50.4753
 longitude: 2.86826
 postcode: "62880"
 city: Vendin-le-Vieil
-street: "Place Jean Jaurès"
-housenumber: 36
-phone: "+33 3 21 29 67 32"
+street: Place Jean Jaurès
+housenumber: "36"
+phone: +33 3 21 29 67 32
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 230808623
-type: way
+type: node
 latitude: 50.63543
 longitude: 2.32159
 postcode: "62120"
 city: Mametz
-street: "Rue des Écoliers"
-housenumber: 2
-phone: "+33 3 21 12 40 59"
+street: Rue des Écoliers
+housenumber: "2"
+phone: +33 3 21 12 40 59
 opening_hours: ""
-website: "https://www.pagesjaunes.fr/pros/53480226"
+website: https://www.pagesjaunes.fr/pros/53480226

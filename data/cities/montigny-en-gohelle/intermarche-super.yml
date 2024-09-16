@@ -1,11 +1,11 @@
 id: 141237853
-type: way
+type: node
 latitude: 50.41796
 longitude: 2.92942
 postcode: ""
 city: Montigny-en-Gohelle
-street: "Avenue François Mitterrand"
-housenumber: 49
+street: Avenue François Mitterrand
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

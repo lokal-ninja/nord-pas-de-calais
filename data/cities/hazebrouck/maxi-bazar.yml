@@ -1,11 +1,11 @@
 id: 81374965
-type: way
+type: node
 latitude: 50.73842
 longitude: 2.54386
 postcode: "59190"
 city: Hazebrouck
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:00, 14:00-19:00; Sa 10:00-19:00"
-website: "https://www.dya-shopping.fr/store/hazebrouck"
+opening_hours: Mo-Fr 10:00-12:00, 14:00-19:00; Sa 10:00-19:00
+website: https://www.dya-shopping.fr/store/hazebrouck

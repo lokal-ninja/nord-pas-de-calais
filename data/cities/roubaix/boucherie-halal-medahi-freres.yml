@@ -1,11 +1,11 @@
 id: 180364125
-type: way
+type: node
 latitude: 50.69795
 longitude: 3.16654
 postcode: ""
 city: Roubaix
-street: "Rue de l'Alma"
-housenumber: 83
+street: Rue de l'Alma
+housenumber: "83"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.17241
 longitude: 3.23187
 postcode: "59400"
 city: Cambrai
-street: "Place du Saint-Sépulcre"
-housenumber: 7
+street: Place du Saint-Sépulcre
+housenumber: "7"
 phone: ""
-opening_hours: "Tu-Fr 09:30-12:30,14:30-18:30; We 10:00-12:30,14:30-18:30; Sa 10:00-13:00,14:30-18:30"
-website: "https://www.lalternativeepicerie.com/"
+opening_hours: Tu-Fr 09:30-12:30,14:30-18:30; We 10:00-12:30,14:30-18:30; Sa 10:00-13:00,14:30-18:30
+website: https://www.lalternativeepicerie.com/

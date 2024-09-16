@@ -4,8 +4,8 @@ latitude: 50.5477
 longitude: 3.05301
 postcode: "59113"
 city: Seclin
-street: "Rue du Commerce"
-housenumber: 90
+street: Rue du Commerce
+housenumber: "90"
 phone: ""
-opening_hours: "lundi au samedi 10h à 19h"
+opening_hours: lundi au samedi 10h à 19h
 website: ""

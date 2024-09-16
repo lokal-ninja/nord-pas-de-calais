@@ -1,11 +1,11 @@
 id: 275344438
-type: way
+type: node
 latitude: 51.06984
 longitude: 2.56078
 postcode: ""
 city: Adinkerke
-street: "Duinkerkekeiweg"
-housenumber: 22
-phone: "+32 58 42 09 20"
-opening_hours: "Mo-Su 08:00-22:00"
+street: Duinkerkekeiweg
+housenumber: "22"
+phone: +32 58 42 09 20
+opening_hours: Mo-Su 08:00-22:00
 website: ""

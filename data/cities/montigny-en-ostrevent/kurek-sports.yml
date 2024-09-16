@@ -4,8 +4,8 @@ latitude: 50.3749
 longitude: 3.19003
 postcode: "59182"
 city: Montigny-en-Ostrevent
-street: "Rue des Charmes"
-housenumber: 
+street: Rue des Charmes
+housenumber: ""
 phone: ""
-opening_hours: "Mo 14:00-18:30; Tu-Fr 09:30-12:00,14:00-18:30; Sa 10:00-18:00"
-website: "https://kureksports.fr/"
+opening_hours: Mo 14:00-18:30; Tu-Fr 09:30-12:00,14:00-18:30; Sa 10:00-18:00
+website: https://kureksports.fr/

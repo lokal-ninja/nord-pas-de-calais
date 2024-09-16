@@ -1,11 +1,11 @@
 id: 136676870
-type: way
+type: node
 latitude: 50.52932
 longitude: 2.63918
 postcode: "62400"
 city: Béthune
-street: "Rue d'Arras"
-housenumber: 62
-phone: "+33 3 21 57 06 27"
+street: Rue d'Arras
+housenumber: "62"
+phone: +33 3 21 57 06 27
 opening_hours: ""
 website: ""

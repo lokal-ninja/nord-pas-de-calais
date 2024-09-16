@@ -1,11 +1,11 @@
 id: 100900066
-type: way
+type: node
 latitude: 50.3691
 longitude: 3.07764
 postcode: "59500"
 city: Douai
-street: "Place du Marché aux Poissons"
-housenumber: 2
+street: Place du Marché aux Poissons
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

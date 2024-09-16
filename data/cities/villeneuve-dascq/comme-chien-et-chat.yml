@@ -4,8 +4,8 @@ latitude: 50.61993
 longitude: 3.14654
 postcode: "59650"
 city: Villeneuve-d'Ascq
-street: "Boulevard Georges Bizet"
-housenumber: 31
-phone: "+33 3 20 47 42 66"
-opening_hours: "Mo-We 08:00-17:00; Th off; Fr-Sa 08:00-17:00; Su off"
+street: Boulevard Georges Bizet
+housenumber: "31"
+phone: +33 3 20 47 42 66
+opening_hours: Mo-We 08:00-17:00; Th off; Fr-Sa 08:00-17:00; Su off
 website: ""

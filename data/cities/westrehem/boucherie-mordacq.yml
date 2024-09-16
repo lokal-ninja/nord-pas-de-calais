@@ -4,8 +4,8 @@ latitude: 50.54631
 longitude: 2.34568
 postcode: "62960"
 city: Westrehem
-street: "Rue d'Hesdin"
-housenumber: 30
-phone: "+33 3 21 25 80 18"
-opening_hours: "Tu-Sa 08:00-13:00, 14:00-19:00; Su 08:00-12:00"
+street: Rue d'Hesdin
+housenumber: "30"
+phone: +33 3 21 25 80 18
+opening_hours: Tu-Sa 08:00-13:00, 14:00-19:00; Su 08:00-12:00
 website: ""

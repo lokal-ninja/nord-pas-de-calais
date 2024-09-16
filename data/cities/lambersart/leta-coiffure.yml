@@ -4,8 +4,8 @@ latitude: 50.63994
 longitude: 3.01943
 postcode: "59130"
 city: Lambersart
-street: "Avenue de Dunkerque"
-housenumber: 370
+street: Avenue de Dunkerque
+housenumber: "370"
 phone: ""
-opening_hours: "Tu-Th 08:00-19:00; Sa 08:00-18:00; Fr 08:00-19:00"
-website: "https://letacoiffurelambersart.fr"
+opening_hours: Tu-Th 08:00-19:00; Sa 08:00-18:00; Fr 08:00-19:00
+website: https://letacoiffurelambersart.fr

@@ -4,8 +4,8 @@ latitude: 50.63453
 longitude: 3.06742
 postcode: ""
 city: Lille
-street: "Rue Pierre Mauroy"
-housenumber: 80
-phone: "+33 3 28 82 92 20"
-opening_hours: "Mo-Sa 08:30-21:00"
-website: "https://www.monoprix.fr/monoprix-lille-tanneurs-lille-59800-s"
+street: Rue Pierre Mauroy
+housenumber: "80"
+phone: +33 3 28 82 92 20
+opening_hours: Mo-Sa 08:30-21:00
+website: https://www.monoprix.fr/monoprix-lille-tanneurs-lille-59800-s

@@ -1,11 +1,11 @@
 id: 244686418
-type: way
+type: node
 latitude: 50.66993
 longitude: 1.82426
 postcode: "62240"
 city: Desvres
-street: "Route de Boulogne"
-housenumber: 
-phone: "+33 3 21 91 71 31"
-opening_hours: "Mo-Sa 08:30-20:00; Su 08:30-12:30"
-website: "https://www.carrefour.fr/magasin/market-desvres"
+street: Route de Boulogne
+housenumber: ""
+phone: +33 3 21 91 71 31
+opening_hours: Mo-Sa 08:30-20:00; Su 08:30-12:30
+website: https://www.carrefour.fr/magasin/market-desvres

@@ -1,11 +1,11 @@
 id: 139629223
-type: way
+type: node
 latitude: 50.68613
 longitude: 2.84202
 postcode: "59850"
 city: Nieppe
-street: "Ruelle du Bailly"
-housenumber: 
-phone: "+33 3 20 48 53 15"
-opening_hours: "Mo-Sa 08:30-20:00; Su 09:00-12:30"
-website: "https://www.magasins-u.com/magasin/hyperu-nieppe"
+street: Ruelle du Bailly
+housenumber: ""
+phone: +33 3 20 48 53 15
+opening_hours: Mo-Sa 08:30-20:00; Su 09:00-12:30
+website: https://www.magasins-u.com/magasin/hyperu-nieppe

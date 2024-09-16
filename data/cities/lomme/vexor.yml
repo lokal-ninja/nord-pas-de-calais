@@ -1,11 +1,11 @@
 id: 108192539
-type: way
+type: node
 latitude: 50.64409
 longitude: 3.00692
 postcode: "59160"
 city: Lomme
-street: "Rue Lavoisier"
-housenumber: 15
+street: Rue Lavoisier
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

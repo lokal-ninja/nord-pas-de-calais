@@ -1,11 +1,11 @@
 id: 125561464
-type: way
+type: node
 latitude: 50.55592
 longitude: 3.03532
 postcode: "59113"
 city: Seclin
-street: "Avenue de la République"
-housenumber: 
-phone: "+33 3 20 32 26 48"
-opening_hours: "Mo-Sa 09:00-12:00,14:00-19:00"
-website: "https://www.jmt-alimentation-animale.com/magasins/jmt-seclin/"
+street: Avenue de la République
+housenumber: ""
+phone: +33 3 20 32 26 48
+opening_hours: Mo-Sa 09:00-12:00,14:00-19:00
+website: https://www.jmt-alimentation-animale.com/magasins/jmt-seclin/

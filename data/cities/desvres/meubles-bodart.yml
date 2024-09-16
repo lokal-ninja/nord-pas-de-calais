@@ -1,11 +1,11 @@
 id: 244687508
-type: way
+type: node
 latitude: 50.66793
 longitude: 1.82969
 postcode: "62240"
 city: Desvres
-street: "Rue des Écoles"
-housenumber: 18
-phone: "+33 3 21 91 64 44"
+street: Rue des Écoles
+housenumber: "18"
+phone: +33 3 21 91 64 44
 opening_hours: ""
-website: "https://www.meublesbodart.com/"
+website: https://www.meublesbodart.com/

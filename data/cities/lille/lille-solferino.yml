@@ -4,8 +4,8 @@ latitude: 50.63298
 longitude: 3.05127
 postcode: "59000"
 city: Lille
-street: "Rue de Solférino"
-housenumber: 93
-phone: "+33 3 20 30 99 00"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.biocoop-lillesolferino.fr"
+street: Rue de Solférino
+housenumber: "93"
+phone: +33 3 20 30 99 00
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.biocoop-lillesolferino.fr

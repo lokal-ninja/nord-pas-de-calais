@@ -1,11 +1,11 @@
 id: 1288378078
-type: way
+type: node
 latitude: 50.11323
 longitude: 3.20894
 postcode: "59241"
 city: Masnières
-street: "Rue Lain"
-housenumber: 2
-phone: "+33 6 71 09 98 51"
-opening_hours: "Tu-Fr 09:00-12:30,14:00-18:30; Sa 10:00-12:30,14:30-18:00"
-website: "https://car-diffusion.wixsite.com/website/accueil"
+street: Rue Lain
+housenumber: "2"
+phone: +33 6 71 09 98 51
+opening_hours: Tu-Fr 09:00-12:30,14:00-18:30; Sa 10:00-12:30,14:30-18:00
+website: https://car-diffusion.wixsite.com/website/accueil

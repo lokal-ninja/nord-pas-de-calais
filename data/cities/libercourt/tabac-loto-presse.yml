@@ -1,11 +1,11 @@
 id: 240755460
-type: way
+type: node
 latitude: 50.48325
 longitude: 3.01517
 postcode: "62820"
 city: Libercourt
-street: "Rue Cyprien Quinet"
-housenumber: 86
+street: Rue Cyprien Quinet
+housenumber: "86"
 phone: ""
 opening_hours: ""
 website: ""

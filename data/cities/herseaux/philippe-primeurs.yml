@@ -1,11 +1,11 @@
 id: 318631302
-type: way
+type: node
 latitude: 50.71127
 longitude: 3.21965
 postcode: "7712"
 city: Herseaux
-street: "Rue de la Broche de Fer"
-housenumber: 263
-phone: "+32 56 55 66 15"
+street: Rue de la Broche de Fer
+housenumber: "263"
+phone: +32 56 55 66 15
 opening_hours: ""
-website: "http://www.philippeprimeurs.be"
+website: http://www.philippeprimeurs.be

@@ -1,11 +1,11 @@
 id: 106149188
-type: way
+type: node
 latitude: 50.42624
 longitude: 2.80246
 postcode: "62300"
 city: Lens
-street: "Avenue Alfred Maës"
-housenumber: 273
+street: Avenue Alfred Maës
+housenumber: "273"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 52152973
-type: way
+type: node
 latitude: 50.66735
 longitude: 3.21097
 postcode: "59390"
 city: Lannoy
-street: "Place Carnot"
-housenumber: 11
+street: Place Carnot
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

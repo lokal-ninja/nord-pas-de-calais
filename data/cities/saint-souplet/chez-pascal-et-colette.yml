@@ -1,11 +1,11 @@
 id: 87150783
-type: way
+type: node
 latitude: 50.05662
 longitude: 3.53656
 postcode: "59360"
 city: Saint-Souplet
-street: "Rue de Saint-Crépin"
-housenumber: 1
+street: Rue de Saint-Crépin
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 123238065
-type: way
+type: node
 latitude: 50.77836
 longitude: 1.61197
 postcode: "62930"
 city: Wimereux
-street: "Rue du Bon Air"
-housenumber: 3
-phone: "+33 3 21 87 23 56"
+street: Rue du Bon Air
+housenumber: "3"
+phone: +33 3 21 87 23 56
 opening_hours: ""
-website: "https://www.intermarche.com/magasins/50369/wimereux-62930/infos-pratiques"
+website: https://www.intermarche.com/magasins/50369/wimereux-62930/infos-pratiques

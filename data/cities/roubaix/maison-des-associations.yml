@@ -1,11 +1,11 @@
 id: 78706382
-type: way
+type: node
 latitude: 50.69147
 longitude: 3.17821
 postcode: "59100"
 city: Roubaix
-street: "Place de la Liberté"
-housenumber: 24
+street: Place de la Liberté
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

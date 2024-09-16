@@ -1,11 +1,11 @@
 id: 240840434
-type: way
+type: node
 latitude: 50.44597
 longitude: 2.94708
 postcode: "62710"
 city: Courrières
-street: "Rue Raoul Briquet"
-housenumber: 120
-phone: "+33 3 21 13 88 00"
-opening_hours: "Mo-Sa 08:30-21:00, Su 09:00-12:30"
-website: "https://www.cora.fr/courrieres"
+street: Rue Raoul Briquet
+housenumber: "120"
+phone: +33 3 21 13 88 00
+opening_hours: Mo-Sa 08:30-21:00, Su 09:00-12:30
+website: https://www.cora.fr/courrieres

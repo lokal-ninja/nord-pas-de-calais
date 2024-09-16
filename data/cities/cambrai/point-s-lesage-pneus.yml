@@ -1,11 +1,11 @@
 id: 200116984
-type: way
+type: node
 latitude: 50.17733
 longitude: 3.23848
 postcode: "59400"
 city: Cambrai
-street: "Boulevard Faidherbe"
-housenumber: 28
-phone: "+33 3 27 83 84 85"
-opening_hours: "Mo-Fr 08:30-12:00,14:00-18:00; Sa 08:30-12:00"
+street: Boulevard Faidherbe
+housenumber: "28"
+phone: +33 3 27 83 84 85
+opening_hours: Mo-Fr 08:30-12:00,14:00-18:00; Sa 08:30-12:00
 website: ""

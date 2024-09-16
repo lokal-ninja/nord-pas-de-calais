@@ -4,8 +4,8 @@ latitude: 50.14791
 longitude: 3.22235
 postcode: "59400"
 city: Cambrai
-street: "Avenue Georges Nuttin"
-housenumber: 2
-phone: "+33 3 27 79 60 07"
-opening_hours: "Mo-Sa 9:30-19:30"
-website: "https://www.morgandetoi.fr"
+street: Avenue Georges Nuttin
+housenumber: "2"
+phone: +33 3 27 79 60 07
+opening_hours: Mo-Sa 9:30-19:30
+website: https://www.morgandetoi.fr

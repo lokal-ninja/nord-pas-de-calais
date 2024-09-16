@@ -4,8 +4,8 @@ latitude: 50.72528
 longitude: 1.60485
 postcode: "62200"
 city: Boulogne-sur-Mer
-street: "Place de Lorraine"
-housenumber: 5
+street: Place de Lorraine
+housenumber: "5"
 phone: "+33603176485"
-opening_hours: "14:30-18:30"
+opening_hours: 14:30-18:30
 website: ""

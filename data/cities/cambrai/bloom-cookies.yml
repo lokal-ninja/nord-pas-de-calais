@@ -4,8 +4,8 @@ latitude: 50.17637
 longitude: 3.23569
 postcode: "59400"
 city: Cambrai
-street: "Rue des Chaudronniers"
-housenumber: 2
-phone: "+33 7 50 52 64 22"
-opening_hours: "Tu-Sa 10:00-18:00"
-website: "https://bloomcookies.fr/"
+street: Rue des Chaudronniers
+housenumber: "2"
+phone: +33 7 50 52 64 22
+opening_hours: Tu-Sa 10:00-18:00
+website: https://bloomcookies.fr/

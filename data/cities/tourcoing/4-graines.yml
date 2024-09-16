@@ -4,8 +4,8 @@ latitude: 50.72233
 longitude: 3.16188
 postcode: "59200"
 city: Tourcoing
-street: "Rue de la Cloche"
-housenumber: 21
-phone: "+33 3 59 05 66 74"
-opening_hours: "Mo-Sa 06:30-19:30"
+street: Rue de la Cloche
+housenumber: "21"
+phone: +33 3 59 05 66 74
+opening_hours: Mo-Sa 06:30-19:30
 website: ""

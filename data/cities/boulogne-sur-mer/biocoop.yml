@@ -4,8 +4,8 @@ latitude: 50.72515
 longitude: 1.60332
 postcode: "62200"
 city: Boulogne-sur-Mer
-street: "Rue Edmond Rostand"
-housenumber: 17
-phone: "+33 3 21 32 65 53"
-opening_hours: "Mo 14:30-19:00; Tu-Th 09:30-12:30,14:30-19:00; Fr 09:30-19:00; Sa 09:00-19:00"
-website: "https://www.biocoop-boulognesurmer.fr/"
+street: Rue Edmond Rostand
+housenumber: "17"
+phone: +33 3 21 32 65 53
+opening_hours: Mo 14:30-19:00; Tu-Th 09:30-12:30,14:30-19:00; Fr 09:30-19:00; Sa 09:00-19:00
+website: https://www.biocoop-boulognesurmer.fr/

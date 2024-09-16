@@ -1,11 +1,11 @@
 id: 220108740
-type: way
+type: node
 latitude: 50.37744
 longitude: 3.47454
 postcode: "59494"
 city: Petite-Forêt
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.des-marques-et-vous.com/"
+website: https://www.des-marques-et-vous.com/

@@ -1,11 +1,11 @@
 id: 78121939
-type: way
+type: node
 latitude: 50.51484
 longitude: 2.62165
 postcode: ""
 city: Fouquières-lès-Béthune
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.decathlon.fr/fr/store?store_id=PS_69"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.decathlon.fr/fr/store?store_id=PS_69

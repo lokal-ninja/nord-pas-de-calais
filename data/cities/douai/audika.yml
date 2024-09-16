@@ -1,11 +1,11 @@
 id: 100895654
-type: way
+type: node
 latitude: 50.36778
 longitude: 3.08352
 postcode: "59500"
 city: Douai
-street: "Place d'Armes"
-housenumber: 135
-phone: "+33 3 27 99 00 60"
+street: Place d'Armes
+housenumber: "135"
+phone: +33 3 27 99 00 60
 opening_hours: ""
-website: "https://www.audika.fr/centres/nord/audioprothesiste-audika-douai"
+website: https://www.audika.fr/centres/nord/audioprothesiste-audika-douai

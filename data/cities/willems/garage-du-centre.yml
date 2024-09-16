@@ -1,11 +1,11 @@
 id: 56027862
-type: way
+type: node
 latitude: 50.62643
 longitude: 3.23454
 postcode: "59780"
 city: Willems
-street: "Rue de la République"
-housenumber: 89
+street: Rue de la République
+housenumber: "89"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.63792
 longitude: 3.05954
 postcode: "59000"
 city: Lille
-street: "Rue de la Chambre des Comptes"
-housenumber: 12
-phone: "+33 3 20 55 41 41"
+street: Rue de la Chambre des Comptes
+housenumber: "12"
+phone: +33 3 20 55 41 41
 opening_hours: ""
-website: "https://www.blisspourlhomme.com/"
+website: https://www.blisspourlhomme.com/

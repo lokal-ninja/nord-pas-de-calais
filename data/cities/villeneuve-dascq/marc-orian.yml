@@ -5,7 +5,7 @@ longitude: 3.13131
 postcode: "59650"
 city: Villeneuve-d'Ascq
 street: ""
-housenumber: 
+housenumber: ""
 phone: "+33320913399"
-opening_hours: "Mo-Sa 09:30-20:30"
-website: "https://www.marc-orian.com/fr_FR/details/magasin/?storeID=366"
+opening_hours: Mo-Sa 09:30-20:30
+website: https://www.marc-orian.com/fr_FR/details/magasin/?storeID=366

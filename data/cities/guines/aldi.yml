@@ -1,11 +1,11 @@
 id: 203848705
-type: way
+type: node
 latitude: 50.87492
 longitude: 1.86935
 postcode: "62340"
 city: Guînes
-street: "Rue Aristide Briand"
-housenumber: 75
+street: Rue Aristide Briand
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.72217
 longitude: 1.60707
 postcode: "62200"
 city: Boulogne-sur-Mer
-street: "Rue Nationale"
-housenumber: 41
-phone: "+33 3 21 30 62 71"
-opening_hours: "Mo 14:00-19:00; Tu-We 09:00-12:00, 14:00-19:00; Th-Sa 09:00-19:00"
+street: Rue Nationale
+housenumber: "41"
+phone: +33 3 21 30 62 71
+opening_hours: Mo 14:00-19:00; Tu-We 09:00-12:00, 14:00-19:00; Th-Sa 09:00-19:00
 website: ""

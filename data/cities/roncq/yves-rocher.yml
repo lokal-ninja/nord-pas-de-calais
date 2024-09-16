@@ -4,8 +4,8 @@ latitude: 50.73816
 longitude: 3.13606
 postcode: "59223"
 city: Roncq
-street: "Boulevard d'Halluin"
-housenumber: 1
+street: Boulevard d'Halluin
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 10:00-13:00, 14:00-19:00"
-website: "http://yves-rocher.fr/roncq"
+opening_hours: Mo-Sa 10:00-13:00, 14:00-19:00
+website: http://yves-rocher.fr/roncq

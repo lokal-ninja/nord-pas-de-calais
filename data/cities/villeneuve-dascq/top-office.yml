@@ -1,11 +1,11 @@
 id: 79049569
-type: way
+type: node
 latitude: 50.61734
 longitude: 3.12591
 postcode: "59650"
 city: Villeneuve-d'Ascq
-street: "Boulevard de Valmy"
-housenumber: 143
+street: Boulevard de Valmy
+housenumber: "143"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

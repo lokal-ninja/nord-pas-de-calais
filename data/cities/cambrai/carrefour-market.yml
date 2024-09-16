@@ -1,11 +1,11 @@
 id: 201954677
-type: way
+type: node
 latitude: 50.16365
 longitude: 3.24967
 postcode: ""
 city: Cambrai
 street: ""
-housenumber: 
-phone: "+33 3 27 81 37 20"
-opening_hours: "Mo-Sa 08:30-19:30; Su 08:30-12:30"
-website: "https://www.carrefour.fr/magasin/market-cambrai"
+housenumber: ""
+phone: +33 3 27 81 37 20
+opening_hours: Mo-Sa 08:30-19:30; Su 08:30-12:30
+website: https://www.carrefour.fr/magasin/market-cambrai

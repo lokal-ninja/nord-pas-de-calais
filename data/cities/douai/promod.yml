@@ -1,11 +1,11 @@
 id: 100897799
-type: way
+type: node
 latitude: 50.3686
 longitude: 3.08222
 postcode: "59500"
 city: Douai
-street: "Rue de Bellain"
-housenumber: 62
-phone: "+33 3 74 52 02 00"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://magasins.promod.fr/fr/magasins/france-fra/douai/promod-douai-bellain-4"
+street: Rue de Bellain
+housenumber: "62"
+phone: +33 3 74 52 02 00
+opening_hours: Mo-Sa 09:00-19:00
+website: https://magasins.promod.fr/fr/magasins/france-fra/douai/promod-douai-bellain-4

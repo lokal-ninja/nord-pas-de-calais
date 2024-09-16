@@ -4,8 +4,8 @@ latitude: 50.63384
 longitude: 3.0618
 postcode: "59800"
 city: Lille
-street: "Rue de l'Hôpital Militaire"
-housenumber: 32
+street: Rue de l'Hôpital Militaire
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Sa 14:00-19:00"
+opening_hours: Mo-Sa 14:00-19:00
 website: ""

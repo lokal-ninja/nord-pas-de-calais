@@ -1,11 +1,11 @@
 id: 39574584
-type: way
+type: node
 latitude: 50.62842
 longitude: 3.01698
 postcode: "59160"
 city: Lomme
-street: "Rue Hegel"
-housenumber: 14
+street: Rue Hegel
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

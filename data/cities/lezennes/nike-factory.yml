@@ -4,8 +4,8 @@ latitude: 50.6143
 longitude: 3.12449
 postcode: "59260"
 city: Lezennes
-street: "Boulevard de Tournai"
-housenumber: 
+street: Boulevard de Tournai
+housenumber: ""
 phone: "+33366480227"
-opening_hours: "Mo-Sa 10:00-19:30"
-website: "https://www.nike.com/fr/retail/s/lille-nike-factory-store?exclude=4334&latitude=50.614284&longitude=3.124554&page=1&storesPerPage=3"
+opening_hours: Mo-Sa 10:00-19:30
+website: https://www.nike.com/fr/retail/s/lille-nike-factory-store?exclude=4334&latitude=50.614284&longitude=3.124554&page=1&storesPerPage=3

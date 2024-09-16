@@ -1,11 +1,11 @@
 id: 76430670
-type: way
+type: node
 latitude: 51.0409
 longitude: 2.39089
 postcode: ""
 city: Dunkerque
-street: "Rue Hilaire Van Mairis"
-housenumber: 
-phone: "+33 3 28 63 21 66"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.carrefour.fr/magasin/contact-rosendael"
+street: Rue Hilaire Van Mairis
+housenumber: ""
+phone: +33 3 28 63 21 66
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.carrefour.fr/magasin/contact-rosendael

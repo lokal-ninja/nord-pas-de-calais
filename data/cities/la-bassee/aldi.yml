@@ -1,11 +1,11 @@
 id: 126635436
-type: way
+type: node
 latitude: 50.53758
 longitude: 2.81502
 postcode: "59480"
 city: La Bassée
-street: "Rue de Lille"
-housenumber: 71
+street: Rue de Lille
+housenumber: "71"
 phone: ""
 opening_hours: ""
 website: ""

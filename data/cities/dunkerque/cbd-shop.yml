@@ -1,11 +1,11 @@
 id: 76433971
-type: way
+type: node
 latitude: 51.0354
 longitude: 2.3731
 postcode: "59140"
 city: Dunkerque
-street: "Rue de l'Amiral Ronarc'h"
-housenumber: 71
+street: Rue de l'Amiral Ronarc'h
+housenumber: "71"
 phone: "+33361172905"
-opening_hours: "Mo-Sa 10:30-18:30"
+opening_hours: Mo-Sa 10:30-18:30
 website: ""

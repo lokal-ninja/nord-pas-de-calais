@@ -1,11 +1,11 @@
 id: 156521551
-type: way
+type: node
 latitude: 50.67871
 longitude: 3.13625
 postcode: "59290"
 city: Wasquehal
-street: "Rue Jean Jaurès"
-housenumber: 4
+street: Rue Jean Jaurès
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

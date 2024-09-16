@@ -1,11 +1,11 @@
 id: 100899226
-type: way
+type: node
 latitude: 50.36824
 longitude: 3.08015
 postcode: "59500"
 city: Douai
-street: "Rue de la Mairie"
-housenumber: 134
+street: Rue de la Mairie
+housenumber: "134"
 phone: ""
 opening_hours: ""
 website: ""

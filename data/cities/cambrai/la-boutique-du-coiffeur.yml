@@ -4,8 +4,8 @@ latitude: 50.14776
 longitude: 3.22228
 postcode: "59400"
 city: Cambrai
-street: "Avenue Georges Nuttin"
-housenumber: 2
-phone: "+33 3 74 97 00 40"
-opening_hours: "Mo-Sa 9:30-19:30"
+street: Avenue Georges Nuttin
+housenumber: "2"
+phone: +33 3 74 97 00 40
+opening_hours: Mo-Sa 9:30-19:30
 website: ""

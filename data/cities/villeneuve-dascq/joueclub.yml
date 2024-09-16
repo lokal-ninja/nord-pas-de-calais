@@ -4,8 +4,8 @@ latitude: 50.61502
 longitude: 3.12558
 postcode: "59650"
 city: Villeneuve-d'Ascq
-street: "Avenue de l'Avenir"
-housenumber: 21
-phone: "+33 3 28 07 63 63"
-opening_hours: "Mo-Sa 10:30-19:00"
-website: "https://www.joueclub.fr/villeneuve-dascq.html"
+street: Avenue de l'Avenir
+housenumber: "21"
+phone: +33 3 28 07 63 63
+opening_hours: Mo-Sa 10:30-19:00
+website: https://www.joueclub.fr/villeneuve-dascq.html

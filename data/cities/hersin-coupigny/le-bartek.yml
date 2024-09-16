@@ -1,11 +1,11 @@
 id: 203773885
-type: way
+type: node
 latitude: 50.44936
 longitude: 2.64887
 postcode: "62530"
 city: Hersin-Coupigny
-street: "Rue Jean Jaurès"
-housenumber: 14
+street: Rue Jean Jaurès
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

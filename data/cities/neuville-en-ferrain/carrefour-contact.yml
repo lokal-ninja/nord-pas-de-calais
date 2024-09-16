@@ -1,11 +1,11 @@
 id: 78586015
-type: way
+type: node
 latitude: 50.75012
 longitude: 3.15536
 postcode: "59960"
 city: Neuville-en-Ferrain
-street: "Rue de Tourcoing"
-housenumber: 
-phone: "+33 3 20 27 98 85"
-opening_hours: "Mo-Sa 07:30-21:00; Su 08:00-13:00"
-website: "https://www.carrefour.fr/magasin/contact-neuville-en-ferrain"
+street: Rue de Tourcoing
+housenumber: ""
+phone: +33 3 20 27 98 85
+opening_hours: Mo-Sa 07:30-21:00; Su 08:00-13:00
+website: https://www.carrefour.fr/magasin/contact-neuville-en-ferrain

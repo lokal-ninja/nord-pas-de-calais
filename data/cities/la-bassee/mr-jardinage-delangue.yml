@@ -1,11 +1,12 @@
 id: 126634678
-type: way
+type: node
 latitude: 50.53558
 longitude: 2.81431
 postcode: "59480"
 city: La Bassée
-street: "Rue de Lille"
-housenumber: 59
-phone: "+33 3 20 29 21 03"
-opening_hours: "Mar-Jun Mo-Sa 08:30-12:30,13:30-19:00; Jul-Oct Mo-Sa 08:30-12:00,14:00-18:00; Nov-Feb 08:30-12:00,14:00-17:00"
-website: "https://www.delangue.com/"
+street: Rue de Lille
+housenumber: "59"
+phone: +33 3 20 29 21 03
+opening_hours: Mar-Jun Mo-Sa 08:30-12:30,13:30-19:00; Jul-Oct Mo-Sa 08:30-12:00,14:00-18:00;
+    Nov-Feb 08:30-12:00,14:00-17:00
+website: https://www.delangue.com/

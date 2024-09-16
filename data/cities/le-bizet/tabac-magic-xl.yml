@@ -1,11 +1,11 @@
 id: 852709398
-type: way
+type: node
 latitude: 50.70629
 longitude: 2.86659
 postcode: ""
 city: Le Bizet
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su 09:00-20:00"
-website: "https://www.tabacmagic.be/tm1.php"
+opening_hours: Mo-Sa 07:00-20:00; Su 09:00-20:00
+website: https://www.tabacmagic.be/tm1.php

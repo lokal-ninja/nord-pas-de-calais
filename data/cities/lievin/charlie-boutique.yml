@@ -4,8 +4,8 @@ latitude: 50.42059
 longitude: 2.77679
 postcode: "62800"
 city: Liévin
-street: "Rue Jean-Baptiste Defernez"
-housenumber: 119
-phone: "+33 3 21 44 37 50"
-opening_hours: "Mo-Fr 09:30-12:00,14:00-19:00; Sa 09:30-12:00,14:00-18:30"
-website: "https://www.boutique-charlie.fr"
+street: Rue Jean-Baptiste Defernez
+housenumber: "119"
+phone: +33 3 21 44 37 50
+opening_hours: Mo-Fr 09:30-12:00,14:00-19:00; Sa 09:30-12:00,14:00-18:30
+website: https://www.boutique-charlie.fr

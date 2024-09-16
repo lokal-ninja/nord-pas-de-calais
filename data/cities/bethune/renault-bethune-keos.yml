@@ -1,11 +1,11 @@
 id: 156208176
-type: way
+type: node
 latitude: 50.51732
 longitude: 2.62217
 postcode: ""
 city: Béthune
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-12:00, 14:00-19:00"
-website: "https://www.renault-bethune.fr/"
+opening_hours: Mo-Sa 08:00-12:00, 14:00-19:00
+website: https://www.renault-bethune.fr/

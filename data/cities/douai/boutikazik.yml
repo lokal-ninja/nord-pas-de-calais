@@ -1,11 +1,11 @@
 id: 100895952
-type: way
+type: node
 latitude: 50.37013
 longitude: 3.08282
 postcode: "59500"
 city: Douai
-street: "Rue de la Madeleine"
-housenumber: 53
+street: Rue de la Madeleine
+housenumber: "53"
 phone: ""
 opening_hours: ""
-website: "https://www.instagram.com/boutikazikdouai/"
+website: https://www.instagram.com/boutikazikdouai/

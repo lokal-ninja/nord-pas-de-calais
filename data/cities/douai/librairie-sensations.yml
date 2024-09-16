@@ -1,11 +1,11 @@
 id: 100898291
-type: way
+type: node
 latitude: 50.37015
 longitude: 3.08323
 postcode: "59500"
 city: Douai
-street: "Rue de la Madeleine"
-housenumber: 60
-phone: "+33 3 27 90 42 66"
+street: Rue de la Madeleine
+housenumber: "60"
+phone: +33 3 27 90 42 66
 opening_hours: ""
-website: "https://www.facebook.com/p/Librairie-Sensations-61555412644211/"
+website: https://www.facebook.com/p/Librairie-Sensations-61555412644211/

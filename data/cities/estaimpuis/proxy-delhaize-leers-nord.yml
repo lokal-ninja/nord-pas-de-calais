@@ -1,11 +1,11 @@
 id: 1292467672
-type: way
+type: node
 latitude: 50.68561
 longitude: 3.25819
 postcode: "7730"
 city: Estaimpuis
-street: "Chemin mitoyen"
-housenumber: 4
+street: Chemin mitoyen
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

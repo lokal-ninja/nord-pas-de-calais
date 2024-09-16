@@ -4,8 +4,8 @@ latitude: 50.51596
 longitude: 1.66653
 postcode: "62630"
 city: Étaples
-street: "Boulevard du Valigot"
-housenumber: 
+street: Boulevard du Valigot
+housenumber: ""
 phone: "+33321091119"
 opening_hours: ""
-website: "https://agents.peugeot.fr/magniers-etaples"
+website: https://agents.peugeot.fr/magniers-etaples

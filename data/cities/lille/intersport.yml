@@ -4,8 +4,8 @@ latitude: 50.63744
 longitude: 3.07227
 postcode: "59777"
 city: Lille
-street: "Avenue Willy Brandt"
-housenumber: 100
+street: Avenue Willy Brandt
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.go-sport.com/stores?lang=default#/stores/1013"
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.go-sport.com/stores?lang=default#/stores/1013

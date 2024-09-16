@@ -4,8 +4,8 @@ latitude: 50.16867
 longitude: 3.23088
 postcode: "59400"
 city: Cambrai
-street: "Avenue de Paris"
-housenumber: 1
-phone: "+33 3 74 01 40 15"
-opening_hours: "Mo-Fr 09:00-12:30,13:30-18:00"
+street: Avenue de Paris
+housenumber: "1"
+phone: +33 3 74 01 40 15
+opening_hours: Mo-Fr 09:00-12:30,13:30-18:00
 website: ""

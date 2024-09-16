@@ -1,11 +1,11 @@
 id: 77463651
-type: way
+type: node
 latitude: 50.63637
 longitude: 3.12848
 postcode: "59650"
 city: Villeneuve-d'Ascq
-street: "Place de la Liberté"
-housenumber: 6
-phone: "+33 3 20 56 80 59"
+street: Place de la Liberté
+housenumber: "6"
+phone: +33 3 20 56 80 59
 opening_hours: ""
-website: "https://www.facebook.com/Boulangerie-P%C3%A2tisserie-Ghys-Villeneuve-dAscq-239185440351010/"
+website: https://www.facebook.com/Boulangerie-P%C3%A2tisserie-Ghys-Villeneuve-dAscq-239185440351010/

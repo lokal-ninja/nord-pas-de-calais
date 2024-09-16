@@ -1,11 +1,11 @@
 id: 110671658
-type: way
+type: node
 latitude: 50.70391
 longitude: 2.83822
 postcode: "59850"
 city: Nieppe
-street: "Rue du Docteur Henri Vanuxem"
-housenumber: 22
+street: Rue du Docteur Henri Vanuxem
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

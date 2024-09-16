@@ -4,8 +4,8 @@ latitude: 50.69265
 longitude: 3.17299
 postcode: "59100"
 city: Roubaix
-street: "Rue du Vieil Abreuvoir"
-housenumber: 35
+street: Rue du Vieil Abreuvoir
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,14:00-19:30; Sa 09:00-14:00"
-website: "https://www.electrosatdoc.fr"
+opening_hours: Mo-Fr 09:00-12:00,14:00-19:30; Sa 09:00-14:00
+website: https://www.electrosatdoc.fr

@@ -1,11 +1,12 @@
 id: 243303160
-type: way
+type: node
 latitude: 50.49895
 longitude: 2.6978
 postcode: "62113"
 city: Sailly-Labourse
-street: "Route Nationale"
-housenumber: 64
-phone: "+33 3 21 61 24 01"
-opening_hours: "Tu, Th-Sa 09:00-12:00, 14:00-19:00; We 09:00-13:00; Su 09:30-13:00; Mo 14:00-19:00"
-website: "https://fontainefleurie1.e-monsite.com/"
+street: Route Nationale
+housenumber: "64"
+phone: +33 3 21 61 24 01
+opening_hours: Tu, Th-Sa 09:00-12:00, 14:00-19:00; We 09:00-13:00; Su 09:30-13:00;
+    Mo 14:00-19:00
+website: https://fontainefleurie1.e-monsite.com/

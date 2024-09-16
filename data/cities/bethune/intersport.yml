@@ -1,11 +1,11 @@
 id: 136677292
-type: way
+type: node
 latitude: 50.5244
 longitude: 2.62723
 postcode: "62400"
 city: Béthune
-street: "Rue de la Faïencerie"
-housenumber: 
+street: Rue de la Faïencerie
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

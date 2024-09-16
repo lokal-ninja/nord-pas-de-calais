@@ -1,11 +1,11 @@
 id: 64861773
-type: way
+type: node
 latitude: 50.6096
 longitude: 3.24679
 postcode: "59780"
 city: Baisieux
-street: "Rue de Tournai"
-housenumber: 2435
+street: Rue de Tournai
+housenumber: "2435"
 phone: ""
 opening_hours: ""
 website: ""

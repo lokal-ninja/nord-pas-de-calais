@@ -1,11 +1,11 @@
 id: 52152918
-type: way
+type: node
 latitude: 50.66749
 longitude: 3.21269
 postcode: "59390"
 city: Lannoy
-street: "Rue de Tournai"
-housenumber: 25
+street: Rue de Tournai
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

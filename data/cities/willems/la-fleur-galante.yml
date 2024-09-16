@@ -1,11 +1,11 @@
 id: 51562193
-type: way
+type: node
 latitude: 50.63219
 longitude: 3.23564
 postcode: "59780"
 city: Willems
-street: "Rue Jean-Baptiste Lebas"
-housenumber: 31
+street: Rue Jean-Baptiste Lebas
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

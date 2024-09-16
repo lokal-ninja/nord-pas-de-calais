@@ -1,11 +1,11 @@
 id: 104971583
-type: way
+type: node
 latitude: 50.57644
 longitude: 2.85458
 postcode: "59134"
 city: Herlies
-street: "Rue du Bourg"
-housenumber: 2
+street: Rue du Bourg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

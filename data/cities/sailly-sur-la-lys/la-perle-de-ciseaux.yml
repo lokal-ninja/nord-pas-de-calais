@@ -1,11 +1,11 @@
 id: 241668931
-type: way
+type: node
 latitude: 50.65933
 longitude: 2.76634
 postcode: "62840"
 city: Sailly-sur-la-Lys
-street: "Rue du Rietz"
-housenumber: 2
-phone: "+33 3 21 25 73 36"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-17:00"
+street: Rue du Rietz
+housenumber: "2"
+phone: +33 3 21 25 73 36
+opening_hours: Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-17:00
 website: ""

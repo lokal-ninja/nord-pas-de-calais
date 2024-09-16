@@ -1,11 +1,11 @@
 id: 74643800
-type: way
+type: node
 latitude: 50.66681
 longitude: 3.0785
 postcode: "59700"
 city: Marcq-en-Barœul
-street: "Rue Nationale"
-housenumber: 21
-phone: "+33 3 20 06 83 32"
-opening_hours: "Mo-Th 08:00-20:00; Fr,Sa 08:00-20:30; Su 08:30-12:45"
-website: "https://www.supermarchesmatch.fr/fr/details-magasin/0532/marcq-en-baroeul"
+street: Rue Nationale
+housenumber: "21"
+phone: +33 3 20 06 83 32
+opening_hours: Mo-Th 08:00-20:00; Fr,Sa 08:00-20:30; Su 08:30-12:45
+website: https://www.supermarchesmatch.fr/fr/details-magasin/0532/marcq-en-baroeul

@@ -1,11 +1,11 @@
 id: 108827438
-type: way
+type: node
 latitude: 50.4184
 longitude: 2.94694
 postcode: "62110"
 city: Hénin-Beaumont
-street: "Rue Pasteur"
-housenumber: 76
-phone: "+33 9 83 95 73 18"
-opening_hours: "Tu 09:30-18:30; We 10:00-18:00; Th-Fr 09:30-18:30; Sa 10:00-18:00"
-website: "https://passion-fromage.business.site/"
+street: Rue Pasteur
+housenumber: "76"
+phone: +33 9 83 95 73 18
+opening_hours: Tu 09:30-18:30; We 10:00-18:00; Th-Fr 09:30-18:30; Sa 10:00-18:00
+website: https://passion-fromage.business.site/

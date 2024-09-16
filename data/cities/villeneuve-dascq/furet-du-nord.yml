@@ -5,7 +5,7 @@ longitude: 3.13252
 postcode: "59650"
 city: Villeneuve-d'Ascq
 street: ""
-housenumber: 
+housenumber: ""
 phone: "+33320617060"
-opening_hours: "Mo-Sa 09:30-20:30"
-website: "https://www.furet.com/nos-magasins/villeneuve-d-ascq"
+opening_hours: Mo-Sa 09:30-20:30
+website: https://www.furet.com/nos-magasins/villeneuve-d-ascq

@@ -1,11 +1,11 @@
 id: 61219515
-type: way
+type: node
 latitude: 50.70976
 longitude: 3.15934
 postcode: "59200"
 city: Tourcoing
-street: "Boulevard Gambetta"
-housenumber: 186
+street: Boulevard Gambetta
+housenumber: "186"
 phone: ""
 opening_hours: ""
 website: ""

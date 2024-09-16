@@ -1,11 +1,11 @@
 id: 240855253
-type: way
+type: node
 latitude: 50.45679
 longitude: 2.94883
 postcode: "62710"
 city: Courrières
-street: "Rue des Fusillés"
-housenumber: 9
+street: Rue des Fusillés
+housenumber: "9"
 phone: ""
-opening_hours: "Mo 14:00-18:00; Tu-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00"
+opening_hours: Mo 14:00-18:00; Tu-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00
 website: ""

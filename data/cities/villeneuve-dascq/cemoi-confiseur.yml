@@ -1,11 +1,11 @@
 id: 79524108
-type: way
+type: node
 latitude: 50.61309
 longitude: 3.15628
 postcode: "59650"
 city: Villeneuve-d'Ascq
-street: "Rue des Fusillés"
-housenumber: 158
-phone: "+33 3 20 61 90 50"
+street: Rue des Fusillés
+housenumber: "158"
+phone: +33 3 20 61 90 50
 opening_hours: ""
-website: "https://www.cemoi.fr/"
+website: https://www.cemoi.fr/

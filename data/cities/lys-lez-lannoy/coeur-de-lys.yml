@@ -1,11 +1,11 @@
 id: 65175380
-type: way
+type: node
 latitude: 50.66426
 longitude: 3.21615
 postcode: "59390"
 city: Lys-lez-Lannoy
-street: "Rue du Général Leclerc"
-housenumber: 47
+street: Rue du Général Leclerc
+housenumber: "47"
 phone: ""
-opening_hours: "Sa 06:30-18:00; Mo 06:30-12:30; Tu closed; We-Fr 06:30-19:00"
+opening_hours: Sa 06:30-18:00; Mo 06:30-12:30; Tu closed; We-Fr 06:30-19:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.72318
 longitude: 1.60135
 postcode: "62200"
 city: Boulogne-sur-Mer
-street: "Boulevard François Mitterrand"
-housenumber: 
+street: Boulevard François Mitterrand
+housenumber: ""
 phone: ""
-opening_hours: "Apr 01-Oct 31 Mo-Su 09:30-19:00; Nov 01-Mar 31 We,Sa,Su 09:00-18:30"
-website: "http://www.rivagespropres.fr/cycleco.html"
+opening_hours: Apr 01-Oct 31 Mo-Su 09:30-19:00; Nov 01-Mar 31 We,Sa,Su 09:00-18:30
+website: http://www.rivagespropres.fr/cycleco.html

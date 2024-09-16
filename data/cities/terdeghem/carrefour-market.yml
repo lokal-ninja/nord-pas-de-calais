@@ -1,11 +1,11 @@
 id: 107040178
-type: way
+type: node
 latitude: 50.80489
 longitude: 2.58298
 postcode: "59114"
 city: Terdeghem
-street: "Route d'Eecke"
-housenumber: 144
-phone: "+33 3 28 49 72 72"
-opening_hours: "Mo-Sa 08:30-19:30; Su 08:30-12:30"
-website: "https://www.carrefour.fr/magasin/market-terdeghem"
+street: Route d'Eecke
+housenumber: "144"
+phone: +33 3 28 49 72 72
+opening_hours: Mo-Sa 08:30-19:30; Su 08:30-12:30
+website: https://www.carrefour.fr/magasin/market-terdeghem

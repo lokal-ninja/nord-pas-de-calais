@@ -1,11 +1,11 @@
 id: 245032199
-type: way
+type: node
 latitude: 50.83995
 longitude: 1.77474
 postcode: "62250"
 city: Landrethun-le-Nord
-street: "Rue Jean Monnet"
-housenumber: 
-phone: "+33 3 21 33 65 50"
-opening_hours: "Mo-Sa 08:00-20:00; Su 08:00-13:00"
-website: "https://www.carrefour.fr/magasin/contact-landrethun"
+street: Rue Jean Monnet
+housenumber: ""
+phone: +33 3 21 33 65 50
+opening_hours: Mo-Sa 08:00-20:00; Su 08:00-13:00
+website: https://www.carrefour.fr/magasin/contact-landrethun

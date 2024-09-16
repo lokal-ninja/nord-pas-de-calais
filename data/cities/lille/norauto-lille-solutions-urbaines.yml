@@ -4,8 +4,8 @@ latitude: 50.63486
 longitude: 3.06369
 postcode: "59000"
 city: Lille
-street: "Rue des Fossés"
-housenumber: 7
+street: Rue des Fossés
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://centres.norauto.fr/nord/lille/7-rue-des-fosses"
+website: https://centres.norauto.fr/nord/lille/7-rue-des-fosses

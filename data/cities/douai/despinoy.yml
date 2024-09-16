@@ -1,11 +1,11 @@
 id: 100895511
-type: way
+type: node
 latitude: 50.36808
 longitude: 3.08162
 postcode: "59500"
 city: Douai
-street: "Place d'Armes"
-housenumber: 7
-phone: "+33 3 27 88 75 99"
+street: Place d'Armes
+housenumber: "7"
+phone: +33 3 27 88 75 99
 opening_hours: ""
 website: ""

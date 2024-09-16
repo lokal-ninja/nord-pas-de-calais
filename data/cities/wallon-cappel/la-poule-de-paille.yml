@@ -1,11 +1,11 @@
 id: 940544848
-type: way
+type: node
 latitude: 50.72924
 longitude: 2.48432
 postcode: "59190"
 city: Wallon-Cappel
-street: "Route Nationale"
-housenumber: 1020
-phone: "+33 3 28 40 26 36"
-opening_hours: "Tu-Su 10:00-12:30,14:00-19:00"
-website: "https://www.facebook.com/lapouledepaille"
+street: Route Nationale
+housenumber: "1020"
+phone: +33 3 28 40 26 36
+opening_hours: Tu-Su 10:00-12:30,14:00-19:00
+website: https://www.facebook.com/lapouledepaille

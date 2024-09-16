@@ -1,11 +1,11 @@
 id: 126524055
-type: way
+type: node
 latitude: 50.53216
 longitude: 2.81042
 postcode: "59480"
 city: La Bassée
-street: "Rue du Général Leclerc"
-housenumber: 104
+street: Rue du Général Leclerc
+housenumber: "104"
 phone: "+33320852608"
 opening_hours: ""
-website: "https://www.midas.fr/centres-auto-midas/hauts-de-france/nord/lille/la-bassee_1487"
+website: https://www.midas.fr/centres-auto-midas/hauts-de-france/nord/lille/la-bassee_1487

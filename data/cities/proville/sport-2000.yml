@@ -4,8 +4,8 @@ latitude: 50.14819
 longitude: 3.21484
 postcode: "59267"
 city: Proville
-street: "Rue René Descartes"
-housenumber: 120
-phone: "+33 3 27 72 61 48"
-opening_hours: "Mo-Fr 9:30-12:00,14:00-19:00; Sa 9:30-19:00"
+street: Rue René Descartes
+housenumber: "120"
+phone: +33 3 27 72 61 48
+opening_hours: Mo-Fr 9:30-12:00,14:00-19:00; Sa 9:30-19:00
 website: ""

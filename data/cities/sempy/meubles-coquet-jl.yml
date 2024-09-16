@@ -1,11 +1,11 @@
 id: 244106672
-type: way
+type: node
 latitude: 50.48983
 longitude: 1.87615
 postcode: "62170"
 city: Sempy
-street: "Rue Principale"
-housenumber: 15
+street: Rue Principale
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

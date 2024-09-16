@@ -1,11 +1,11 @@
 id: 108055534
-type: way
+type: node
 latitude: 50.41418
 longitude: 2.98752
 postcode: ""
 city: Noyelles-Godault
-street: "Rue Maurice Thorez"
-housenumber: 13
+street: Rue Maurice Thorez
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.62568
 longitude: 3.14978
 postcode: "59650"
 city: Villeneuve-d'Ascq
-street: "Place de la République"
-housenumber: 10
+street: Place de la République
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 08:30-12:30"
-website: "https://www.carrefour.fr/magasin/market-villeneuve-d-ascq"
+opening_hours: Mo-Sa 08:00-20:00; Su 08:30-12:30
+website: https://www.carrefour.fr/magasin/market-villeneuve-d-ascq

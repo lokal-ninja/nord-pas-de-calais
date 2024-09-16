@@ -4,8 +4,8 @@ latitude: 50.42603
 longitude: 2.79906
 postcode: "62800"
 city: Liévin
-street: "Rue du Dauphiné"
-housenumber: 1
+street: Rue du Dauphiné
+housenumber: "1"
 phone: "+33321147929"
-opening_hours: "Mo 15:00-19:00; Tu-Fr 09:30-13:00, 15:00-19:00; Sa 09:30-19:00"
+opening_hours: Mo 15:00-19:00; Tu-Fr 09:30-13:00, 15:00-19:00; Sa 09:30-19:00
 website: ""

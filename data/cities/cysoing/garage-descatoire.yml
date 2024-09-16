@@ -1,11 +1,11 @@
 id: 34558585
-type: way
+type: node
 latitude: 50.57429
 longitude: 3.2176
 postcode: "59830"
 city: Cysoing
-street: "Rue Salvador Allende"
-housenumber: 686
-phone: "+33 3 20 79 41 32"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa,Su off"
+street: Rue Salvador Allende
+housenumber: "686"
+phone: +33 3 20 79 41 32
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; Sa,Su off
 website: ""

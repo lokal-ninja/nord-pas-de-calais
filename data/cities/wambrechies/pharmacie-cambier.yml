@@ -1,11 +1,11 @@
 id: 59735019
-type: way
+type: node
 latitude: 50.68366
 longitude: 3.0444
 postcode: "59118"
 city: Wambrechies
-street: "Rue du Général Leclerc"
-housenumber: 136
+street: Rue du Général Leclerc
+housenumber: "136"
 phone: ""
 opening_hours: ""
 website: ""

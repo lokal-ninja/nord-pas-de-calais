@@ -1,11 +1,11 @@
 id: 70255916
-type: way
+type: node
 latitude: 50.61102
 longitude: 3.20444
 postcode: "59152"
 city: Chéreng
-street: "Route Nationale"
-housenumber: 81
-phone: "+33 3 20 41 25 26"
-opening_hours: "Mo-Sa 07:00-22:00; Su 08:00-13:00"
-website: "https://www.carrefour.fr/magasin/city-chereng"
+street: Route Nationale
+housenumber: "81"
+phone: +33 3 20 41 25 26
+opening_hours: Mo-Sa 07:00-22:00; Su 08:00-13:00
+website: https://www.carrefour.fr/magasin/city-chereng

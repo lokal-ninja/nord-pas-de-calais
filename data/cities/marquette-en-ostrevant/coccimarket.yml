@@ -1,11 +1,11 @@
 id: 232229687
-type: way
+type: node
 latitude: 50.28674
 longitude: 3.26828
 postcode: "59252"
 city: Marquette-en-Ostrevant
-street: "Rue Pasteur"
-housenumber: 5
+street: Rue Pasteur
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 100826034
-type: way
+type: node
 latitude: 50.79873
 longitude: 2.64613
 postcode: "59270"
 city: Godewaersvelde
-street: "Route de Boeschepe"
-housenumber: 521
-phone: "+33 3 28 42 52 95"
+street: Route de Boeschepe
+housenumber: "521"
+phone: +33 3 28 42 52 95
 opening_hours: ""
 website: ""

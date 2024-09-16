@@ -1,11 +1,11 @@
 id: 123467348
-type: way
+type: node
 latitude: 50.58926
 longitude: 3.11623
 postcode: "59810"
 city: Lesquin
-street: "Rue Anatole France"
-housenumber: 10
+street: Rue Anatole France
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

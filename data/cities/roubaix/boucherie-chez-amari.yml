@@ -4,8 +4,8 @@ latitude: 50.67767
 longitude: 3.17903
 postcode: "95230"
 city: Roubaix
-street: "Boulevard de Lyon"
-housenumber: 52
+street: Boulevard de Lyon
+housenumber: "52"
 phone: ""
-opening_hours: "Sa-Th 09:00-20:00; Fr 09:00-12:30, 14:30-20:00"
-website: "https://boucherie-amari.com/"
+opening_hours: Sa-Th 09:00-20:00; Fr 09:00-12:30, 14:30-20:00
+website: https://boucherie-amari.com/

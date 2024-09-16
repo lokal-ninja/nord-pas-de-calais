@@ -1,11 +1,11 @@
 id: 63384184
-type: way
+type: node
 latitude: 50.28104
 longitude: 3.95688
 postcode: ""
 city: Maubeuge
-street: "Rue du Faubourg Saint-Quentin"
-housenumber: 
-phone: "+33 3 27 56 59 59"
-opening_hours: "Mo-Fr 07:30-12:00,13:30-18:30; Sa 08:00-12:00"
+street: Rue du Faubourg Saint-Quentin
+housenumber: ""
+phone: +33 3 27 56 59 59
+opening_hours: Mo-Fr 07:30-12:00,13:30-18:30; Sa 08:00-12:00
 website: ""

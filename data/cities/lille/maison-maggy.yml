@@ -4,8 +4,8 @@ latitude: 50.63705
 longitude: 3.0562
 postcode: ""
 city: Lille
-street: "Rue du Quai"
-housenumber: 6
+street: Rue du Quai
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://lamaisonmaggy.com"
+website: https://lamaisonmaggy.com

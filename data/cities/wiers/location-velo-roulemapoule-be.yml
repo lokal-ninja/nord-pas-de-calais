@@ -1,11 +1,11 @@
 id: 261105777
-type: way
+type: node
 latitude: 50.50012
 longitude: 3.55644
 postcode: "7608"
 city: Wiers
-street: "Rue de Rengies"
-housenumber: 52
-phone: "+32 476 39 77 20"
-opening_hours: "by appointment"
-website: "https://www.roulemapoule.be"
+street: Rue de Rengies
+housenumber: "52"
+phone: +32 476 39 77 20
+opening_hours: '"by appointment"'
+website: https://www.roulemapoule.be

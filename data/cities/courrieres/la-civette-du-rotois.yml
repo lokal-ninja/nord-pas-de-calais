@@ -1,11 +1,11 @@
 id: 240856858
-type: way
+type: node
 latitude: 50.46105
 longitude: 2.95312
 postcode: "62710"
 city: Courrières
-street: "Avenue des Peupliers"
-housenumber: 10
-phone: "+33 3 21 40 08 65"
+street: Avenue des Peupliers
+housenumber: "10"
+phone: +33 3 21 40 08 65
 opening_hours: ""
 website: ""

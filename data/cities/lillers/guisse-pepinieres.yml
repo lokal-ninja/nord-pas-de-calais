@@ -4,8 +4,8 @@ latitude: 50.57436
 longitude: 2.49181
 postcode: "62190"
 city: Lillers
-street: "Rue de Saint-Venant"
-housenumber: 225
-phone: "+33 3 21 02 26 78"
-opening_hours: "Mo-Sa 09:00-12:00,14:00-18:00"
-website: "http://guisse.fr"
+street: Rue de Saint-Venant
+housenumber: "225"
+phone: +33 3 21 02 26 78
+opening_hours: Mo-Sa 09:00-12:00,14:00-18:00
+website: http://guisse.fr

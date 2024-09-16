@@ -1,11 +1,11 @@
 id: 79526477
-type: way
+type: node
 latitude: 50.61565
 longitude: 3.15171
 postcode: "59650"
 city: Villeneuve-d'Ascq
-street: "Rue des Fusillés"
-housenumber: 90
+street: Rue des Fusillés
+housenumber: "90"
 phone: "+33320413604"
-opening_hours: "Mo 15:00-19:00; Tu-Th 10:00-12:30, 15:00-19:00; Fr-Sa 10:00-19:00"
-website: "https://www.laccord.fr/"
+opening_hours: Mo 15:00-19:00; Tu-Th 10:00-12:30, 15:00-19:00; Fr-Sa 10:00-19:00
+website: https://www.laccord.fr/

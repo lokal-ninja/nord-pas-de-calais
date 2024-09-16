@@ -1,11 +1,11 @@
 id: 171164738
-type: way
+type: node
 latitude: 50.48229
 longitude: 2.96128
 postcode: "62220"
 city: Carvin
-street: "Rue du Vieux Château"
-housenumber: 
+street: Rue du Vieux Château
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30, Su 09:30-12:30"
+opening_hours: Mo-Sa 08:30-19:30, Su 09:30-12:30
 website: ""

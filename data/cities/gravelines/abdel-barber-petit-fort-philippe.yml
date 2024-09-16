@@ -4,8 +4,8 @@ latitude: 51.00305
 longitude: 2.11117
 postcode: "59820"
 city: Gravelines
-street: "Place du Docteur Calmette"
-housenumber: 21
-phone: "+33 7 66 24 89 95"
-opening_hours: "Mo-Th 09:00-12:00,14:00-19:00, Fr 09:00-19:00, Sa 09:00-18:00"
-website: "https://www.abdelbarber.com/"
+street: Place du Docteur Calmette
+housenumber: "21"
+phone: +33 7 66 24 89 95
+opening_hours: Mo-Th 09:00-12:00,14:00-19:00, Fr 09:00-19:00, Sa 09:00-18:00
+website: https://www.abdelbarber.com/

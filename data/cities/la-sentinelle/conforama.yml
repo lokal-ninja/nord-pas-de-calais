@@ -1,11 +1,11 @@
 id: 174943824
-type: way
+type: node
 latitude: 50.34385
 longitude: 3.47411
 postcode: "59174"
 city: La Sentinelle
-street: "Avenue Jean Jaurès"
-housenumber: 
+street: Avenue Jean Jaurès
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.conforama.fr/magasins-conforama/valenciennes?lat=50.343569&long=3.472976&name=VALENCIENNES"
+website: https://www.conforama.fr/magasins-conforama/valenciennes?lat=50.343569&long=3.472976&name=VALENCIENNES

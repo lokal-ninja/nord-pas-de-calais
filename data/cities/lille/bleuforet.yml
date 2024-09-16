@@ -4,8 +4,8 @@ latitude: 50.64058
 longitude: 3.06406
 postcode: "59000"
 city: Lille
-street: "Rue de la Monnaie"
-housenumber: 3
-phone: "+33 3 20 33 97 56"
+street: Rue de la Monnaie
+housenumber: "3"
+phone: +33 3 20 33 97 56
 opening_hours: ""
-website: "https://www.bleuforet.fr/fr/magasins/6-boutique-lille-monnaie"
+website: https://www.bleuforet.fr/fr/magasins/6-boutique-lille-monnaie

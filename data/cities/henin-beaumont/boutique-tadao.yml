@@ -1,11 +1,11 @@
 id: 108827913
-type: way
+type: node
 latitude: 50.42033
 longitude: 2.94993
 postcode: "62110"
 city: Hénin-Beaumont
-street: "Rue Élie Gruyelle"
-housenumber: 38
+street: Rue Élie Gruyelle
+housenumber: "38"
 phone: "0810001178"
-opening_hours: "Mo 13:30-18:30; Tu-Fr 08:30-12:30, 13:30-18:30; Sa 10:00-22:00"
-website: "https://www.tadao.fr/"
+opening_hours: Mo 13:30-18:30; Tu-Fr 08:30-12:30, 13:30-18:30; Sa 10:00-22:00
+website: https://www.tadao.fr/

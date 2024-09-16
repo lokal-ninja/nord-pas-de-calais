@@ -4,8 +4,9 @@ latitude: 50.64793
 longitude: 3.22754
 postcode: "59390"
 city: Sailly-lez-Lannoy
-street: "Rue de Willems"
-housenumber: 15
+street: Rue de Willems
+housenumber: "15"
 phone: ""
-opening_hours: "Mo 16:30-19:00; Tu off; We 10:00-13:00,16:30-19:00; Th off; Fr 10:00-13:00,16:30-19:00; Sa 10:00-13:00,16:30-19:00; Su off"
+opening_hours: Mo 16:30-19:00; Tu off; We 10:00-13:00,16:30-19:00; Th off; Fr 10:00-13:00,16:30-19:00;
+    Sa 10:00-13:00,16:30-19:00; Su off
 website: ""

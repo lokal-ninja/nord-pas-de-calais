@@ -1,11 +1,11 @@
 id: 70264010
-type: way
+type: node
 latitude: 50.63526
 longitude: 3.18854
 postcode: "59510"
 city: Forest-sur-Marque
-street: "Rue Principale"
-housenumber: 63
-phone: "+33 3 20 34 31 45"
-opening_hours: "Tu 09:00-17:30; We-Fr 09:00-19:15; Sa 07:00-16:00"
-website: "https://www.coiffure-de-marque.fr"
+street: Rue Principale
+housenumber: "63"
+phone: +33 3 20 34 31 45
+opening_hours: Tu 09:00-17:30; We-Fr 09:00-19:15; Sa 07:00-16:00
+website: https://www.coiffure-de-marque.fr

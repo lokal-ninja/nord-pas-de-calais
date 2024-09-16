@@ -1,11 +1,11 @@
 id: 1089067167
-type: way
+type: node
 latitude: 50.48589
 longitude: 2.8412
 postcode: "62410"
 city: Wingles
-street: "Rue des Alouettes"
-housenumber: 
+street: Rue des Alouettes
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30; Su 08:30-12:30"
+opening_hours: Mo-Sa 08:30-19:30; Su 08:30-12:30
 website: ""

@@ -1,11 +1,11 @@
 id: 136040784
-type: way
+type: node
 latitude: 50.47181
 longitude: 2.52567
 postcode: "62460"
 city: Divion
-street: "Rue des Frères Caron"
-housenumber: 170
+street: Rue des Frères Caron
+housenumber: "170"
 phone: ""
 opening_hours: ""
-website: "https://nozarrivages.com/magasin/divion/"
+website: https://nozarrivages.com/magasin/divion/

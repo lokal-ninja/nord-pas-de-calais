@@ -4,8 +4,8 @@ latitude: 50.51523
 longitude: 2.6844
 postcode: "62660"
 city: Beuvry
-street: "Route de Lille"
-housenumber: 286
+street: Route de Lille
+housenumber: "286"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.lautodisa-beuvry-vehiculesdoccasion.fr/"
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.lautodisa-beuvry-vehiculesdoccasion.fr/

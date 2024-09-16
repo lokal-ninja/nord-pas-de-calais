@@ -4,8 +4,8 @@ latitude: 50.06597
 longitude: 3.99216
 postcode: "59177"
 city: Rainsars
-street: "Route de Féron"
-housenumber: 38
-phone: "+33 7 89 40 13 44"
-opening_hours: "Mo-Su 10:00-20:00"
-website: "https://terre-danesse.com/"
+street: Route de Féron
+housenumber: "38"
+phone: +33 7 89 40 13 44
+opening_hours: Mo-Su 10:00-20:00
+website: https://terre-danesse.com/

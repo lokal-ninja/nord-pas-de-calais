@@ -1,11 +1,11 @@
 id: 157935694
-type: way
+type: node
 latitude: 50.63081
 longitude: 2.96791
 postcode: "59320"
 city: Englos
-street: "Route Nationale"
-housenumber: 1
+street: Route Nationale
+housenumber: "1"
 phone: ""
-opening_hours: "PH,Mo-Sa 08:00-21:00"
-website: "https://englos.aushopping.com/fr"
+opening_hours: PH,Mo-Sa 08:00-21:00
+website: https://englos.aushopping.com/fr

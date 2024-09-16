@@ -1,11 +1,11 @@
 id: 243418901
-type: way
+type: node
 latitude: 50.52013
 longitude: 2.74804
 postcode: "62149"
 city: Cuinchy
-street: "Rue Anatole France"
-housenumber: 16
+street: Rue Anatole France
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

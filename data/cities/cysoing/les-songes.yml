@@ -4,8 +4,8 @@ latitude: 50.57132
 longitude: 3.20782
 postcode: "59830"
 city: Cysoing
-street: "Rue Jean-Baptiste Lebas"
-housenumber: 653
-phone: "+33 6 76 89 98 94"
-opening_hours: "Tu-Sa 07:30-19:00; Su 07:30-13:00"
-website: "https://lessonges.eatbu.com/?lang=fr"
+street: Rue Jean-Baptiste Lebas
+housenumber: "653"
+phone: +33 6 76 89 98 94
+opening_hours: Tu-Sa 07:30-19:00; Su 07:30-13:00
+website: https://lessonges.eatbu.com/?lang=fr

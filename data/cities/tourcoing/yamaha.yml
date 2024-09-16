@@ -1,11 +1,11 @@
 id: 60122093
-type: way
+type: node
 latitude: 50.71566
 longitude: 3.15739
 postcode: "59200"
 city: Tourcoing
-street: "Rue Charles Wattinne"
-housenumber: 24
+street: Rue Charles Wattinne
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

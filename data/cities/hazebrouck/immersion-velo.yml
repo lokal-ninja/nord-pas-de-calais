@@ -4,8 +4,8 @@ latitude: 50.73712
 longitude: 2.54736
 postcode: "59190"
 city: Hazebrouck
-street: "Rue Notre-Dame"
-housenumber: 294
-phone: "+33 328425932"
-opening_hours: "Tu-Fr 09:30-19:00; Sa 09:30-17:30"
-website: "https://www.immersion-velo.fr/"
+street: Rue Notre-Dame
+housenumber: "294"
+phone: +33 328425932
+opening_hours: Tu-Fr 09:30-19:00; Sa 09:30-17:30
+website: https://www.immersion-velo.fr/

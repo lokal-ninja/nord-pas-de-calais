@@ -4,8 +4,8 @@ latitude: 50.64041
 longitude: 3.08177
 postcode: "59000"
 city: Lille
-street: "Place Désiré Bouchée"
-housenumber: 5
+street: Place Désiré Bouchée
+housenumber: "5"
 phone: ""
-opening_hours: "Tu-Fr 10:00-14:00,16:00-19:30; Sa 10:00-19:30"
-website: "https://commentcavrac.com/"
+opening_hours: Tu-Fr 10:00-14:00,16:00-19:30; Sa 10:00-19:30
+website: https://commentcavrac.com/

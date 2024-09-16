@@ -1,11 +1,11 @@
 id: 51504293
-type: way
+type: node
 latitude: 50.64148
 longitude: 3.14748
 postcode: "59650"
 city: Villeneuve-d'Ascq
-street: "Rue de la Cimaise"
-housenumber: 21
+street: Rue de la Cimaise
+housenumber: "21"
 phone: ""
 opening_hours: ""
-website: "https://www.leclercdrive.fr/"
+website: https://www.leclercdrive.fr/

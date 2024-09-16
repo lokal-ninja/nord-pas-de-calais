@@ -1,11 +1,11 @@
 id: 171154099
-type: way
+type: node
 latitude: 50.49213
 longitude: 2.97866
 postcode: "62220"
 city: Carvin
-street: "Rue Cyprien Quinet"
-housenumber: 137
-phone: "+33 3 21 37 03 31"
+street: Rue Cyprien Quinet
+housenumber: "137"
+phone: +33 3 21 37 03 31
 opening_hours: ""
 website: ""

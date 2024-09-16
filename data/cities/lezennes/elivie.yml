@@ -1,11 +1,11 @@
 id: 80329859
-type: way
+type: node
 latitude: 50.61496
 longitude: 3.10411
 postcode: "59260"
 city: Lezennes
-street: "Rue Paul Langevin"
-housenumber: 19
+street: Rue Paul Langevin
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

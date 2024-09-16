@@ -1,11 +1,11 @@
 id: 156560901
-type: way
+type: node
 latitude: 50.52591
 longitude: 1.62778
 postcode: "62630"
 city: Étaples
-street: "D 940"
-housenumber: 
-phone: "+33 3 21 94 20 14"
-opening_hours: "Mo-Sa 09:00-19:30; Su 09:00-13:00"
+street: D 940
+housenumber: ""
+phone: +33 3 21 94 20 14
+opening_hours: Mo-Sa 09:00-19:30; Su 09:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 248113845
-type: way
+type: node
 latitude: 50.5082
 longitude: 2.2166
 postcode: "62134"
 city: Lisbourg
-street: "La Place"
-housenumber: 2
+street: La Place
+housenumber: "2"
 phone: "+33321044111"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00
 website: ""

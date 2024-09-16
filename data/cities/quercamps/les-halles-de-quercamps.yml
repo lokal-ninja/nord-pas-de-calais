@@ -4,8 +4,8 @@ latitude: 50.75295
 longitude: 2.04949
 postcode: "62380"
 city: Quercamps
-street: "Rue des Fiefs"
-housenumber: 15
+street: Rue des Fiefs
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "https://www.hallesdequercamps.com"
+website: https://www.hallesdequercamps.com

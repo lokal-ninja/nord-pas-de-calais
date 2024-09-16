@@ -4,8 +4,8 @@ latitude: 50.61811
 longitude: 3.06077
 postcode: "59000"
 city: Lille
-street: "Place Jacques Febvrier"
-housenumber: 8
-phone: "06 79 52 08 32"
-opening_hours: "We-Sa 13:30-18:30"
-website: "https://www.recycleriesport.org/"
+street: Place Jacques Febvrier
+housenumber: "8"
+phone: 06 79 52 08 32
+opening_hours: We-Sa 13:30-18:30
+website: https://www.recycleriesport.org/

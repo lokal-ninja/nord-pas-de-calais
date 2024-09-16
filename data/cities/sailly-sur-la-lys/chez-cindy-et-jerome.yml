@@ -1,11 +1,11 @@
 id: 241672709
-type: way
+type: node
 latitude: 50.66143
 longitude: 2.79732
 postcode: "62840"
 city: Sailly-sur-la-Lys
-street: "Rue de la Lys"
-housenumber: 3214
-phone: "+33 3 21 68 37 83"
-opening_hours: "Sa 09:00-18:00; Su 09:00-13:00; We-Fr 09:00-13:00,15:00-19:00"
+street: Rue de la Lys
+housenumber: "3214"
+phone: +33 3 21 68 37 83
+opening_hours: Sa 09:00-18:00; Su 09:00-13:00; We-Fr 09:00-13:00,15:00-19:00
 website: ""

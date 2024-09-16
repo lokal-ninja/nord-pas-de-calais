@@ -4,8 +4,8 @@ latitude: 50.67614
 longitude: 3.09201
 postcode: "59700"
 city: Marcq-en-Barœul
-street: "Avenue du Maréchal Foch"
-housenumber: 133
-phone: "+33 3 20 47 58 42"
-opening_hours: "Tu-Sa 09:30-13:30,15:30-19:30"
-website: "https://sesame-marcq.fr/"
+street: Avenue du Maréchal Foch
+housenumber: "133"
+phone: +33 3 20 47 58 42
+opening_hours: Tu-Sa 09:30-13:30,15:30-19:30
+website: https://sesame-marcq.fr/

@@ -1,11 +1,11 @@
 id: 69673498
-type: way
+type: node
 latitude: 50.46564
 longitude: 2.82938
 postcode: "62880"
 city: Vendin-le-Vieil
-street: "Rue Louis Blériot"
-housenumber: 7
+street: Rue Louis Blériot
+housenumber: "7"
 phone: "+33321424178"
-opening_hours: "Mo-Sa 09:30-18:50"
-website: "https://www.lincroyable.fr/"
+opening_hours: Mo-Sa 09:30-18:50
+website: https://www.lincroyable.fr/

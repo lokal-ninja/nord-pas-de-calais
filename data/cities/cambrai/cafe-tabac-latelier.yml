@@ -4,8 +4,8 @@ latitude: 50.17059
 longitude: 3.231
 postcode: "59400"
 city: Cambrai
-street: "Place de la Porte de Paris"
-housenumber: 20
+street: Place de la Porte de Paris
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-We 07:30-20:30; Th 07:30-00:00; Fr 07:30-01:00; Sa 10:00-01:00"
+opening_hours: Mo-We 07:30-20:30; Th 07:30-00:00; Fr 07:30-01:00; Sa 10:00-01:00
 website: ""

@@ -1,11 +1,11 @@
 id: 77118387
-type: way
+type: node
 latitude: 50.63979
 longitude: 3.15425
 postcode: "59650"
 city: Villeneuve-d'Ascq
-street: "Rue du 8 Mai 1945"
-housenumber: 123
+street: Rue du 8 Mai 1945
+housenumber: "123"
 phone: "+33320474800"
-opening_hours: "Mo-Sa 08:00-20:00; Su 08:30-12:45"
-website: "https://www.supermarchesmatch.fr/106-villeneuve-d-ascq-cousinerie/info-magasin.php"
+opening_hours: Mo-Sa 08:00-20:00; Su 08:30-12:45
+website: https://www.supermarchesmatch.fr/106-villeneuve-d-ascq-cousinerie/info-magasin.php

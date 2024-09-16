@@ -4,8 +4,8 @@ latitude: 50.6129
 longitude: 3.07472
 postcode: "59000"
 city: Lille
-street: "Rue du Faubourg de Douai"
-housenumber: 128
+street: Rue du Faubourg de Douai
+housenumber: "128"
 phone: "+33376053014"
-opening_hours: "Tu,Sa 11:30-20:00; We,Fr 10:30-19:00, Th 10:30-20:00"
-website: "https://valtystreet.com/index.html"
+opening_hours: Tu,Sa 11:30-20:00; We,Fr 10:30-19:00, Th 10:30-20:00
+website: https://valtystreet.com/index.html

@@ -4,8 +4,8 @@ latitude: 50.72459
 longitude: 2.9498
 postcode: "59890"
 city: Deûlémont
-street: "Quai de la Marine"
-housenumber: 26
-phone: "+33 3 59 82 87 00"
-opening_hours: "Tu-Sa 09:00-12:00,14:00-17:30"
-website: "https://www.fluvialys.fr/"
+street: Quai de la Marine
+housenumber: "26"
+phone: +33 3 59 82 87 00
+opening_hours: Tu-Sa 09:00-12:00,14:00-17:30
+website: https://www.fluvialys.fr/

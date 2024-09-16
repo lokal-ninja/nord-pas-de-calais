@@ -1,11 +1,11 @@
 id: 110101933
-type: way
+type: node
 latitude: 50.36174
 longitude: 3.53201
 postcode: "59300"
 city: Valenciennes
-street: "Avenue de Liège"
-housenumber: 2
+street: Avenue de Liège
+housenumber: "2"
 phone: "+33327289708"
-opening_hours: "Tu-Sa 07:00-19:00,Su 07:00-13:00"
+opening_hours: Tu-Sa 07:00-19:00,Su 07:00-13:00
 website: ""

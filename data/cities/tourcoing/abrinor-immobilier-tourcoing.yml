@@ -1,11 +1,11 @@
 id: 59274778
-type: way
+type: node
 latitude: 50.7218
 longitude: 3.15691
 postcode: "59200"
 city: Tourcoing
-street: "Place Charles et Albert Roussel"
-housenumber: 26
+street: Place Charles et Albert Roussel
+housenumber: "26"
 phone: ""
 opening_hours: ""
-website: "https://www.abrinor.fr/abrinor-tourcoing"
+website: https://www.abrinor.fr/abrinor-tourcoing

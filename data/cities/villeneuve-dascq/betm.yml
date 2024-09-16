@@ -1,11 +1,11 @@
 id: 39936857
-type: way
+type: node
 latitude: 50.6411
 longitude: 3.14446
 postcode: "59650"
 city: Villeneuve-d'Ascq
-street: "Rue de la Convention"
-housenumber: 220
+street: Rue de la Convention
+housenumber: "220"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30; Su 10:00-19:00"
+opening_hours: Mo-Sa 09:30-19:30; Su 10:00-19:00
 website: ""

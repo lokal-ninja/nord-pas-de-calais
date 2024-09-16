@@ -1,11 +1,11 @@
 id: 348417792
-type: way
+type: node
 latitude: 50.30355
 longitude: 4.10958
 postcode: "6560"
 city: Erquelinnes
-street: "Rue Albert Ier"
-housenumber: 438
+street: Rue Albert Ier
+housenumber: "438"
 phone: ""
-opening_hours: "Mo-Sa 07:00-18:00"
+opening_hours: Mo-Sa 07:00-18:00
 website: ""

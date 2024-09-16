@@ -1,11 +1,11 @@
 id: 75879178
-type: way
+type: node
 latitude: 50.10634
 longitude: 3.53758
 postcode: "59360"
 city: Le Cateau-Cambrésis
-street: "Rue Charles Seydoux"
-housenumber: 43
-phone: "+33 3 27 07 24 07"
+street: Rue Charles Seydoux
+housenumber: "43"
+phone: +33 3 27 07 24 07
 opening_hours: ""
 website: ""

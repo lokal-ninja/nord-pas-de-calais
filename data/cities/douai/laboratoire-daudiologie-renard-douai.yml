@@ -1,11 +1,11 @@
 id: 100894761
-type: way
+type: node
 latitude: 50.36694
 longitude: 3.08513
 postcode: "59500"
 city: Douai
-street: "Rue Henri Dunant"
-housenumber: 15
+street: Rue Henri Dunant
+housenumber: "15"
 phone: ""
-opening_hours: "Tu-Sa 9:00-12:30,14:00-17:30"
+opening_hours: Tu-Sa 9:00-12:30,14:00-17:30
 website: ""

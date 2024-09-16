@@ -4,8 +4,8 @@ latitude: 50.7275
 longitude: 1.60469
 postcode: "62200"
 city: Boulogne-sur-Mer
-street: "Rue de Boston"
-housenumber: 20
+street: Rue de Boston
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "http://ecocom-mapub.fr/"
+website: http://ecocom-mapub.fr/

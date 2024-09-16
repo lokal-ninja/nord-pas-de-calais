@@ -4,8 +4,8 @@ latitude: 50.29677
 longitude: 4.09931
 postcode: "59460"
 city: Jeumont
-street: "Rue Hector Despret"
-housenumber: 191
+street: Rue Hector Despret
+housenumber: "191"
 phone: ""
-opening_hours: "Mo 14:00-18:30; Tu-Sa 10:00-12:30, 14:00-18:30; Su 14:00-17:00"
-website: "https://www.lamodeatoutprix.fr"
+opening_hours: Mo 14:00-18:30; Tu-Sa 10:00-12:30, 14:00-18:30; Su 14:00-17:00
+website: https://www.lamodeatoutprix.fr

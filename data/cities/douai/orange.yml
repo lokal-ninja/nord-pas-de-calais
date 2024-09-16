@@ -4,8 +4,8 @@ latitude: 50.3679
 longitude: 3.08297
 postcode: "59500"
 city: Douai
-street: "Place d'Armes"
-housenumber: 85
-phone: "+33 9 69 37 03 64"
+street: Place d'Armes
+housenumber: "85"
+phone: +33 9 69 37 03 64
 opening_hours: ""
-website: "https://agence.orange.fr/830-boutique-orange-douai"
+website: https://agence.orange.fr/830-boutique-orange-douai

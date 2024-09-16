@@ -4,8 +4,8 @@ latitude: 50.69469
 longitude: 3.09048
 postcode: "59910"
 city: Bondues
-street: "Allée des Drapiers"
-housenumber: 4
-phone: "+33 3 74 09 93 05"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://my-velo.fr"
+street: Allée des Drapiers
+housenumber: "4"
+phone: +33 3 74 09 93 05
+opening_hours: Mo-Sa 09:30-19:00
+website: https://my-velo.fr

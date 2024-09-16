@@ -4,8 +4,8 @@ latitude: 50.51354
 longitude: 1.63696
 postcode: "62630"
 city: Étaples
-street: "Rue du Port"
-housenumber: 6
-phone: "+33 3 21 94 76 52"
-opening_hours: "Mo-Th 07:00-21:00; Fr-Sa 07:00-22:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/city-etaples"
+street: Rue du Port
+housenumber: "6"
+phone: +33 3 21 94 76 52
+opening_hours: Mo-Th 07:00-21:00; Fr-Sa 07:00-22:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/city-etaples

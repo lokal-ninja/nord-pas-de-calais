@@ -4,8 +4,9 @@ latitude: 50.42202
 longitude: 2.77482
 postcode: "62800"
 city: Liévin
-street: "Rue du Parc à Bois"
-housenumber: 
-phone: "+33 3 21 76 33 72"
-opening_hours: "Mo-Tu 09:00-19:00; We 8:30-19:00; Th 09:00-19:00; Fr 09:00-19:30; Sa 08:30-19:30; Su 09:00-18:00"
-website: "https://www.meilleurfleuriste.fr/fleuriste/o-temps-des-fleurs-6/"
+street: Rue du Parc à Bois
+housenumber: ""
+phone: +33 3 21 76 33 72
+opening_hours: Mo-Tu 09:00-19:00; We 8:30-19:00; Th 09:00-19:00; Fr 09:00-19:30; Sa
+    08:30-19:30; Su 09:00-18:00
+website: https://www.meilleurfleuriste.fr/fleuriste/o-temps-des-fleurs-6/

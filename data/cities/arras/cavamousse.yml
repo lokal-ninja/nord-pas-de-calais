@@ -4,8 +4,9 @@ latitude: 50.29094
 longitude: 2.77907
 postcode: "62000"
 city: Arras
-street: "Rue de la Taillerie"
+street: Rue de la Taillerie
 housenumber: 8b
 phone: ""
-opening_hours: "We,Th 10:00-13:00,15:00-19:00; Fr 10:00-13:00,15:00-21:00; Sa 09:30-13:30,15:00-21:00; Su 10:00-13:00,15:00-18:00"
+opening_hours: We,Th 10:00-13:00,15:00-19:00; Fr 10:00-13:00,15:00-21:00; Sa 09:30-13:30,15:00-21:00;
+    Su 10:00-13:00,15:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 328330870
-type: way
+type: node
 latitude: 50.68443
 longitude: 3.04584
 postcode: "59118"
 city: Wambrechies
-street: "Rue du Général Leclerc"
-housenumber: 110
-phone: "+33 3 28 53 51 18"
-opening_hours: "Mo-Sa 07:00-22:00; Su 09:00-13:00"
+street: Rue du Général Leclerc
+housenumber: "110"
+phone: +33 3 28 53 51 18
+opening_hours: Mo-Sa 07:00-22:00; Su 09:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 76427342
-type: way
+type: node
 latitude: 51.03377
 longitude: 2.36972
 postcode: "59140"
 city: Dunkerque
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-23:45; Su 11:00-23:45"
+opening_hours: Mo-Sa 10:00-23:45; Su 11:00-23:45
 website: ""

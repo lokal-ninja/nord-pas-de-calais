@@ -1,11 +1,11 @@
 id: 241869819
-type: way
+type: node
 latitude: 50.50439
 longitude: 2.80019
 postcode: "62138"
 city: Haisnes
-street: "Rue des Lilas"
-housenumber: 6
+street: Rue des Lilas
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

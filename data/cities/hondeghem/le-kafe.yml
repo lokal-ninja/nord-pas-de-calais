@@ -4,8 +4,9 @@ latitude: 50.75652
 longitude: 2.52106
 postcode: "59190"
 city: Hondeghem
-street: "Place Germain Dubrulle"
-housenumber: 187
-phone: "+33 3 28 48 26 16"
-opening_hours: "Mo,Th 06:30-13:00,16:00-20:00; Fr 06:30-13:00,16:00-22:00; Sa 06:30-22:00; Su 07:30-13:00"
+street: Place Germain Dubrulle
+housenumber: "187"
+phone: +33 3 28 48 26 16
+opening_hours: Mo,Th 06:30-13:00,16:00-20:00; Fr 06:30-13:00,16:00-22:00; Sa 06:30-22:00;
+    Su 07:30-13:00
 website: ""

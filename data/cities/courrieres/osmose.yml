@@ -1,11 +1,12 @@
 id: 240848287
-type: way
+type: node
 latitude: 50.45602
 longitude: 2.94308
 postcode: "62710"
 city: Courrières
-street: "Rue Victor Hugo"
-housenumber: 25
-phone: "+33 3 21 20 31 67"
-opening_hours: "Mo 14:00-19:00; Tu-We 08:30-12:00,13:30-19:00; Th 08:30-16:30; Fr 08:30-12:00,13:30-19:00; Sa 08:30-16:30"
+street: Rue Victor Hugo
+housenumber: "25"
+phone: +33 3 21 20 31 67
+opening_hours: Mo 14:00-19:00; Tu-We 08:30-12:00,13:30-19:00; Th 08:30-16:30; Fr 08:30-12:00,13:30-19:00;
+    Sa 08:30-16:30
 website: ""

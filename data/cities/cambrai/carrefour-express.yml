@@ -4,8 +4,8 @@ latitude: 50.17457
 longitude: 3.23724
 postcode: "59400"
 city: Cambrai
-street: "Rue du Maréchal de Lattre de Tassigny"
-housenumber: 23
-phone: "+33 3 27 78 64 34"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/express-cambrai-de-lattre"
+street: Rue du Maréchal de Lattre de Tassigny
+housenumber: "23"
+phone: +33 3 27 78 64 34
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/express-cambrai-de-lattre

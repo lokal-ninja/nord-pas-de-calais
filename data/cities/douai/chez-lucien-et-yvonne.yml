@@ -4,8 +4,8 @@ latitude: 50.36427
 longitude: 3.07935
 postcode: "59500"
 city: Douai
-street: "Rue de Paris"
-housenumber: 419
+street: Rue de Paris
+housenumber: "419"
 phone: ""
-opening_hours: "Tu-Th 10:00-13:00,14:45-19:15; Fr,Sa 10:00-13:15,14:30-19:30; Su 10:00-13:00"
+opening_hours: Tu-Th 10:00-13:00,14:45-19:15; Fr,Sa 10:00-13:15,14:30-19:30; Su 10:00-13:00
 website: ""

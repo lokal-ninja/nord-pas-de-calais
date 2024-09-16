@@ -1,11 +1,11 @@
 id: 230969274
-type: way
+type: node
 latitude: 50.87426
 longitude: 1.97914
 postcode: "62610"
 city: Ardres
-street: "Rue du Général de Saint-Just"
-housenumber: 123
+street: Rue du Général de Saint-Just
+housenumber: "123"
 phone: ""
 opening_hours: ""
 website: ""

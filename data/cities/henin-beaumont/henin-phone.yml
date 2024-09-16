@@ -1,11 +1,11 @@
 id: 609921513
-type: way
+type: node
 latitude: 50.41958
 longitude: 2.9472
 postcode: "62110"
 city: Hénin-Beaumont
-street: "Place Jean Jaurès"
-housenumber: 52
-phone: "+339 82 25 96 23"
-opening_hours: "Fr 10:00-12:30,15:00-20:00; Mo-Th,Sa 10:00-20:00"
+street: Place Jean Jaurès
+housenumber: "52"
+phone: +339 82 25 96 23
+opening_hours: Fr 10:00-12:30,15:00-20:00; Mo-Th,Sa 10:00-20:00
 website: ""

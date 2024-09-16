@@ -4,8 +4,8 @@ latitude: 50.36738
 longitude: 3.08289
 postcode: "59500"
 city: Douai
-street: "Place d'Armes"
-housenumber: 102
-phone: "+33 3 61 43 73 41"
-opening_hours: "Mo-Sa 08:00-18:00"
-website: "https://access-coiffure.fr/douai/"
+street: Place d'Armes
+housenumber: "102"
+phone: +33 3 61 43 73 41
+opening_hours: Mo-Sa 08:00-18:00
+website: https://access-coiffure.fr/douai/

@@ -1,11 +1,11 @@
 id: 79495805
-type: way
+type: node
 latitude: 50.61937
 longitude: 3.14968
 postcode: "59650"
 city: Villeneuve-d'Ascq
-street: "Rue Marcel Bouderiez"
-housenumber: 73
+street: Rue Marcel Bouderiez
+housenumber: "73"
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30"
+opening_hours: Mo-Sa 08:30-19:30
 website: ""

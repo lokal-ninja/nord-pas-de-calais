@@ -1,11 +1,11 @@
 id: 180914244
-type: way
+type: node
 latitude: 50.52176
 longitude: 3.05948
 postcode: "59551"
 city: Attiches
-street: "Rue Jean-Baptiste Collette"
-housenumber: 23
+street: Rue Jean-Baptiste Collette
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.15186
 longitude: 3.21987
 postcode: "59267"
 city: Proville
-street: "Rue Jean-Jacques Rousseau"
-housenumber: 35
+street: Rue Jean-Jacques Rousseau
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:00,14:00-19:00; Sa 10:00-19:00"
+opening_hours: Mo-Fr 10:00-12:00,14:00-19:00; Sa 10:00-19:00
 website: ""

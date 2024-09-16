@@ -1,11 +1,11 @@
 id: 96177750
-type: way
+type: node
 latitude: 50.72555
 longitude: 1.6057
 postcode: "62200"
 city: Boulogne-sur-Mer
-street: "Rue Faidherbe"
-housenumber: 67
+street: Rue Faidherbe
+housenumber: "67"
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-19:00"
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-19:00
 website: ""

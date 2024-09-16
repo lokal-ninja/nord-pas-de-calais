@@ -4,8 +4,8 @@ latitude: 50.64061
 longitude: 3.06475
 postcode: "59000"
 city: Lille
-street: "Place Louise de Bettignies"
-housenumber: 8
-phone: "+33 3 20 42 93 52"
-opening_hours: "Mo-Sa 08:00-21:00; Su 08:00-13:00"
-website: "https://www.intermarche.com/magasins/10674/lille-59800/infos-pratiques"
+street: Place Louise de Bettignies
+housenumber: "8"
+phone: +33 3 20 42 93 52
+opening_hours: Mo-Sa 08:00-21:00; Su 08:00-13:00
+website: https://www.intermarche.com/magasins/10674/lille-59800/infos-pratiques

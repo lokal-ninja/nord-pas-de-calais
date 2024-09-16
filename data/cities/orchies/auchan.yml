@@ -1,11 +1,11 @@
 id: 85670456
-type: way
+type: node
 latitude: 50.47527
 longitude: 3.2333
 postcode: "59310"
 city: Orchies
-street: "ZAC de l'Europe"
-housenumber: 5
+street: ZAC de l'Europe
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

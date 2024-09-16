@@ -1,11 +1,11 @@
 id: 105477685
-type: way
+type: node
 latitude: 50.4173
 longitude: 3.01796
 postcode: "62970"
 city: Courcelles-lès-Lens
-street: "Rue Francis de Pressensé"
-housenumber: 8
-phone: "+33 3 21 77 06 71"
+street: Rue Francis de Pressensé
+housenumber: "8"
+phone: +33 3 21 77 06 71
 opening_hours: ""
 website: ""

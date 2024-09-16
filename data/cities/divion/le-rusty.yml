@@ -1,11 +1,11 @@
 id: 136042831
-type: way
+type: node
 latitude: 50.47307
 longitude: 2.50505
 postcode: "62460"
 city: Divion
-street: "Rue Arthur Lamendin"
-housenumber: 19
+street: Rue Arthur Lamendin
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

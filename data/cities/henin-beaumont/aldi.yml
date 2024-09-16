@@ -1,11 +1,11 @@
 id: 598328447
-type: way
+type: node
 latitude: 50.4133
 longitude: 2.96634
 postcode: "62110"
 city: Hénin-Beaumont
-street: "Boulevard Jacques Piette"
-housenumber: 777
+street: Boulevard Jacques Piette
+housenumber: "777"
 phone: ""
 opening_hours: ""
 website: ""

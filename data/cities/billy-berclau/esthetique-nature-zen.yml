@@ -1,11 +1,11 @@
 id: 140999593
-type: way
+type: node
 latitude: 50.5242
 longitude: 2.87607
 postcode: "62138"
 city: Billy-Berclau
-street: "Rue du Général de Gaulle"
-housenumber: 1
+street: Rue du Général de Gaulle
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

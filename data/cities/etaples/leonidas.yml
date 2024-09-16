@@ -4,8 +4,8 @@ latitude: 50.51388
 longitude: 1.63636
 postcode: "62630"
 city: Étaples
-street: "Boulevard de l'Impératrice"
-housenumber: 12
+street: Boulevard de l'Impératrice
+housenumber: "12"
 phone: "+33391892166"
-opening_hours: "Tu-Sa 10:00-12:30,15:00-19:00; Su 10:00-12:30"
-website: "https://www.chocolaterie-etaples.fr"
+opening_hours: Tu-Sa 10:00-12:30,15:00-19:00; Su 10:00-12:30
+website: https://www.chocolaterie-etaples.fr
