@@ -1,6 +1,6 @@
 ---
 title: La Gorgue
 url: /la-gorgue/
-latitude: 50.634
-longitude: 2.718
+latitude: 50.637
+longitude: 2.707
 ---
