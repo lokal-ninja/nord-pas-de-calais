@@ -1,6 +1,6 @@
 ---
 title: Waziers
 url: /waziers/
-latitude: 50.39
-longitude: 3.104
+latitude: 50.389
+longitude: 3.105
 ---

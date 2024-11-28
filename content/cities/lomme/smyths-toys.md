@@ -1,5 +1,5 @@
 ---
-title: "Smyths toys"
+title: "Smyths Toys"
 url: /lomme/smyths-toys/
 shop: jouets
 ---
