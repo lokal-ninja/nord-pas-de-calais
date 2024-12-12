@@ -1,6 +1,6 @@
 ---
 title: Baisieux
 url: /baisieux/
-latitude: 50.61
-longitude: 3.247
+latitude: 50.616
+longitude: 3.234
 ---
