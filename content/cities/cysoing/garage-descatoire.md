@@ -1,5 +1,5 @@
 ---
 title: "Garage Descatoire"
 url: /cysoing/garage-descatoire/
-shop: voiture
+shop: réparation de voitures
 ---
