@@ -1,6 +1,6 @@
 ---
 title: Fruges
 url: /fruges/
-latitude: 50.508
-longitude: 2.133
+latitude: 50.514
+longitude: 2.135
 ---

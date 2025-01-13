@@ -1,5 +1,5 @@
 ---
-title: "boulangerie des francs"
+title: "Boulangerie des Francs"
 url: /tourcoing/boulangerie-des-francs/
 shop: boulangerie
 ---
