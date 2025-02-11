@@ -1,6 +1,6 @@
 ---
-title: Saint Pol sur Ternoise
+title: Saint-Pol-sur-Ternoise
 url: /saint-pol-sur-ternoise/
-latitude: 50.372
-longitude: 2.332
+latitude: 50.383
+longitude: 2.33
 ---
