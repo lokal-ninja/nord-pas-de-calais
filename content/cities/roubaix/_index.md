@@ -1,6 +1,6 @@
 ---
 title: Roubaix
 url: /roubaix/
-latitude: 50.693
-longitude: 3.173
+latitude: 50.69
+longitude: 3.172
 ---
