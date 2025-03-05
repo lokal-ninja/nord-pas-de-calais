@@ -1,6 +1,6 @@
 ---
 title: Bully-les-Mines
 url: /bully-les-mines/
-latitude: 50.45
-longitude: 2.721
+latitude: 50.448
+longitude: 2.718
 ---
