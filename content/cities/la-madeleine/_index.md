@@ -1,6 +1,6 @@
 ---
 title: La Madeleine
 url: /la-madeleine/
-latitude: 50.655
-longitude: 3.069
+latitude: 50.654
+longitude: 3.061
 ---
