@@ -1,5 +1,5 @@
 ---
 title: "Midas"
-url: /arras/midas-avenue-winston-churchill/
+url: /arras/midas-2/
 shop: réparation de voitures
 ---
