@@ -1,6 +1,6 @@
 ---
 title: Campigneulles-les-Petites
 url: /campigneulles-les-petites/
-latitude: 50.449
-longitude: 1.751
+latitude: 50.45
+longitude: 1.747
 ---

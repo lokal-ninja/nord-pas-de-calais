@@ -7,6 +7,6 @@ city: Lille
 street: Rue Pierre Legrand
 housenumber: "55"
 phone: +33 9 72 60 18 06
-opening_hours: Mo 10:00-14:00,15:30-20:00; Tu 15:30-20:00,10:00-14:00,15:30-20:00;
-    Sa 09:30-19:30; Su 10:00-12:30
+opening_hours: Mo, We-Fr 10:00-14:00, 15:30-20:00; Tu 15:30-20:00; Sa 09:30-19:30;
+    Su 10:00-12:30
 website: https://superquinquin.fr/

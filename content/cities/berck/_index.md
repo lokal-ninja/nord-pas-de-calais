@@ -2,5 +2,5 @@
 title: Berck
 url: /berck/
 latitude: 50.405
-longitude: 1.564
+longitude: 1.567
 ---

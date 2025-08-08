@@ -1,5 +1,5 @@
 ---
 title: "Gémo"
 url: /vendin-le-vieil/gemo/
-shop: vêtements
+shop: chaussures
 ---

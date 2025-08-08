@@ -1,5 +1,5 @@
 ---
-title: "le cygne"
+title: "Le cygne"
 url: /berck/le-cygne/
 shop: tabac
 ---

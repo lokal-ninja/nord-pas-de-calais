@@ -1,6 +1,6 @@
 ---
 title: Le Touquet-Paris-Plage
 url: /le-touquet-paris-plage/
-latitude: 50.524
-longitude: 1.586
+latitude: 50.522
+longitude: 1.584
 ---

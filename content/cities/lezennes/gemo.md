@@ -1,5 +1,5 @@
 ---
 title: "Gémo"
 url: /lezennes/gemo/
-shop: vêtements
+shop: chaussures
 ---

@@ -1,6 +1,6 @@
 ---
 title: Auchel
 url: /auchel/
-latitude: 50.504
-longitude: 2.468
+latitude: 50.518
+longitude: 2.454
 ---

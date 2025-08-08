@@ -1,6 +1,6 @@
 ---
 title: Merlimont
 url: /merlimont/
-latitude: 50.462
-longitude: 1.578
+latitude: 50.454
+longitude: 1.614
 ---

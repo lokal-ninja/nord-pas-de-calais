@@ -1,5 +1,5 @@
 ---
-title: "Comptoir des monnaies"
+title: "Comptoir des Monnaies"
 url: /douai/comptoir-des-monnaies/
 shop: collecteur
 ---

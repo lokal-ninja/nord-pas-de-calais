@@ -1,5 +1,5 @@
 ---
 title: "Les vélos de l'espoir"
 url: /ronchin/les-velos-de-lespoir/
-shop: shop
+shop: vélo
 ---
