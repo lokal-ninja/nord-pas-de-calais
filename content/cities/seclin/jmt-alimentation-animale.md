@@ -1,5 +1,5 @@
 ---
-title: "JMT - Alimentation Animale"
+title: "JMT Alimentation Animale"
 url: /seclin/jmt-alimentation-animale/
 shop: animal de compagnie
 ---
