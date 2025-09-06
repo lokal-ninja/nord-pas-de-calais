@@ -7,5 +7,6 @@ city: Cambrai
 street: Route de Marcoing
 housenumber: "25"
 phone: +33 3 62 27 93 07
-opening_hours: Mo-Fr 8:30-12:30,14:00-18:00; Sa 8:30-12:30,14:00-17:00
+opening_hours: Mo,Th-Fr 08:30-12:30,14:00-18:00; Tu-We 08:30-12:00,14:00-18:00; Sa
+    08:30-12:30,14:00-17:00; Su off
 website: ""
