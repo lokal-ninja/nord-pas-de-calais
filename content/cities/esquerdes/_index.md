@@ -1,6 +1,6 @@
 ---
 title: Esquerdes
 url: /esquerdes/
-latitude: 50.706
-longitude: 2.189
+latitude: 50.708
+longitude: 2.18
 ---

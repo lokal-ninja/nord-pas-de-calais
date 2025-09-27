@@ -7,6 +7,5 @@ city: Saint-Laurent-Blangy
 street: Rue René Cassin
 housenumber: "16"
 phone: "+33321242628"
-opening_hours: opening_hours=Mo-Th 06:30-12:00,13:30-17:00; Fr 06:30-12:00,13:30-16:30;
-    Sa-Su 00:00-00:00
+opening_hours: Mo-Th 06:30-12:00,13:30-17:00; Fr 06:30-12:00,13:30-16:30; Sa-Su 00:00-00:00
 website: https://www.sonepar.fr/fr-fr/store/arras-4BS
