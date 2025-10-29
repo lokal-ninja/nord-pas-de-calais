@@ -1,11 +1,12 @@
 id: 11429766379
 type: node
-latitude: 50.42036
-longitude: 3.10934
+latitude: 50.42032
+longitude: 3.10935
 postcode: "59286"
 city: Roost-Warendin
 street: Rue Jean Jaurès
 housenumber: "307"
 phone: +33 3 27 80 22 04
-opening_hours: ""
+opening_hours: Mo off; Tu-Fr 06:30-13:00,15:30-19:00; Sa 06:30-12:30,15:00-18:00;
+    Su off
 website: ""
