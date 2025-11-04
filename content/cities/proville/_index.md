@@ -1,6 +1,6 @@
 ---
 title: Proville
 url: /proville/
-latitude: 50.152
-longitude: 3.22
+latitude: 50.148
+longitude: 3.215
 ---
