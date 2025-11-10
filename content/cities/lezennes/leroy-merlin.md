@@ -1,5 +1,5 @@
 ---
 title: "Leroy Merlin"
-url: /villeneuve-dascq/leroy-merlin/
+url: /lezennes/leroy-merlin/
 shop: à faire soi-même
 ---
