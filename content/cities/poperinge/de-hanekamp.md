@@ -1,5 +1,5 @@
 ---
 title: "De Hanekamp"
-url: /abele/de-hanekamp/
+url: /poperinge/de-hanekamp/
 shop: alcool
 ---

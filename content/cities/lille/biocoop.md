@@ -1,5 +1,5 @@
 ---
 title: "BioCoop"
-url: /wavrin/biocoop/
+url: /lille/biocoop/
 shop: supermarché
 ---
