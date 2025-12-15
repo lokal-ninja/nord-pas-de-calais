@@ -1,5 +1,5 @@
 ---
-title: "Primeur Maison FELOUKI"
+title: "Primeur Maison Felouki"
 url: /auby/primeur-maison-felouki/
 shop: légumes
 ---
