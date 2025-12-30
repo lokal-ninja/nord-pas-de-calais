@@ -1,5 +1,5 @@
 ---
-title: "L'oiseau bleu"
+title: "L'Oiseau Bleu"
 url: /bapaume/loiseau-bleu/
 shop: vêtements
 ---
