@@ -2,5 +2,5 @@
 title: Haubourdin
 url: /haubourdin/
 latitude: 50.61
-longitude: 2.987
+longitude: 2.985
 ---
