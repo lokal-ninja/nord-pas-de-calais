@@ -1,5 +1,5 @@
 ---
 title: "Corep"
-url: /lille/corep-place-deliot/
+url: /lille/corep-boulevard-vauban/
 shop: copyshop
 ---

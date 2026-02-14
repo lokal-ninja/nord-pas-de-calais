@@ -1,6 +1,6 @@
 ---
-title: Aulnoy-lez-Valenciennes
+title: Aulnoy-Lez-Valenciennes
 url: /aulnoy-lez-valenciennes/
-latitude: 50.335
-longitude: 3.511
+latitude: 50.33
+longitude: 3.515
 ---

@@ -1,6 +1,6 @@
 ---
 title: Wambrechies
 url: /wambrechies/
-latitude: 50.687
-longitude: 3.053
+latitude: 50.689
+longitude: 3.067
 ---
