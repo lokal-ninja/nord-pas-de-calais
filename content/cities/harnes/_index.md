@@ -1,6 +1,6 @@
 ---
 title: Harnes
 url: /harnes/
-latitude: 50.454
-longitude: 2.903
+latitude: 50.448
+longitude: 2.866
 ---
