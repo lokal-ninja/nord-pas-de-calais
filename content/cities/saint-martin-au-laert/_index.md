@@ -1,6 +1,6 @@
 ---
 title: Saint-Martin-au-Laërt
 url: /saint-martin-au-laert/
-latitude: 50.76
-longitude: 2.227
+latitude: 50.756
+longitude: 2.233
 ---
