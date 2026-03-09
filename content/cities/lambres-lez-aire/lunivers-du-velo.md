@@ -1,5 +1,5 @@
 ---
 title: "L'Univers du Vélo"
-url: /lambres/lunivers-du-velo/
+url: /lambres-lez-aire/lunivers-du-velo/
 shop: vélo
 ---

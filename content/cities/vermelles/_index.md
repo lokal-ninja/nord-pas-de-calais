@@ -1,6 +1,6 @@
 ---
 title: Vermelles
 url: /vermelles/
-latitude: 50.479
-longitude: 2.735
+latitude: 50.489
+longitude: 2.743
 ---

@@ -1,6 +1,6 @@
 ---
 title: Aubers
 url: /aubers/
-latitude: 50.595
-longitude: 2.825
+latitude: 50.606
+longitude: 2.835
 ---
