@@ -1,5 +1,5 @@
 ---
-title: "KF.Barber"
+title: "KF. Barber"
 url: /lille/kf-barber/
 shop: coiffeur
 ---
