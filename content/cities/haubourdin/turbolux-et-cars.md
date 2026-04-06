@@ -1,5 +1,5 @@
 ---
 title: "Turbolux & Cars"
 url: /haubourdin/turbolux-et-cars/
-shop: voiture
+shop: pièces de voitures
 ---
