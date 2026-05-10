@@ -1,5 +1,5 @@
 ---
 title: "Giant"
-url: /englos/giant/
+url: /capinghem/giant/
 shop: vélo
 ---
