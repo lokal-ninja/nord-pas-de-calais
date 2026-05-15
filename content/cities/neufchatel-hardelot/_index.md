@@ -1,6 +1,6 @@
 ---
 title: Neufchâtel-Hardelot
 url: /neufchatel-hardelot/
-latitude: 50.633
-longitude: 1.582
+latitude: 50.632
+longitude: 1.584
 ---
