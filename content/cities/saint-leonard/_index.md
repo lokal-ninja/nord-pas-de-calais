@@ -1,6 +1,6 @@
 ---
 title: Saint-Léonard
 url: /saint-leonard/
-latitude: 50.698
+latitude: 50.696
 longitude: 1.609
 ---
