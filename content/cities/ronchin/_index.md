@@ -1,6 +1,6 @@
 ---
 title: Ronchin
 url: /ronchin/
-latitude: 50.607
-longitude: 3.077
+latitude: 50.599
+longitude: 3.081
 ---
