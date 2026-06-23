@@ -1,6 +1,6 @@
 ---
 title: Louvroil
 url: /louvroil/
-latitude: 50.261
-longitude: 3.96
+latitude: 50.267
+longitude: 3.964
 ---

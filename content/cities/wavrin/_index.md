@@ -1,6 +1,6 @@
 ---
 title: Wavrin
 url: /wavrin/
-latitude: 50.586
-longitude: 2.944
+latitude: 50.568
+longitude: 2.931
 ---
