@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /courrieres/carrefour/
-shop: supermarché
+shop: gaz
 ---
