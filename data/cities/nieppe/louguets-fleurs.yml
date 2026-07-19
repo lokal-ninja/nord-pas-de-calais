@@ -7,5 +7,6 @@ city: Nieppe
 street: ""
 housenumber: "3"
 phone: ""
-opening_hours: ""
+opening_hours: Mo-Tu 09:30-11:00,14:30-17:00; Th-Fr 09:30-12:00,14:30-19:00; Sa 09:00-12:30,14:00-19:00;
+    Su 09:30-12:30
 website: ""
