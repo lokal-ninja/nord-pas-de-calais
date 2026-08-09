@@ -1,6 +1,6 @@
 ---
 title: Neuville-sous-Montreuil
 url: /neuville-sous-montreuil/
-latitude: 50.473
-longitude: 1.775
+latitude: 50.476
+longitude: 1.773
 ---
