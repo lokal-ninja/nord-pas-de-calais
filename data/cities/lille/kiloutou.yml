@@ -7,5 +7,6 @@ city: Lille
 street: Rue de Turenne
 housenumber: 21 ter
 phone: "+33374097318"
-opening_hours: Mo-Fr 07:30-12:15,13:30-18:00; Sa 08:00-12:00,14:00-18:00
-website: https://www.kiloutou.fr/
+opening_hours: Mo 07:30-12:00,14:00-17:30; Tu 07:30-12:00,14:00-17:00; We-Th 07:30-12:00,14:00-17:30;
+    Fr 07:30-12:00,14:00-18:00
+website: https://www.kiloutou.fr/agences/hauts-de-france/nord/lille/0130/
