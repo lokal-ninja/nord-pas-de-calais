@@ -7,5 +7,6 @@ city: Valenciennes
 street: Boulevard Pater
 housenumber: 1 bis
 phone: ""
-opening_hours: Mo-Sa 08:30-19:30; Su 08:30-14:00
+opening_hours: Mo-Sa 08:30-19:30; Su 08:30-14:00; 2026 Nov 01,2026 Nov 11 08:30-19:00;
+    2026 Dec 24,2026 Dec 31 08:30-19:30; 2026 Dec 25 09:30-16:30; 2027 Jan 01 10:00-17:00
 website: ""

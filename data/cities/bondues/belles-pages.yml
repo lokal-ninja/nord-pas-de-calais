@@ -7,5 +7,5 @@ city: Bondues
 street: Rue du Bosquiel
 housenumber: "8"
 phone: +33 3 20 85 95 48
-opening_hours: Tu,Th,Fr 10:00-13:00, 14:00-19:00; Mo,Sa 10:00-19:00
-website: ""
+opening_hours: Tu,Th,Fr 10:00-13:00,14:00-19:00; We,Sa 10:00-19:00; Su 10:00-13:00
+website: https://librairiebellespages.fr

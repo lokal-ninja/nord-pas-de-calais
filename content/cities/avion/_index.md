@@ -1,6 +1,6 @@
 ---
 title: Avion
 url: /avion/
-latitude: 50.413
-longitude: 2.833
+latitude: 50.4
+longitude: 2.831
 ---
