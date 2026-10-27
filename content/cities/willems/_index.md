@@ -1,6 +1,6 @@
 ---
 title: Willems
 url: /willems/
-latitude: 50.631
-longitude: 3.237
+latitude: 50.626
+longitude: 3.235
 ---
