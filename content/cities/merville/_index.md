@@ -1,6 +1,6 @@
 ---
 title: Merville
 url: /merville/
-latitude: 50.647
-longitude: 2.633
+latitude: 50.643
+longitude: 2.639
 ---
