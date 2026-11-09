@@ -1,6 +1,6 @@
 ---
 title: Wailly-Beaucamp
 url: /wailly-beaucamp/
-latitude: 50.411
-longitude: 1.725
+latitude: 50.415
+longitude: 1.726
 ---
